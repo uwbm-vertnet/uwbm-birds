@@ -1,0 +1,354 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 4042
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 26
+	Country: Canada ; Times: 5
+	Country: Cyprus ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 4
+	Country: Germany ; Times: 14
+	Country: India ; Times: 3
+	Country: Israel ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Panama ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 181
+	Country: Unknown ; Times: 4
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 5
+	Date: 2015-03-03 ; Times: 13
+	Date: 2015-03-04 ; Times: 14
+	Date: 2015-03-05 ; Times: 12
+	Date: 2015-03-06 ; Times: 12
+	Date: 2015-03-07 ; Times: 4
+	Date: 2015-03-08 ; Times: 7
+	Date: 2015-03-09 ; Times: 11
+	Date: 2015-03-10 ; Times: 15
+	Date: 2015-03-11 ; Times: 17
+	Date: 2015-03-12 ; Times: 23
+	Date: 2015-03-13 ; Times: 17
+	Date: 2015-03-15 ; Times: 7
+	Date: 2015-03-16 ; Times: 17
+	Date: 2015-03-17 ; Times: 10
+	Date: 2015-03-18 ; Times: 12
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 9
+	Date: 2015-03-21 ; Times: 1
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-23 ; Times: 12
+	Date: 2015-03-24 ; Times: 5
+	Date: 2015-03-25 ; Times: 6
+	Date: 2015-03-26 ; Times: 5
+	Date: 2015-03-27 ; Times: 7
+	Date: 2015-03-28 ; Times: 3
+	Date: 2015-03-29 ; Times: 3
+	Date: 2015-03-30 ; Times: 9
+	Date: 2015-03-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dinemelli" ; Times: 1
+	Query: "Lanius excubitor tissue:1" ; Times: 1
+	Query: "colinus ridgwayi year >= 1950 year <= 2015" ; Times: 1
+	Query: "specificepithet:lafargei genus:Myzomela (tissue)" ; Times: 1
+	Query: ""Ficedula narcissina"" ; Times: 2
+	Query: "mallard" ; Times: 1
+	Query: "vidua macroura specificepithet:macroura genus:vidua tissue:1" ; Times: 1
+	Query: "Montezuma quail year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "chamaeza" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "oklahoma turner falls" ; Times: 1
+	Query: "pectoral sandpiper" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "stateprovince:"alaska" specificepithet:acuminata class:aves" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 3
+	Query: "camptostoma obsoletum tissue:1" ; Times: 1
+	Query: "Callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "aves country:"nicaragua" tissue:1" ; Times: 1
+	Query: "athene cunicularia tissue:1" ; Times: 2
+	Query: "Cotinga" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen mappable:1" ; Times: 1
+	Query: "country:"panama" (thryothorus modestus)" ; Times: 1
+	Query: "sicalis flaveola tissue" ; Times: 1
+	Query: "Lorius chlorocercus year >= 1990 year <= 2015" ; Times: 1
+	Query: "Aplonis metallica" ; Times: 2
+	Query: "meiglyptes" ; Times: 2
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua (Tissue) tissue:1" ; Times: 1
+	Query: "Pallid Harrier" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "manacus manacus tissue:1" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Turdus tissue:1" ; Times: 1
+	Query: "Tachycineta albilinea tissue:1" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "laysan albatross" ; Times: 5
+	Query: "type:specimen specificepithet:moluccensis genus:pitta" ; Times: 1
+	Query: "Anthus spinoletta tissue:1" ; Times: 1
+	Query: "Terpsiphone tissue:1" ; Times: 6
+	Query: "Megapodius eremita" ; Times: 1
+	Query: "country:"vanuatu" class:aves year >= 1990 year <= 2015" ; Times: 2
+	Query: "Callipepla douglasii year >= 1990 year <= 2015" ; Times: 1
+	Query: "type:specimen stateprovince:"Utah" (Bear River)" ; Times: 1
+	Query: "gavia immer" ; Times: 1
+	Query: "african turtle dove" ; Times: 1
+	Query: "cinnyricinclus leucogaster" ; Times: 3
+	Query: "trogon tenellus" ; Times: 1
+	Query: "eutamias" ; Times: 1
+	Query: "country:"japan" institutioncode:UWBM" ; Times: 3
+	Query: "roseate spoonbill" ; Times: 6
+	Query: "country:"greece" AND (NOT Mammalia NOT Bufo)" ; Times: 1
+	Query: "type:specimen stateprovince:"Nunavut" country:"Canada"" ; Times: 1
+	Query: "Ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "motacilla tissue:1" ; Times: 1
+	Query: "florence arizona" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "dendrortyx leucophrys" ; Times: 2
+	Query: "rhodopechys" ; Times: 1
+	Query: "Saxicola insignis tissue:1" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 3
+	Query: "Lesbia" ; Times: 1
+	Query: "catalognumber:74553 institutioncode:uwbm" ; Times: 1
+	Query: "Phylloscopus trochilus" ; Times: 1
+	Query: "Pygiptila stellaris" ; Times: 1
+	Query: "type:specimen specificepithet:vilissimus genus:zimmerius" ; Times: 1
+	Query: "Megapodius eremita year >= 1980 year <= 2015" ; Times: 1
+	Query: "Common Myna" ; Times: 2
+	Query: "Piping Plover" ; Times: 2
+	Query: "Lonchura cucullata specificepithet:cucullata genus:Lonchura tissue:1" ; Times: 1
+	Query: "Poicephalus kenya" ; Times: 2
+	Query: "specificepithet:elegans genus:Pitta" ; Times: 4
+	Query: "Pyrrhocorax graculus tissue:1" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "Lanius bucephalus" ; Times: 1
+	Query: "streaked shearwater" ; Times: 1
+	Query: "myzomela country:"Solomon Islands" institutioncode:UWBM" ; Times: 1
+	Query: "Myrmorchilus" ; Times: 2
+	Query: "odontophorus year >= 1980 year <= 2015" ; Times: 1
+	Query: "cyanocompsa cyanoides" ; Times: 1
+	Query: "Perisoreus tissue:1" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "bulla" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Trogon rufus type:specimen" ; Times: 1
+	Query: "specificepithet:chrysops genus:cyanocorax" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "specificepithet:anerythra genus:Pitta institutioncode:UWBM" ; Times: 2
+	Query: "UWBM 67477" ; Times: 1
+	Query: "Myiagra ferrocyanea year >= 1990 year <= 2015" ; Times: 1
+	Query: "Black swift mappable:1" ; Times: 1
+	Query: "specificepithet:chrysops genus:cyanocorax tissue:1" ; Times: 1
+	Query: "pauxi" ; Times: 1
+	Query: "Psittacula longicauda" ; Times: 8
+	Query: "amaurolimnas concolor" ; Times: 2
+	Query: "specificepithet:yncas genus:cyanocorax tissue:1" ; Times: 1
+	Query: "Pyrrhocorax tissue:1" ; Times: 2
+	Query: "pyriglena leuconota" ; Times: 1
+	Query: "rhynchortyx year >= 1980 year <= 2015" ; Times: 1
+	Query: "Perisoreus infaustus tissue:1" ; Times: 1
+	Query: "muscicapa striata" ; Times: 1
+	Query: "aves type:specimen country:"nicaragua" tissue:1" ; Times: 2
+	Query: "formicivora grisea tissue" ; Times: 1
+	Query: "bird skin sarawak" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Pulsatrix" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "dendrortyx macroura institutioncode:uwbm" ; Times: 1
+	Query: "cyrtonyx year >= 1980 year <= 2015" ; Times: 1
+	Query: "lamprotornis splendidus" ; Times: 3
+	Query: "colinus country:"mexico" year >= 1970 year <= 2015" ; Times: 1
+	Query: "chiroxiphia boliviana" ; Times: 1
+	Query: "lamprotornis nitens" ; Times: 2
+	Query: "genus:Fregata tissue:1" ; Times: 2
+	Query: "aquila United States (United States) tissue:1" ; Times: 1
+	Query: "coleoptera" ; Times: 1
+	Query: "genus:Pitta institutioncode:UWBM" ; Times: 1
+	Query: "Vireo atricapillus" ; Times: 1
+	Query: "Paradisaeidae year >= 1990 year <= 2015 tissue:1" ; Times: 1
+	Query: "pulsatrix" ; Times: 4
+	Query: "brown-headed nuthatch" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "Aplonis grandis year >= 1990 year <= 2015" ; Times: 1
+	Query: "passerina leclancherii" ; Times: 1
+	Query: "dendrortyx leucophrys guatemala" ; Times: 1
+	Query: "Knipolegus tissue:1" ; Times: 2
+	Query: "corvus corone" ; Times: 1
+	Query: "dendrortyx year >= 1980 year <= 2015" ; Times: 1
+	Query: ""Ficedula narcissina" institutioncode:UWBM mappable:1" ; Times: 1
+	Query: "semipalmated sandpiper" ; Times: 2
+	Query: "Chalcopsitta cardinalis year >= 1990 year <= 2015" ; Times: 1
+	Query: "strigilatus" ; Times: 1
+	Query: "nectarinia zeylonica" ; Times: 1
+	Query: "Tarsiger cyanurus" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "Molothrus oryzivora" ; Times: 1
+	Query: "rallus longirostris" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen (Skin) mappable:1" ; Times: 1
+	Query: "catalognumber:100738 institutioncode:uwbm" ; Times: 1
+	Query: "gray catbird" ; Times: 1
+	Query: "anthus spinoletta year >= 2000 tissue:1" ; Times: 1
+	Query: "cypseloides niger" ; Times: 2
+	Query: "catharus fuscescens burke museum" ; Times: 1
+	Query: "cyanocitta cristata tissue:1" ; Times: 1
+	Query: "cyanopica tissue:1" ; Times: 2
+	Query: "Trogon melanocephalus" ; Times: 1
+	Query: "Lanius bucephalus tissue:1" ; Times: 1
+	Query: "athene cunicularia tissue" ; Times: 1
+	Query: "aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "Charadrius melodus type:specimen tissue:1" ; Times: 2
+	Query: "catalognumber:67456 institutioncode:UWBM" ; Times: 1
+	Query: "thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "Sayornis saya type:specimen county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: ""Empidonax wrightii" county:"San Bernardino" class:Aves" ; Times: 1
+	Query: "riparia diluta tissue:1" ; Times: 1
+	Query: "Aplonis metallica year >= 1980 year <= 2015" ; Times: 1
+	Query: ""grallaria guatimalensis" type:specimen" ; Times: 1
+	Query: "woodpecker" ; Times: 2
+	Query: "onychognathus morio" ; Times: 1
+	Query: "toucan type:specimen tissue:1" ; Times: 1
+	Query: "Aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "(Menage OR Worcester OR Bourns) year <= 1900" ; Times: 1
+	Query: "veniliornis" ; Times: 1
+	Query: "micropsitta finschii" ; Times: 1
+	Query: "pipilo maculatus Klicka" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Stigmatura budytoides" ; Times: 1
+	Query: "Jynx" ; Times: 1
+	Query: "Lanius excubitor (tissue)" ; Times: 1
+	Query: "loggerhead shrike" ; Times: 1
+	Query: "aquila tissue:1" ; Times: 1
+	Query: "myiopsitta" ; Times: 1
+	Query: "Callipepla squamata country:"mexico"" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" class:aves year >= 1990 year <= 2010" ; Times: 3
+	Query: "specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen" ; Times: 1
+	Query: "Trogon rufus" ; Times: 2
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "genus:chamaeza tissue:1" ; Times: 1
+	Query: "Numenius tenuirostris" ; Times: 4
+	Query: "Ficedula institutioncode:UWBM" ; Times: 2
+	Query: "Aegolius ridgwayi" ; Times: 1
+	Query: "salpornis" ; Times: 1
+	Query: "Catharus year >= 1933 year <= 1933" ; Times: 1
+	Query: "specificepithet:affinis genus:cyanocorax tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:sibilator genus:Sirystes" ; Times: 1
+	Query: "UWBM 83608" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "cyanolyca tissue:1" ; Times: 1
+	Query: "ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "Lanius tigrinus tissue:1" ; Times: 1
+	Query: "tricholaema" ; Times: 1
+	Query: "Greece" ; Times: 1
+	Query: "conopophaga" ; Times: 1
+	Query: "St. Tammany Parish" ; Times: 1
+	Query: "cyanocorax yncas tissue:1" ; Times: 1
+	Query: "Chordeiles minor year <= 1905" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 298 download events in this period)
+Total number of records downloaded: 31804 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 29652
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 9
+	Country: Canada ; Times: 4
+	Country: Cyprus ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 18
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 6
+	Date: 2015-03-03 ; Times: 3
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-11 ; Times: 2
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 3
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptilinopus superbus year >= 1980 year <= 2015" ; Times: 1
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(43.01814269299076,-76.13525390625))<6530" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "amaurospiza concolor" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "laysan albatross" ; Times: 2
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "HYLOPHILUS FLAVIPES" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 742
+Total number of records retrieved from searches: 13471
+Number of download events that retrieved data from the resource: 151
+Total number of records downloaded: 48206
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1135
+Total number of records retrieved from searches: 19865
+Number of download events that retrieved data from the resource: 163
+Total number of records downloaded: 49311
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
