@@ -1,0 +1,365 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 287
+Number of records retrieved in searches: 4219
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: Brazil ; Times: 13
+	Country: Russia ; Times: 18
+	Country: Denmark ; Times: 6
+	Country: Puerto Rico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 198
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 13
+	Country: Switzerland ; Times: 8
+	Country: Japan ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 22
+	Date: 2016-01-05 ; Times: 12
+	Date: 2016-01-20 ; Times: 12
+	Date: 2016-01-21 ; Times: 21
+	Date: 2016-01-26 ; Times: 8
+	Date: 2016-01-27 ; Times: 6
+	Date: 2016-01-02 ; Times: 12
+	Date: 2016-01-03 ; Times: 8
+	Date: 2016-01-28 ; Times: 16
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 22
+	Date: 2016-01-09 ; Times: 10
+	Date: 2016-01-14 ; Times: 7
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-06 ; Times: 13
+	Date: 2016-01-19 ; Times: 9
+	Date: 2016-01-07 ; Times: 13
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-12 ; Times: 9
+	Date: 2016-01-11 ; Times: 8
+	Date: 2016-01-10 ; Times: 4
+	Date: 2016-01-17 ; Times: 7
+	Date: 2016-01-16 ; Times: 4
+	Date: 2016-01-15 ; Times: 10
+	Date: 2016-01-01 ; Times: 7
+	Date: 2016-01-30 ; Times: 6
+	Date: 2016-01-24 ; Times: 6
+	Date: 2016-01-25 ; Times: 17
+	Date: 2016-01-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Passerina versicolor&#34; type:specimen tissue:1" ; Times: 1
+	Query: "Anas superciliosa tissue:1" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 2
+	Query: "specificepithet:baeri genus:poospiza tissue:1" ; Times: 1
+	Query: "long eared owl" ; Times: 3
+	Query: "Passeriformes type:specimen stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; year &gt;= 2005 year &lt;= 2015" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "paradisaea tissue:1" ; Times: 1
+	Query: "&#34;Passerina versicolor&#34; type:specimen" ; Times: 1
+	Query: "genus:Ictinia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "thamnophilus doliatus institutioncode:UWBM" ; Times: 1
+	Query: "eggs minnesota bird" ; Times: 2
+	Query: "pharomachrus type:specimen" ; Times: 2
+	Query: "Pheucticus tibialis type:specimen" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "syndactyla subalaris" ; Times: 1
+	Query: "class:aves type:specimen stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; year &gt;= 2005 year &lt;= 2015" ; Times: 1
+	Query: "class:aves country:&#34;venezuela&#34;" ; Times: 1
+	Query: "vireo huttoni year &gt;= 1900 year &lt;= 1930 institutioncode:UWBM" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "paradisaea year &gt;= 1980 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "&#34;Xenops rutilans&#34;" ; Times: 1
+	Query: "&#34;Pyriglena leuconota&#34;" ; Times: 1
+	Query: "leucistic" ; Times: 1
+	Query: "struthio tissue:1" ; Times: 1
+	Query: "Pterocles alchata mappable:1" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "pitta anerythra" ; Times: 2
+	Query: "casiornis" ; Times: 1
+	Query: "Least Storm-Petrel" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-108.937516))&lt;15000" ; Times: 1
+	Query: "genus:ketupa tissue:1" ; Times: 2
+	Query: "Goodall" ; Times: 1
+	Query: "Boreal Owl" ; Times: 1
+	Query: "Tadorna Tadorna" ; Times: 2
+	Query: "Psittacula roseata" ; Times: 3
+	Query: "jaguar" ; Times: 1
+	Query: "79-64" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus year &gt;= 2000 year &lt;= 2015 institutioncode:UWBM" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "Prairie Warbler tissue:1" ; Times: 1
+	Query: "Empidonax occidentalis tissue:1" ; Times: 1
+	Query: "rhipidura brachyrhyncha" ; Times: 2
+	Query: "anas formosa tissue:1" ; Times: 1
+	Query: "specificepithet:spurius genus:icterus (veracruz) year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "Pagophila tissue:1" ; Times: 3
+	Query: "specificepithet:militaris genus:Ara" ; Times: 1
+	Query: "specificepithet:inexpectata stateprovince:&#34;alaska&#34;" ; Times: 3
+	Query: "snakes" ; Times: 2
+	Query: "distance(location,geopoint(23.989036,-106.557516))&lt;15000" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "salmonid" ; Times: 2
+	Query: "class:Aves country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "specificepithet:lugubris genus:Surniculus tissue:1" ; Times: 1
+	Query: "turnicidae tissue" ; Times: 1
+	Query: "skeleton type:specimen family:Ardeidae institutioncode:UWBM" ; Times: 1
+	Query: "type:specimen genus:Metriopelia preparations:wing" ; Times: 1
+	Query: "thamnophilus nigriceps type:specimen year &gt;= 1965" ; Times: 1
+	Query: "Tree Swallow" ; Times: 2
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "type:specimen catalognumber:61351 institutioncode:UWBM" ; Times: 1
+	Query: "resplendent quetzal" ; Times: 2
+	Query: "mummy" ; Times: 11
+	Query: "anas capensis tissue:1" ; Times: 1
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "Oceanodroma homochroa 1896" ; Times: 1
+	Query: "genus:Turnix tissue:1" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "&#34;Lepidocolaptes lacrymiger&#34;" ; Times: 1
+	Query: "motacilla grandis" ; Times: 1
+	Query: "UWBM 66117" ; Times: 1
+	Query: "specificepithet:scolopacea genus:Eudynamys tissue:1" ; Times: 1
+	Query: "oncostoma olivaceum institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "Falco naumanni" ; Times: 2
+	Query: "monster" ; Times: 11
+	Query: "suaveolens" ; Times: 1
+	Query: "distance(location,geopoint(28.239036,-108.937516))&lt;15000" ; Times: 1
+	Query: "Ammodramus humeralis" ; Times: 1
+	Query: "specificepithet:opisthomelas genus:puffinus" ; Times: 1
+	Query: "willow flycatcher" ; Times: 1
+	Query: "type:specimen (Anisognathus flavinuchus)" ; Times: 1
+	Query: "spotted owl" ; Times: 4
+	Query: "6977" ; Times: 1
+	Query: "&#34;Iridosornis analis&#34;" ; Times: 1
+	Query: "Pitangus sulphuratus argentina" ; Times: 1
+	Query: "specificepithet:taitensis genus:Eudynamys tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.957516))&lt;15000" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:&#34;washington&#34; preparations:round" ; Times: 1
+	Query: "Ammodramus humeralis mappable:1 tissue:1" ; Times: 2
+	Query: "specificepithet:hirundinacea genus:Sterna" ; Times: 2
+	Query: "blue penguin" ; Times: 3
+	Query: "&#34;Mionectes striaticollis&#34;" ; Times: 1
+	Query: "Spotted Owl" ; Times: 1
+	Query: "apapane" ; Times: 2
+	Query: "specificepithet:inexpectata stateprovince:&#34;alaska&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Cyphorhinus tissue:1" ; Times: 1
+	Query: "MEXICAN DUCK" ; Times: 1
+	Query: "&#34;Mionectes olivaceus&#34;" ; Times: 1
+	Query: "black rail" ; Times: 2
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "long-eared owl" ; Times: 6
+	Query: "struthio type:specimen tissue:1" ; Times: 2
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "house finch" ; Times: 5
+	Query: "specificepithet:carolinus genus:melanerpes class:Aves stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Anas gibberifrons tissue:1" ; Times: 1
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 1
+	Query: "wilsonia pusilla (guatemala) month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "116441" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1940 year &lt;= 1940 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "suaveolens type:specimen" ; Times: 1
+	Query: "skin genus: Phrygilus sex:male" ; Times: 1
+	Query: "actenoides" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "Pionus sordidus" ; Times: 1
+	Query: "&#34;Heliangelus viola&#34;" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Pachycephala orioloides" ; Times: 1
+	Query: "myrmeciza laemosticta type:specimen year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "skeleton type:specimen class:Aves year &gt;= 2000 year &lt;= 2015 institutioncode:UWBM" ; Times: 1
+	Query: "stateprovince:&#34;Kansas&#34; year &gt;= 2005 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "pachyramphus polychopterus institutioncode:UWBM" ; Times: 1
+	Query: "cm 4446" ; Times: 1
+	Query: "type:specimen family:Turdidae (poliocephalus)" ; Times: 2
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "Columbiformes &#34;costa rica&#34; mappable:1" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "anas falcata tissue:1" ; Times: 1
+	Query: "Psaltriparus minimus year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "dicrurus leucophaeus" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "anas bahamensis tissue:1" ; Times: 1
+	Query: "bald eagle UWBM" ; Times: 1
+	Query: "type:specimen specificepithet:carbo genus:Phalacrocorax preparations:skeleton institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:spurius genus:icterus year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 1
+	Query: "Pachycephala simplex" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "genus:piculus" ; Times: 1
+	Query: "Crex crex type:specimen tissue:1" ; Times: 1
+	Query: "&#34;Coeligena coeligena&#34;" ; Times: 1
+	Query: "pine siskin" ; Times: 1
+	Query: "family:Ardeidae institutioncode:UWBM" ; Times: 3
+	Query: "Rhipidura rufifrons tissue:1" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "Pachycephala melanura" ; Times: 1
+	Query: "Pheucticus tibialis type:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus year &gt;= 2000 year &lt;= 2015" ; Times: 2
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "oriolus chinensis" ; Times: 1
+	Query: "Tachycineta bicolor nest" ; Times: 1
+	Query: "macaw" ; Times: 1
+	Query: "Catharus dryas Guatemala" ; Times: 1
+	Query: "manacus vitellinus" ; Times: 2
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Cinclosoma punctatum" ; Times: 1
+	Query: "skin genus: Coereba sex:male" ; Times: 1
+	Query: "anas sparsa" ; Times: 1
+	Query: "&#34;Thamnophilus caerulescens&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa 1886" ; Times: 1
+	Query: "skin genus: Saltatricula sex:male" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 7
+	Query: "specificepithet:leucocephalus genus:Haliaeetus preparations:round OR skin year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "geotrygon" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "nuts" ; Times: 1
+	Query: "Pterocles year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "willet" ; Times: 1
+	Query: "furnarius" ; Times: 1
+	Query: "Pterocles year &gt;= 1980 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "Ptilorrhoa castanonota" ; Times: 2
+	Query: "Haliaeetus leucocephalus washington" ; Times: 1
+	Query: "Ammodramus humeralis tissue:1" ; Times: 1
+	Query: "Anas gracilis tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:atriceps genus:Phalacrocorax preparations:skeleton institutioncode:UWBM" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "distance(location,geopoint(26.369036,-108.767516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Strepera tissue:1" ; Times: 1
+	Query: "euplectes jacksoni" ; Times: 1
+	Query: "catalognumber:38170 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "Ixoreus naevius month &gt;= 6 month &lt;= 6" ; Times: 2
+	Query: "kingfisher solomon" ; Times: 1
+	Query: "specificepithet:spurius genus:icterus (veracruz) AND (NOT song) year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "kingfisher guadalcanal" ; Times: 1
+	Query: "myrmeciza laemosticta type:specimen sex:male year &gt;= 1965" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "genus:halcyon chelicuti tissue:1" ; Times: 1
+	Query: "Aimophila ruficauda" ; Times: 3
+	Query: "Juniperus" ; Times: 1
+	Query: "pagophila" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 507 download events in this period)
+Total number of records downloaded: 1419
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 58
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-01 ; Times: 13
+	Date: 2016-01-02 ; Times: 17
+	Date: 2016-01-25 ; Times: 8
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ramphastos toco" ; Times: 2
+	Query: "Anabacerthia striaticollis" ; Times: 1
+	Query: "&#34;Diglossa cyanea&#34;" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "wilsonia pusilla month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Picoides fumigatus&#34;" ; Times: 1
+	Query: "&#34;Thraupis cyanocephala&#34;" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "&#34;aves&#34; and &#34;Michoacan&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "&#34;Contopus fumigatus&#34;" ; Times: 1
+	Query: "skin genus: Saltatricula sex:male" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "skin genus: Mitrospingus sex:male" ; Times: 1
+	Query: "&#34;Tangara vassorii&#34;" ; Times: 1
+	Query: "class:aves type:specimen stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; year &gt;= 2005 year &lt;= 2015" ; Times: 2
+	Query: "aechmophorus" ; Times: 1
+	Query: "&#34;Heliangelus viola&#34;" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "&#34;Myiarchus cephalotes&#34;" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "skin genus: Lanio sex:male" ; Times: 1
+	Query: "&#34;Lepidocolaptes lacrymiger&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "&#34;Euphonia xanthogaster&#34;" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "&#34;Myioborus miniatus&#34;" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: "&#34;Trogon personatus&#34;" ; Times: 1
+	Query: "&#34;Syndactyla rufosuperciliata&#34;" ; Times: 1
+	Query: "&#34;Doryfera ludovicae&#34;" ; Times: 1
+	Query: "&#34;Xenops rutilans&#34;" ; Times: 1
+	Query: "skin genus: Tersina sex:male" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "skin genus: Coryphospingus sex:male" ; Times: 1
+	Query: "genus:haliaeetus year &gt;= 1996 year &lt;= 2015" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "skin genus: Iridosornis sex:male" ; Times: 1
+	Query: "&#34;Platyrinchus mystaceus&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Crex crex type:specimen tissue:1" ; Times: 1
+	Query: "&#34;Entomodestes leucotis&#34;" ; Times: 1
+	Query: "&#34;Coeligena coeligena&#34;" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "&#34;Premnoplex brunnescens&#34;" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "&#34;Tangara xanthocephala&#34;" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "&#34;Myrmotherula schisticolor&#34;" ; Times: 1
+	Query: "&#34;Iridosornis analis&#34;" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(10.624617026439392,-85.67138671875))&lt;19662" ; Times: 1
+
+
+End of report.
