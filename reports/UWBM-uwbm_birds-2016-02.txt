@@ -1,0 +1,364 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 318
+Number of records retrieved in searches: 3752
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 9
+	Country: Denmark ; Times: 4
+	Country: Mexico ; Times: 56
+	Country: Unknown ; Times: 12
+	Country: Puerto Rico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 15
+	Country: Germany ; Times: 17
+	Country: Colombia ; Times: 1
+	Country: Iceland ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: United States ; Times: 176
+	Country: Russia ; Times: 10
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 10
+	Date: 2016-02-22 ; Times: 9
+	Date: 2016-02-18 ; Times: 16
+	Date: 2016-02-19 ; Times: 37
+	Date: 2016-02-12 ; Times: 11
+	Date: 2016-02-13 ; Times: 10
+	Date: 2016-02-10 ; Times: 6
+	Date: 2016-02-11 ; Times: 15
+	Date: 2016-02-16 ; Times: 17
+	Date: 2016-02-17 ; Times: 9
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-29 ; Times: 14
+	Date: 2016-02-09 ; Times: 5
+	Date: 2016-02-08 ; Times: 14
+	Date: 2016-02-21 ; Times: 7
+	Date: 2016-02-20 ; Times: 12
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 9
+	Date: 2016-02-25 ; Times: 11
+	Date: 2016-02-24 ; Times: 16
+	Date: 2016-02-01 ; Times: 11
+	Date: 2016-02-03 ; Times: 11
+	Date: 2016-02-02 ; Times: 15
+	Date: 2016-02-05 ; Times: 10
+	Date: 2016-02-04 ; Times: 15
+	Date: 2016-02-07 ; Times: 5
+	Date: 2016-02-06 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo jamaicensis type:specimen year &gt;= 1920 year &lt;= 1960 institutioncode:UWBM" ; Times: 1
+	Query: "Xiphorhynchus flavigaster tissue:1" ; Times: 1
+	Query: "LSUMZ" ; Times: 1
+	Query: "plocepasser tissue:1" ; Times: 2
+	Query: "&#34;W. E. D. Scott&#34; recordedby:Scott" ; Times: 1
+	Query: "Megadyptes" ; Times: 1
+	Query: "Ailuroedus tissue:1" ; Times: 1
+	Query: "genus:Ploceus tissue:1" ; Times: 5
+	Query: "sublegatus tissue:1" ; Times: 1
+	Query: "glaucidium capense tissue:1" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 3
+	Query: "mitrephanes tissue:1" ; Times: 1
+	Query: "Tolmomyias sulphurescens tissue:1" ; Times: 2
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Sporopipes tissue:1" ; Times: 1
+	Query: "catharus fuscescens tissue:1" ; Times: 1
+	Query: "Crateroscelis" ; Times: 1
+	Query: "monterey Sitta pygmaea" ; Times: 1
+	Query: "49988 (Sphyrapicus nuchalis) institutioncode:UWBM" ; Times: 1
+	Query: "1900 jackson" ; Times: 1
+	Query: "specificepithet:abbas genus:Thraupis tissue:1" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "luctuosus tissue:1" ; Times: 1
+	Query: "Tmetothylacus tenellus" ; Times: 1
+	Query: "myzomela malaitae" ; Times: 1
+	Query: "larus fuscus" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "St. Lucia" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "metriopelia morenoi" ; Times: 3
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "aphelocoma californica type:specimen country:&#34;mexico&#34; mappable:1" ; Times: 1
+	Query: "treron pompadora" ; Times: 5
+	Query: "myzomela eichhorni" ; Times: 3
+	Query: "80729" ; Times: 2
+	Query: "lepidocolaptes souleyetii mappable:1" ; Times: 1
+	Query: "uwbm 81701" ; Times: 1
+	Query: "Anas gibberifrons" ; Times: 4
+	Query: "SBMNH" ; Times: 1
+	Query: "Geothlypis poliocephala tissue:1" ; Times: 2
+	Query: "buteo jamaicensis year &gt;= 1920 year &lt;= 1960 institutioncode:UWBM" ; Times: 1
+	Query: "poliocephalus tissue:1" ; Times: 1
+	Query: "sieboldii" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "Xiphorhynchus erythropygius tissue:1" ; Times: 1
+	Query: "Vireo vicinior" ; Times: 1
+	Query: "anhimidae" ; Times: 1
+	Query: "Rallidae (Rallidae AND woodfordi)" ; Times: 1
+	Query: "Falco mexicanus eggs" ; Times: 1
+	Query: "Armbruster" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus mappable:1 tissue:1" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "Catharus aurantiirostris tissue" ; Times: 1
+	Query: "aviceda jerdoni" ; Times: 2
+	Query: "specificepithet:baeri genus:Poospiza" ; Times: 1
+	Query: "ptilinopus rarotongensis" ; Times: 3
+	Query: "49001 (Sphyrapicus nuchalis) institutioncode:UWBM" ; Times: 1
+	Query: "Murre" ; Times: 2
+	Query: "55253" ; Times: 1
+	Query: "ketupa type:specimen" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "myiarchus nuttingi tissue:1" ; Times: 1
+	Query: "Royal Alberta Museum" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "Phalacrocorax penicillatus institutioncode:UWBM" ; Times: 1
+	Query: "megapodius layardi" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 1
+	Query: "colaptes auratus tissue:1" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 6
+	Query: "Chlamydera tissue:1" ; Times: 1
+	Query: "Psittacidae stomach" ; Times: 3
+	Query: "locality:Rochester county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "specificepithet:Melania genus:Oceanodroma mappable:1" ; Times: 1
+	Query: "class:aves country:&#34;united states&#34; recordedby:wheeler" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "Poicephalus Kenya" ; Times: 2
+	Query: "Rallidae (Rallidae AND tabuensis)" ; Times: 1
+	Query: "(77476) institutioncode:UWBM" ; Times: 1
+	Query: "vireo flavoviridis" ; Times: 1
+	Query: "mottled duck" ; Times: 1
+	Query: "muscicapa ruficauda" ; Times: 2
+	Query: "genus:Stercorarius tissue:1" ; Times: 1
+	Query: "pheucticus tibialis tissue:1" ; Times: 1
+	Query: "101225" ; Times: 1
+	Query: "Plocepasser tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:saturatus genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "henicorhina leucosticta" ; Times: 1
+	Query: "snow goose" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Poicephalus" ; Times: 3
+	Query: "perisoreus infaustus tissue:1" ; Times: 2
+	Query: "Saltator atriceps tissue:1" ; Times: 1
+	Query: "Varied thrush" ; Times: 1
+	Query: "momotus momota" ; Times: 1
+	Query: "pycnonotus atriceps" ; Times: 1
+	Query: "black rail" ; Times: 3
+	Query: "lepidocolaptes souleyetii tissue:1" ; Times: 1
+	Query: "ara militaris" ; Times: 8
+	Query: "gymnomystax brazil" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "tympanuchus cupido cupido" ; Times: 1
+	Query: "wasp" ; Times: 1
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "francolinus afer malawi" ; Times: 1
+	Query: "Aves North Reef" ; Times: 2
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "distance(location,geopoint(25.935817142040126,-80.22663116455078))&lt;12098.115330222452" ; Times: 1
+	Query: "Gavia adamsii" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "Petronia superciliaris tissue:1" ; Times: 1
+	Query: "ficedula parva" ; Times: 1
+	Query: "Chiroxiphia boliviana" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "&#34;W E D Scott&#34; recordedby:Scott" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "egg anacapa type:specimen" ; Times: 1
+	Query: "Cyanocompsa parellina tissue:1" ; Times: 1
+	Query: "Rallidae (Rallidae AND atra)" ; Times: 1
+	Query: "Ficedula parva" ; Times: 1
+	Query: "79033 (Sphyrapicus nuchalis) institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:Poospiza tissue:1" ; Times: 1
+	Query: "specificepithet:bouvreuil genus:Sporophila tissue:1" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Luscinia pectoralis" ; Times: 1
+	Query: "Thalassarche steadi" ; Times: 1
+	Query: "veniliornis tissue:1" ; Times: 1
+	Query: "guttatus virginia" ; Times: 2
+	Query: "cardinalis cardinalis tissue:1" ; Times: 1
+	Query: "brachyura" ; Times: 1
+	Query: "genus:aquila stateprovince:Nevada year&gt;= 1900" ; Times: 2
+	Query: "red crossbill" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "Sittasomus griseicapillus tissue:1" ; Times: 2
+	Query: "pterocles senegallus" ; Times: 1
+	Query: "amandava amandava" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "phylloscopus tissue:1" ; Times: 1
+	Query: "philentoma" ; Times: 1
+	Query: "Vireo vicinior tissue:1" ; Times: 1
+	Query: "92828" ; Times: 1
+	Query: "bostrychia olivacea" ; Times: 2
+	Query: "burrowing owl" ; Times: 1
+	Query: "euplectes tissue:1" ; Times: 1
+	Query: "dragonfly" ; Times: 1
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "black-legged kittiwake" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "95118" ; Times: 1
+	Query: "bellii tissue:1" ; Times: 2
+	Query: "ortalis wagleri year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "Carpodacus erythrinus tissue:1" ; Times: 2
+	Query: "vireo flavoviridis type:specimen tissue:1" ; Times: 1
+	Query: "crypturellus undulatus" ; Times: 1
+	Query: "apus barbatus" ; Times: 2
+	Query: "genus:Cerorhinca tissue:1" ; Times: 1
+	Query: "Thraupis episcopus type:specimen tissue:1" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "85284 (Sphyrapicus nuchalis) institutioncode:UWBM" ; Times: 1
+	Query: "ploceus intermedius tissue:1" ; Times: 1
+	Query: "specificepithet:brachyrhyncha genus:Rhipidura" ; Times: 2
+	Query: "threskiornis melanocephalus" ; Times: 4
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "Quetzal" ; Times: 1
+	Query: "Mottled duck" ; Times: 1
+	Query: "onychorhynchus tissue:1" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 30
+	Query: "Pitta brachyura type:specimen" ; Times: 1
+	Query: "type:specimen institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "cardinalis tissue:1" ; Times: 2
+	Query: "Piranga ludoviciana lsu" ; Times: 1
+	Query: "&#34;W E D Scott&#34;" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Accipiter imitator" ; Times: 1
+	Query: "Vireo vicinior year &gt;= 1940 year &lt;= 2016" ; Times: 1
+	Query: "genus:Alca tissue:1" ; Times: 1
+	Query: "catalognumber:67850 tissue:1" ; Times: 1
+	Query: "trogon citreolus citreolus" ; Times: 2
+	Query: "&#34;W. E. D. Scott&#34;" ; Times: 1
+	Query: "uwbm 30055" ; Times: 2
+	Query: "33903" ; Times: 1
+	Query: "caprimulgus macrurus" ; Times: 1
+	Query: "Tympanuchus pallidicinctus 1" ; Times: 1
+	Query: "Sporophila torqueola tissue:1" ; Times: 1
+	Query: "american three-toed woodpecker" ; Times: 1
+	Query: "Calcarius mccownii tissue:1" ; Times: 1
+	Query: "Pitta moluccensis type:specimen" ; Times: 1
+	Query: "Melilestes megarhynchus" ; Times: 1
+	Query: "trogon mexicanus" ; Times: 1
+	Query: "uwbm 82277" ; Times: 1
+	Query: "uwbm 44382" ; Times: 2
+	Query: "monster" ; Times: 5
+	Query: "genus:bubo stateprovince:Nevada year&gt;= 1900" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "tachyeres" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "country:&#34;Bolivia&#34; recordedby:Schmitt year &gt;= 1979 year &lt;= 1979" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 512 download events in this period)
+Total number of records downloaded: 6695
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 45
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-01 ; Times: 2
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-13 ; Times: 2
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 4
+	Date: 2016-02-19 ; Times: 5
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 6
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 3
+	Date: 2016-02-05 ; Times: 5
+	Date: 2016-02-29 ; Times: 8
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "county:&#34;Valley&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "College of Forest Resources institutioncode:UWBM" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "capito" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "sculpin" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Poicephalus meyeri" ; Times: 1
+	Query: "class:Aves locality:Rochester county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 4
+	Query: "Strigidae" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1936 year &lt;= 1937" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Yukon&#34; country:&#34;Canada&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Malaita&#34; country:&#34;Solomon Islands&#34; year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "Cyanocompsa parellina tissue:1" ; Times: 1
+	Query: "Aves Andaman" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1920 year &lt;= 1926 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "Icterus gularis tissue:1" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1940 year &lt;= 1946 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Hendee" ; Times: 1
+	Query: "poliocephalus tissue:1" ; Times: 1
+	Query: "Sporophila torqueola tissue:1" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
