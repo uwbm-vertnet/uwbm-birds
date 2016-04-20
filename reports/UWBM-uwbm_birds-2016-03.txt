@@ -1,0 +1,209 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 3493
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 5
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 100
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 7
+	Date: 2016-03-02 ; Times: 16
+	Date: 2016-03-03 ; Times: 15
+	Date: 2016-03-01 ; Times: 13
+	Date: 2016-03-08 ; Times: 10
+	Date: 2016-03-09 ; Times: 13
+	Date: 2016-03-06 ; Times: 8
+	Date: 2016-03-07 ; Times: 9
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 15
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-13 ; Times: 16
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ceyx erithacus" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "locality:Concepcion country:&#34;Argentina&#34;" ; Times: 1
+	Query: "sittasomus mappable:1" ; Times: 1
+	Query: "northern bobwhite" ; Times: 2
+	Query: "95588" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Russia&#34; year &gt;= 1995 year &lt;= 1998" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Falco sparverius type:specimen institutioncode:UWBM" ; Times: 2
+	Query: "class:Aves country:&#34;Norway&#34; year &gt;= 1995 year &lt;= 2011 tissue:1" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "pine warbler egg" ; Times: 1
+	Query: "hermit thrush month &gt;= 5 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "gregg" ; Times: 2
+	Query: "monterrey distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "Thalassoica antarctica tissue:1" ; Times: 1
+	Query: "catharus minimus month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "diglossa baritula" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 2
+	Query: "PB 47" ; Times: 1
+	Query: "hermit thrush tissue:1" ; Times: 2
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "class:Aves country:&#34;Nicaragua&#34;" ; Times: 7
+	Query: "anthus nilghiriensis" ; Times: 1
+	Query: "UWBM 70800" ; Times: 1
+	Query: "post stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "Cliff Swallow" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen year &gt;= 2000 year &lt;= 2016 institutioncode:UWBM" ; Times: 1
+	Query: "tiaris obscura" ; Times: 1
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 1
+	Query: "accession file 2003-142" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "gray-cheeked thrush" ; Times: 1
+	Query: "Charmosyna papou tissue:1" ; Times: 1
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Colibri thalassinus (bill)" ; Times: 1
+	Query: "vermilion flycatcher" ; Times: 3
+	Query: "class:Aves country:&#34;Norway&#34; year &gt;= 1995 year &lt;= 2011" ; Times: 1
+	Query: "Black jacana" ; Times: 2
+	Query: "elf" ; Times: 4
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "starry flounder" ; Times: 1
+	Query: "class:Aves country:&#34;Russia&#34; year &gt;= 1995 year &lt;= 2011" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "Labrador type:specimen specificepithet:magnolia genus:Dendroica" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Chlamydera year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "picumnus cirratus" ; Times: 1
+	Query: "grouse egg minnesota" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (clutch OR egg OR eggs)" ; Times: 3
+	Query: "bonasa umbellus year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 2
+	Query: "tufted titmouse" ; Times: 1
+	Query: "Pachyramphus aglaiae tissue:1" ; Times: 1
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "Puffinus auricularis" ; Times: 1
+	Query: "veery" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34; year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "&#34;W.E.D. Scott&#34;" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "dicrurus macrocercus" ; Times: 1
+	Query: "(A.B. Howell)" ; Times: 1
+	Query: "Aechmophorus clarkii" ; Times: 3
+	Query: "&#34;I.McT. Cowan&#34;" ; Times: 2
+	Query: "marbled murrelet" ; Times: 3
+	Query: "116352" ; Times: 2
+	Query: "dicrurus adsimilis" ; Times: 1
+	Query: "hermit thrush" ; Times: 2
+	Query: "Aves (Bolivia)" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "synallaxis type:specimen tissue:1" ; Times: 1
+	Query: "Falco sparverius month &gt;= 4 month &lt;= 8 institutioncode:UWBM" ; Times: 1
+	Query: "lichen" ; Times: 1
+	Query: "Diomedea antipodensis (tarsus)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34; year &gt;= 1876 year &lt;= 1900" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 2
+	Query: "Passerculus sandwichensis (bill)" ; Times: 2
+	Query: "killdeer" ; Times: 2
+	Query: "otus continent:Asia tissue:1" ; Times: 2
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "(sterna paradisaea) year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Common Merganser" ; Times: 1
+	Query: "type:specimen (A.B. Howell) year &gt;= 1905 year &lt;= 1917" ; Times: 1
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1876 year &lt;= 1890" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "volcan baru" ; Times: 1
+	Query: "otus tissue:1" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "genus:sterna (sterna paradisaea) year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "golden trout" ; Times: 1
+	Query: "Northern bobwhite" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 230 download events in this period)
+Total number of records downloaded: 2005746
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 59
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-01 ; Times: 8
+	Date: 2016-03-08 ; Times: 6
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 7
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1949" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "Limoncocha" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Russia&#34; year &gt;= 1999 year &lt;= 2005" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "volcan baru" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+
+
+End of report.
