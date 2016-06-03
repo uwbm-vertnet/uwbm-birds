@@ -1,0 +1,288 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 242
+Number of records retrieved in searches: 3063
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 16
+	Country: Czech Republic ; Times: 2
+	Country: Mexico ; Times: 31
+	Country: Denmark ; Times: 2
+	Country: Panama ; Times: 3
+	Country: India ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 130
+	Country: Malaysia ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: China ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 8
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 9
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-17 ; Times: 3
+	Date: 2016-05-16 ; Times: 4
+	Date: 2016-05-15 ; Times: 6
+	Date: 2016-05-14 ; Times: 4
+	Date: 2016-05-13 ; Times: 13
+	Date: 2016-05-12 ; Times: 17
+	Date: 2016-05-11 ; Times: 11
+	Date: 2016-05-10 ; Times: 7
+	Date: 2016-05-31 ; Times: 11
+	Date: 2016-05-30 ; Times: 6
+	Date: 2016-05-08 ; Times: 22
+	Date: 2016-05-09 ; Times: 4
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-03 ; Times: 3
+	Date: 2016-05-04 ; Times: 6
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-06 ; Times: 2
+	Date: 2016-05-07 ; Times: 9
+	Date: 2016-05-26 ; Times: 21
+	Date: 2016-05-27 ; Times: 28
+	Date: 2016-05-24 ; Times: 5
+	Date: 2016-05-25 ; Times: 10
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 4
+	Date: 2016-05-20 ; Times: 7
+	Date: 2016-05-21 ; Times: 5
+	Date: 2016-05-28 ; Times: 3
+	Date: 2016-05-29 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "Ardea herodias herodias year &gt;= 2012 year &lt;= 2016 institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "Synthliboramphus antiquus AND Island" ; Times: 1
+	Query: "curruca" ; Times: 1
+	Query: "aves Polioptila nigriceps 82494" ; Times: 2
+	Query: "aves Polioptila nigriceps 82495" ; Times: 1
+	Query: "Neophema tissue:1" ; Times: 2
+	Query: "ivory-billed woodpecker" ; Times: 1
+	Query: "neophema" ; Times: 2
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "netta rufina" ; Times: 2
+	Query: "tregellasia leucops" ; Times: 1
+	Query: "Plegadis falcinellus tissue:1" ; Times: 1
+	Query: "Amazona tissue:1" ; Times: 1
+	Query: "genus:porzana class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "troglodytes musculus" ; Times: 1
+	Query: "aves Polioptila nigriceps 86511" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 2
+	Query: "neophema tissue:1" ; Times: 13
+	Query: "caprimulgus indicus" ; Times: 2
+	Query: "Kamchatka" ; Times: 1
+	Query: "aves Polioptila nigriceps 116884" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "distance(location,geopoint(20.515036,-105.587516))&lt;15000" ; Times: 1
+	Query: "UWBM Bird 116753" ; Times: 1
+	Query: "UWBM Bird 116756" ; Times: 1
+	Query: "aves Polioptila nigriceps 83951" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 2
+	Query: "laysan albatross" ; Times: 1
+	Query: "nandayus tissue:1" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "philomachus pugnax" ; Times: 1
+	Query: "Halcyon leucocephala Kenya" ; Times: 1
+	Query: "specificepithet:bairdii stateprovince:&#34;michigan&#34; year &gt;= 1830" ; Times: 1
+	Query: "aves Polioptila nigriceps 82708" ; Times: 1
+	Query: "Myzomela eques" ; Times: 4
+	Query: "Amazilia beryllina" ; Times: 2
+	Query: "Fratercula corniculata AND Island NOT Alaska" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "fieldfare" ; Times: 3
+	Query: "aves Polioptila nigriceps 89062" ; Times: 1
+	Query: "Ardea herodias herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "aves Polioptila nigriceps 88940" ; Times: 1
+	Query: "Neophema" ; Times: 1
+	Query: "specificepithet:borealis class:aves stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "aramus guarauna" ; Times: 1
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "ploceus taeniopterus institutioncode:UWBM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "cm 349" ; Times: 1
+	Query: "A. Downs" ; Times: 1
+	Query: "Passer domesticus" ; Times: 4
+	Query: "specificepithet:musica genus:Euphonia tissue:1" ; Times: 2
+	Query: "Anas acuta AND hybrid" ; Times: 1
+	Query: "Ardea herodias herodias institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "Numida tissue:1" ; Times: 1
+	Query: "Echo Lake" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Ortygospiza tissue:1" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene tissue:1" ; Times: 1
+	Query: "Myzomela eichhorni" ; Times: 10
+	Query: "specificepithet:DOMESTICUS genus:PASSER continent:Africa" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "batis" ; Times: 1
+	Query: "Coccyzus americanus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-110.027516))&lt;15000" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:Euphonia tissue:1" ; Times: 1
+	Query: "Ardea herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "departamento de guatemala" ; Times: 1
+	Query: "specificepithet:militaris genus:ara" ; Times: 1
+	Query: "Myzomela lafargei" ; Times: 6
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Ploceus capensis institutioncode:UWBM" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "aves Polioptila nigriceps 81226" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Red Knot" ; Times: 1
+	Query: "black rail" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Puffinus carneipes" ; Times: 1
+	Query: "Parabuteo unicinctus" ; Times: 2
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "Eupherusa cyanophrys" ; Times: 1
+	Query: "Halcyon albiventris Kenya" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "UWBM Bird 116773 institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "ploceus institutioncode:UWBM" ; Times: 2
+	Query: "scotland 1921 egg" ; Times: 1
+	Query: "glaucidium minutissimum" ; Times: 2
+	Query: "Trichastoma" ; Times: 1
+	Query: "lerwa" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "Pandion AND Island" ; Times: 1
+	Query: "aves Polioptila nigriceps 88911" ; Times: 2
+	Query: "Myzomela cineracea" ; Times: 4
+	Query: "Cygnus olor tissue:1" ; Times: 1
+	Query: "Chen rossii AND Island" ; Times: 1
+	Query: "aves Polioptila nigriceps new mexico" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "ploceus institutioncode:UWBM tissue:1" ; Times: 2
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "Pelecanus AND Anacapa" ; Times: 2
+	Query: "Callipepla squamata distance(location,geopoint(29.075375179558346,-109.62158203125))&lt;431816.7065638619" ; Times: 1
+	Query: "wrentit" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 3
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "Ardea AND Island" ; Times: 1
+	Query: "aves Polioptila nigriceps 81242" ; Times: 2
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "sapphire" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "aves Polioptila nigriceps 81148" ; Times: 1
+	Query: "ploceus intermedius institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND Anacapa" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "Mergus serrator AND Island" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "Aves Kamchatka" ; Times: 1
+	Query: "vestitus" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "genus:Euphonia tissue:1" ; Times: 1
+	Query: "communis" ; Times: 1
+	Query: "Black-headed Bunting" ; Times: 2
+	Query: "Coracopsis tissue:1" ; Times: 1
+	Query: "104182" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-106.397516))&lt;15000" ; Times: 1
+	Query: "Lanius cristatus" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 2
+	Query: "vermivora CM" ; Times: 1
+	Query: "Asio AND Island" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx tissue:1" ; Times: 1
+	Query: "yellow bellied warbler" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "remiz tissue" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "saw whet owl" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "specificepithet:elegantissima genus:Euphonia tissue:1" ; Times: 1
+	Query: "albicaudatus" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene tissue:1" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "white breasted waterhen" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 4
+	Query: "selasphorus ardens" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 327 download events in this period)
+Total number of records downloaded: 2328
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "nandayus tissue:1" ; Times: 1
+	Query: "striata stateprovince:&#34;California&#34; (setophaga OR dendroica)" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
