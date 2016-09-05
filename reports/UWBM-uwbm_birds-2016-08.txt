@@ -1,0 +1,440 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 489
+Number of records retrieved in searches: 6014
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 27
+	Country: Canada ; Times: 17
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 23
+	Country: Bahamas ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Austria ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: United States ; Times: 357
+	Country: Russia ; Times: 3
+	Country: Denmark ; Times: 6
+	Country: Ukraine ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 20
+	Date: 2016-08-11 ; Times: 16
+	Date: 2016-08-12 ; Times: 22
+	Date: 2016-08-13 ; Times: 5
+	Date: 2016-08-14 ; Times: 36
+	Date: 2016-08-15 ; Times: 16
+	Date: 2016-08-16 ; Times: 20
+	Date: 2016-08-17 ; Times: 9
+	Date: 2016-08-18 ; Times: 10
+	Date: 2016-08-19 ; Times: 6
+	Date: 2016-08-30 ; Times: 41
+	Date: 2016-08-31 ; Times: 43
+	Date: 2016-08-29 ; Times: 27
+	Date: 2016-08-28 ; Times: 8
+	Date: 2016-08-25 ; Times: 35
+	Date: 2016-08-24 ; Times: 28
+	Date: 2016-08-27 ; Times: 5
+	Date: 2016-08-26 ; Times: 27
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 9
+	Date: 2016-08-23 ; Times: 59
+	Date: 2016-08-22 ; Times: 43
+	Date: 2016-08-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Merops nubicus tissue:1" ; Times: 1
+	Query: "loxioides" ; Times: 1
+	Query: "specificepithet:calliope genus:Stellula institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "Knipolegus aterrimus tissue:1" ; Times: 1
+	Query: "Myophonus" ; Times: 2
+	Query: "pigeon lake" ; Times: 1
+	Query: "Malurus leucopterus tissue:1" ; Times: 2
+	Query: "Clark Mountain" ; Times: 2
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "Eumomota superciliosa tissue:1" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "Xolmis irupero tissue:1" ; Times: 1
+	Query: "catalognumber:84745 institutioncode:UWBM" ; Times: 2
+	Query: "Melanerpes tissue:1" ; Times: 2
+	Query: "64030" ; Times: 1
+	Query: "Catharus fuscescens month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "90-171" ; Times: 2
+	Query: "Catharus aurantiirostris" ; Times: 4
+	Query: "Catharus fuscater tissue:1" ; Times: 2
+	Query: "catalognumber:116479 institutioncode:UWBM" ; Times: 2
+	Query: "Catharus guttatus month &gt;= 7 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "type:specimen genus:myrtis institutioncode:UWBM" ; Times: 1
+	Query: "96656" ; Times: 1
+	Query: "class:aves locality:new hampshire" ; Times: 1
+	Query: "gbifdatasetid:830fd460-f762-11e1-a439-00145eb45e9a 57790" ; Times: 3
+	Query: "elf" ; Times: 5
+	Query: "bonasa umbellus type:specimen institutioncode:UWBM" ; Times: 1
+	Query: "gbifdatasetid:830fd460-f762-11e1-a439-00145eb45e9a 76694" ; Times: 2
+	Query: "54750" ; Times: 1
+	Query: "catharus guttatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 3
+	Query: "bostrychia tissue:1" ; Times: 2
+	Query: "Catharus fuscescens tissue:1" ; Times: 1
+	Query: "108905" ; Times: 1
+	Query: "Paroaria gularis tissue:1" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "Electron platyrhynchum tissue:1" ; Times: 2
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Podicipedidae dominicus" ; Times: 2
+	Query: "Eurystomus orientalis tissue:1" ; Times: 1
+	Query: "caspian tern PSM AND (caspia PSM)" ; Times: 1
+	Query: "Catharus ustulatus (island) month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "nicator gularis tissue:1" ; Times: 1
+	Query: "Catharus mexicanus institutioncode:UWBM tissue:1" ; Times: 3
+	Query: "Black bear" ; Times: 13
+	Query: "Catharus guttatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Ketupa" ; Times: 1
+	Query: "phaethornis mexicanus" ; Times: 5
+	Query: "sterna dougallii" ; Times: 3
+	Query: "52883" ; Times: 1
+	Query: "specificepithet:calliope institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "gypohierax" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:Colinus tissue:1" ; Times: 1
+	Query: "year &gt;= 1700 year &lt;= 1840" ; Times: 1
+	Query: "gypohierax tissue:1" ; Times: 1
+	Query: "meleagris gallopavo country:&#34;mexico&#34; year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "pitta brachyura" ; Times: 1
+	Query: "Todus todus tissue:1" ; Times: 3
+	Query: "egg lapland" ; Times: 3
+	Query: "dendroica magnolia stateprovince:&#34;Newfoundland&#34; tissue:1" ; Times: 1
+	Query: "tissue:1 Eurystomus glaucurus" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 1
+	Query: "Picoides dorsalis year &gt;= 1980" ; Times: 1
+	Query: "Merops philippinus tissue:1" ; Times: 1
+	Query: "nightingale" ; Times: 1
+	Query: "genus:struthio" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "type:specimen specificepithet:fanny genus:myrtis" ; Times: 1
+	Query: "egg seal island maine" ; Times: 1
+	Query: "Pavo AND Island" ; Times: 1
+	Query: "specificepithet:calliope catalognumber:90538 institutioncode:UWBM" ; Times: 1
+	Query: "Catharus occidentalis institutioncode:UWBM tissue:1" ; Times: 2
+	Query: "Myzomela cardinalis" ; Times: 2
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "Long-tailed Jaeger type:specimen" ; Times: 1
+	Query: "egg North Russia" ; Times: 1
+	Query: "chaetocercus heliodor" ; Times: 9
+	Query: "Island AND Piranga olivacea" ; Times: 1
+	Query: "Myzomela cardinalis institutioncode:UWBM" ; Times: 1
+	Query: "skulls" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "hibiscus" ; Times: 1
+	Query: "dendroica magnolia tissue:1" ; Times: 1
+	Query: "dendroica magnolia stateprovince:&#34;Newfoundland and Labrador&#34; tissue:1" ; Times: 1
+	Query: "meleagris gallopavo country:&#34;mexico&#34;" ; Times: 1
+	Query: "Catharus gracilirostris tissue:1" ; Times: 2
+	Query: "Selasphorus ardens type:specimen" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus tissue:1" ; Times: 1
+	Query: "Catharus gracilirostris institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "cypseloides niger" ; Times: 3
+	Query: "mandingoa nitidula tissue:1" ; Times: 1
+	Query: "class:Aves continent:North america (Campephilus)" ; Times: 1
+	Query: "Anser brachyrhynchus" ; Times: 2
+	Query: "Cypseloides" ; Times: 3
+	Query: "genus:Archilochus institutioncode:UWBM tissue:1" ; Times: 3
+	Query: "catalognumber:115634" ; Times: 1
+	Query: "pop set" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "Paroaria tissue:1" ; Times: 1
+	Query: "schiffornis turdinus" ; Times: 1
+	Query: "type:specimen specificepithet:ani genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "catalognumber:116487" ; Times: 1
+	Query: "class:AVES institutioncode:UWBM" ; Times: 1
+	Query: "Icterus tissue:1" ; Times: 5
+	Query: "catharus minimus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "dendroica magnolia country:&#34;Canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 3
+	Query: "Catharus aurantiirostris institutioncode:UWBM tissue:1" ; Times: 2
+	Query: "egg texas 1913" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 9
+	Query: "Coracias garrulus" ; Times: 2
+	Query: "Merops hirundineus tissue:1" ; Times: 1
+	Query: "eupherusa poliocerca" ; Times: 16
+	Query: "Icterus cayanensis tissue:1" ; Times: 1
+	Query: "american woodcock" ; Times: 1
+	Query: "Xiphocolaptes major tissue:1" ; Times: 1
+	Query: "Cerro Azul" ; Times: 1
+	Query: "bonasa umbellus institutioncode:UWBM" ; Times: 1
+	Query: "&#34;otus asio&#34; tissue:1" ; Times: 3
+	Query: "county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "egg trinidad" ; Times: 1
+	Query: "gbifdatasetid:830fd460-f762-11e1-a439-00145eb45e9a 57627" ; Times: 4
+	Query: "wold" ; Times: 2
+	Query: "44536 motacilla" ; Times: 1
+	Query: "Callipepla squamata cHIHUAHUA" ; Times: 2
+	Query: "Samana Cay" ; Times: 2
+	Query: "type:specimen genus:Hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Clarke Aves year &gt;= 1880 year &lt;= 1935" ; Times: 1
+	Query: "Cyanocompsa parellina" ; Times: 2
+	Query: "catalognumber:116487 institutioncode:UWBM" ; Times: 4
+	Query: "Vidua macroura institutioncode:UWBM tissue:1" ; Times: 2
+	Query: "caspian tern PSM" ; Times: 1
+	Query: "&#34;vermivora pinus&#34; stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "catalognumber:85694 institutioncode:UWBM" ; Times: 2
+	Query: "type:specimen genus:apteryx" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "Common nighthawk" ; Times: 3
+	Query: "egg brandenburg germany" ; Times: 1
+	Query: "specificepithet:ardens genus:Selasphorus tissue:1" ; Times: 1
+	Query: "Catharus mexicanus tissue:1" ; Times: 4
+	Query: "urocissa" ; Times: 1
+	Query: "Pseudoseisura lophotes tissue:1" ; Times: 1
+	Query: "Catharus occidentalis tissue:1" ; Times: 2
+	Query: "Catharus fuscater mappable:1" ; Times: 2
+	Query: "psittacus erithacus" ; Times: 1
+	Query: "phylloscopus sibilatrix tissue:1" ; Times: 1
+	Query: "Pseudoseisura tissue:1" ; Times: 1
+	Query: "chiroxiphia boliviana" ; Times: 1
+	Query: "class:aves locality:sycamore stateprovince:&#34;arizona&#34; recordedby:burleigh year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "Catharus fuscater Panama" ; Times: 1
+	Query: "Farallon AND 1894" ; Times: 1
+	Query: "class:aves country:&#34;costa rica&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "bird shape" ; Times: 1
+	Query: "90-128" ; Times: 1
+	Query: "Todus mexicanus tissue:1" ; Times: 2
+	Query: "Eurystomus glaucurus tissue:1" ; Times: 2
+	Query: "Chlorospingus country:&#34;Mexico&#34;" ; Times: 4
+	Query: "bar-headed goose" ; Times: 3
+	Query: "&#34;golden-winged warbler&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "dendroica magnolia month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "genus:Atthis tissue:1" ; Times: 2
+	Query: "bonasa umbellus type:specimen (washington) institutioncode:UWBM" ; Times: 1
+	Query: "cardinalis nest" ; Times: 1
+	Query: "Merops bullockoides tissue:1" ; Times: 1
+	Query: "Phylloscartes" ; Times: 1
+	Query: "passenger pigeon" ; Times: 9
+	Query: "72619" ; Times: 1
+	Query: "&#34;vermivora chrysoptera&#34; stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7 institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "recordedby:marr year &gt;= 1950" ; Times: 1
+	Query: "wax" ; Times: 1
+	Query: "Piculus chrysochloros" ; Times: 1
+	Query: "egg 1890" ; Times: 1
+	Query: "selasphorus ardens" ; Times: 6
+	Query: "clamator coromandus" ; Times: 4
+	Query: "Catharus frantzii tissue:1" ; Times: 4
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "phylloscopus borealis north america" ; Times: 1
+	Query: "gallus" ; Times: 1
+	Query: "114007" ; Times: 1
+	Query: "veery" ; Times: 1
+	Query: "type:specimen genus:apteryx institutioncode:UWBM" ; Times: 1
+	Query: "loxioides tissue:1" ; Times: 1
+	Query: "dendroica magnolia country:&#34;Canada&#34; tissue:1" ; Times: 1
+	Query: "black footed" ; Times: 1
+	Query: "44536" ; Times: 1
+	Query: "Merops viridis tissue:1" ; Times: 1
+	Query: "Melanerpes institutioncode:UWBM tissue:1" ; Times: 3
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "common tern" ; Times: 1
+	Query: "Paroaria capitata tissue:1" ; Times: 1
+	Query: "10923" ; Times: 3
+	Query: "Xiphocolaptes" ; Times: 1
+	Query: "egg cumberland england" ; Times: 1
+	Query: "Melanocharis longicauda" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "10929" ; Times: 1
+	Query: "Catharus fuscater institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "egg mississippi" ; Times: 1
+	Query: "&#34;ammodramus nelsoni&#34; type:specimen tissue:1" ; Times: 1
+	Query: "macaw" ; Times: 1
+	Query: "Catharus mexicanus institutioncode:UWBM" ; Times: 1
+	Query: "atenas costa rica" ; Times: 1
+	Query: "troglodytes type:specimen country:&#34;russia&#34; tissue:1" ; Times: 1
+	Query: "71290" ; Times: 1
+	Query: "atthis ellioti" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "tissue:1 Eurystomus orientalis" ; Times: 1
+	Query: "chrysoparia" ; Times: 9
+	Query: "aimophila ruficauda" ; Times: 4
+	Query: "chlorospingus" ; Times: 1
+	Query: "Thamnistes" ; Times: 1
+	Query: "catalognumber:85695 institutioncode:UWBM" ; Times: 2
+	Query: "arctic tern" ; Times: 1
+	Query: "type:specimen specificepithet:cyanus genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "lengthtype:head-body length" ; Times: 2
+	Query: "92074" ; Times: 1
+	Query: "specificepithet:calliope institutioncode:UWBM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 2
+	Query: "cistothorus platensis tissue:1" ; Times: 1
+	Query: "institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "tanysiptera galatea tissue:1" ; Times: 1
+	Query: "cistothorus palustris tissue:1" ; Times: 1
+	Query: "catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "otus asio tissue:1" ; Times: 2
+	Query: "Stigmatura budytoides tissue:1" ; Times: 1
+	Query: "loggerhead shrike" ; Times: 2
+	Query: "brown booby UWBM" ; Times: 1
+	Query: "Momotus mexicanus tissue:1" ; Times: 1
+	Query: "tanysiptera galatea" ; Times: 1
+	Query: "granatellus venustus" ; Times: 1
+	Query: "Catharus aurantiirostris tissue:1" ; Times: 6
+	Query: "N M LIZARDS" ; Times: 1
+	Query: "Icterus nigrogularis" ; Times: 1
+	Query: "egg lake manitoba" ; Times: 3
+	Query: "catalognumber:100413 institutioncode:UWBM" ; Times: 2
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "Catharus dryas tissue:1" ; Times: 2
+	Query: "Pseudoseisura gutturalis tissue:1" ; Times: 1
+	Query: "Merops nubicus" ; Times: 2
+	Query: "Merops pusillus tissue:1" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980 tissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;arizona&#34; recordedby:burleigh year &gt;= 1964 year &lt;= 1964 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "Selasphorus sasin tissue:1" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Gallinago AND Island" ; Times: 1
+	Query: "Farallon AND 1895" ; Times: 1
+	Query: "Baryphthengus martii tissue:1" ; Times: 1
+	Query: "genus:goura" ; Times: 1
+	Query: "locality:new hampshire" ; Times: 1
+	Query: "class:Aves continent:North america (Ivory)" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "egg lancaster england" ; Times: 1
+	Query: "troglodytes type:specimen continent:Asia tissue:1" ; Times: 1
+	Query: "egg orkney islands" ; Times: 1
+	Query: "Icterus icterus tissue:1" ; Times: 3
+	Query: "thalurania fannyi" ; Times: 8
+	Query: "type:specimen genus:Calothorax institutioncode:UWBM" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Paradisaea tissue:1" ; Times: 1
+	Query: "laysan albatross" ; Times: 5
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34; tissue:1" ; Times: 3
+	Query: "E.C. Clarke" ; Times: 2
+	Query: "Garter Snake year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "gbifdatasetid:830fd460-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Malurus leucopterus" ; Times: 2
+	Query: "Amaurornis" ; Times: 1
+	Query: "catalognumber:111433 institutioncode:UWBM" ; Times: 2
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 3
+	Query: "catalognumber:85778 institutioncode:UWBM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 924 download events in this period)
+Total number of records downloaded: 6786
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 20
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 37
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 7
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-16 ; Times: 7
+	Date: 2016-08-25 ; Times: 7
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-26 ; Times: 13
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-23 ; Times: 6
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-31 ; Times: 10
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 4
+	Date: 2016-08-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "&#34;ammodramus nelsoni&#34; type:specimen tissue:1" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "Malurus leucopterus tissue:1" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "Paroaria gularis tissue:1" ; Times: 1
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "Pseudoseisura lophotes tissue:1" ; Times: 1
+	Query: "Granite Pass" ; Times: 1
+	Query: "Aratinga acuticaudata tissue:1" ; Times: 1
+	Query: "Catharus fuscater mappable:1" ; Times: 1
+	Query: "Xiphocolaptes major tissue:1" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "cistothorus palustris tissue:1" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "cistothorus platensis tissue:1" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "Stigmatura budytoides tissue:1" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Quail Spring" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Myophonus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "Clark county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "Black Rock Spring" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Icterus cayanensis tissue:1" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "chrysoparia" ; Times: 1
+	Query: "Paroaria coronata tissue:1" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Todus todus tissue:1" ; Times: 1
+	Query: "Melanerpes institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "Paroaria capitata tissue:1" ; Times: 1
+	Query: "Suiriri tissue:1" ; Times: 1
+	Query: "Picoides tridactylus year &gt;= 1980" ; Times: 1
+	Query: "Picoides arcticus year &gt;= 1980" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "Picoides dorsalis year &gt;= 1980" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "&#34;otus asio&#34; tissue:1" ; Times: 1
+
+
+End of report.
