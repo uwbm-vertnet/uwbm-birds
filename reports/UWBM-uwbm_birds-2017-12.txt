@@ -1,0 +1,453 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 522
+Number of records retrieved in searches: 6495
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 57
+	Country: Brazil ; Times: 14
+	Country: Italy ; Times: 3
+	Country: Unknown ; Times: 13
+	Country: France ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 6
+	Country: China ; Times: 2
+	Country: Denmark ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 30
+	Country: Netherlands ; Times: 3
+	Country: Gambia ; Times: 8
+	Country: Poland ; Times: 7
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 335
+	Country: Latvia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 13
+	Country: Paraguay ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-16 ; Times: 22
+	Date: 2017-12-17 ; Times: 21
+	Date: 2017-12-14 ; Times: 26
+	Date: 2017-12-15 ; Times: 24
+	Date: 2017-12-12 ; Times: 60
+	Date: 2017-12-13 ; Times: 4
+	Date: 2017-12-10 ; Times: 21
+	Date: 2017-12-11 ; Times: 18
+	Date: 2017-12-18 ; Times: 27
+	Date: 2017-12-19 ; Times: 28
+	Date: 2017-12-29 ; Times: 4
+	Date: 2017-12-28 ; Times: 24
+	Date: 2017-12-27 ; Times: 9
+	Date: 2017-12-26 ; Times: 5
+	Date: 2017-12-25 ; Times: 4
+	Date: 2017-12-24 ; Times: 12
+	Date: 2017-12-22 ; Times: 14
+	Date: 2017-12-21 ; Times: 16
+	Date: 2017-12-20 ; Times: 7
+	Date: 2017-12-05 ; Times: 31
+	Date: 2017-12-04 ; Times: 31
+	Date: 2017-12-07 ; Times: 17
+	Date: 2017-12-06 ; Times: 21
+	Date: 2017-12-01 ; Times: 32
+	Date: 2017-12-03 ; Times: 7
+	Date: 2017-12-02 ; Times: 22
+	Date: 2017-12-09 ; Times: 4
+	Date: 2017-12-08 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "specificepithet:coelebs genus:fringilla institutioncode:UWBM" ; Times: 1
+	Query: "Yellow-green Vireo" ; Times: 5
+	Query: "specificepithet:aureola genus:Emberiza" ; Times: 1
+	Query: "LSUMZ" ; Times: 2
+	Query: "distance(location,geopoint(39.0779691205001,-79.388352509))&lt;12951" ; Times: 1
+	Query: "Selasphorus ardens" ; Times: 4
+	Query: "mallard duck" ; Times: 1
+	Query: "specificepithet:nigrescens institutioncode:UWBM hastissue:1" ; Times: 2
+	Query: "CU brown" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.95858088455357,-119.59277383983135))&lt;100000" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.95858088455357,-119.59277383983135))&lt;50011" ; Times: 3
+	Query: "Calidris alpina manitoba egg" ; Times: 1
+	Query: "ardeidae skeleton egretta rufescens" ; Times: 1
+	Query: "aegithina nigrolutea" ; Times: 1
+	Query: "hooded merganser" ; Times: 2
+	Query: "ivory-billed woodpecker" ; Times: 7
+	Query: "Branta canadensis country:&#34;United States&#34; hastissue:1" ; Times: 4
+	Query: "specificepithet:chiguanco genus:Turdus" ; Times: 4
+	Query: "house wren" ; Times: 4
+	Query: "Bald Eagle" ; Times: 2
+	Query: "53884 specificepithet:ustulatus genus:Catharus institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:nigrescens genus:dendroica institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "79993 specificepithet:ustulatus genus:Catharus institutioncode:UWBM" ; Times: 1
+	Query: "aratinga erythrogenys" ; Times: 11
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "El Paso Zoo Texas" ; Times: 2
+	Query: "northern goshawk minnesota" ; Times: 1
+	Query: "Knipolegus" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "gray jay" ; Times: 1
+	Query: "82657 genus:Catharus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "common redpoll" ; Times: 3
+	Query: "Skin-97926" ; Times: 1
+	Query: "Gray-cheeked Thrush" ; Times: 8
+	Query: "Pluvianus aegyptius" ; Times: 1
+	Query: "Nest family:Ploceidae" ; Times: 8
+	Query: "82370 genus:Catharus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "stigmatura budytoides vntype:specimen hastissue:1" ; Times: 2
+	Query: "specificepithet:phaeopygia genus:Pterodroma hastissue:1" ; Times: 1
+	Query: "specificepithet:cauta genus:Thalassarche hastissue:1" ; Times: 4
+	Query: "specificepithet:rupicola genus:Colaptes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "UWBM 90675" ; Times: 2
+	Query: "bristle-thighed curlew" ; Times: 1
+	Query: "whooping crane" ; Times: 3
+	Query: "82847 institutioncode:UWBM" ; Times: 1
+	Query: "pterodroma hypoleuca hastissue:1" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus country:&#34;Panama&#34; institutioncode:UWBM" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "least bittern" ; Times: 1
+	Query: "mirafra cheniana" ; Times: 4
+	Query: "alauda japonica" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "UWBM 66091" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "82539 genus:Catharus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "82873 institutioncode:UWBM" ; Times: 2
+	Query: "porzana porzana hastissue:1" ; Times: 3
+	Query: "specificepithet:leucorhoa genus:Oceanodroma hastissue:1" ; Times: 1
+	Query: "4953 Aves" ; Times: 1
+	Query: "glaucous-winged" ; Times: 1
+	Query: "kittiwake" ; Times: 1
+	Query: "corvus palmarum" ; Times: 8
+	Query: "jaguar" ; Times: 1
+	Query: "53872 institutioncode:UWBM" ; Times: 1
+	Query: "diptera" ; Times: 1
+	Query: "112961 institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 60257" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 2
+	Query: "107488 institutioncode:UWBM" ; Times: 1
+	Query: "peet bird collection" ; Times: 2
+	Query: "distance(location,geopoint(37.8766483865001,-75.4668140885))&lt;7719" ; Times: 1
+	Query: "mandelli" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "specificepithet:aureola genus:Emberiza hastissue:1" ; Times: 4
+	Query: "vntype:specimen class:Aves locality:Sumatera barat" ; Times: 2
+	Query: "19886 Aves" ; Times: 2
+	Query: "110080" ; Times: 1
+	Query: "Goa class:Aves" ; Times: 2
+	Query: "turdus poliocephalus" ; Times: 1
+	Query: "97811" ; Times: 1
+	Query: "picoides borealis" ; Times: 1
+	Query: "distance(location,geopoint(41.433974414,-71.480081389))&lt;5770" ; Times: 1
+	Query: "hepatic tanager" ; Times: 5
+	Query: "Catharus minnesota egg" ; Times: 1
+	Query: "distance(location,geopoint(42.5335168335001,-71.6198000755))&lt;4983" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "Accipiter gentilis minnesota" ; Times: 1
+	Query: "93686 institutioncode:UWBM" ; Times: 2
+	Query: "grus americana" ; Times: 1
+	Query: "UWBM 92283" ; Times: 1
+	Query: "county:&#34;williams&#34; stateprovince:&#34;North Dakota&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "knipolegus aterrimus" ; Times: 1
+	Query: "brazil AND aves AND egg OR eggs OR nest OR nests" ; Times: 1
+	Query: "Charmosyna" ; Times: 1
+	Query: "77075" ; Times: 1
+	Query: "111246 institutioncode:UWBM" ; Times: 1
+	Query: "104047 institutioncode:UWBM" ; Times: 1
+	Query: "Florida vntype:specimen specificepithet:maritimus genus:Ammodramus year &gt;= 1950 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:gracilirostris genus:Catharus hastissue:1" ; Times: 3
+	Query: "microtus townsendi" ; Times: 1
+	Query: "56122 institutioncode:UWBM" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "UWBM 31599" ; Times: 1
+	Query: "specificepithet:pusilla genus:Acanthiza hastissue:1" ; Times: 1
+	Query: "11682" ; Times: 1
+	Query: "egg aves brazil" ; Times: 1
+	Query: "calonectris diomedea" ; Times: 5
+	Query: "egg brazil" ; Times: 1
+	Query: "rough-legged Hawk" ; Times: 1
+	Query: "Yucatan Vireo sex:male" ; Times: 2
+	Query: "ardeidae skeleton syrigma sibilatrix" ; Times: 1
+	Query: "28290 Aves" ; Times: 2
+	Query: "Pogoniulus bilineatus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;British Columbia&#34; hastissue:1" ; Times: 1
+	Query: "112617 institutioncode:UWBM" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "Erithacus rubecula" ; Times: 3
+	Query: "Motacilla capensis" ; Times: 1
+	Query: "distance(location,geopoint(44.4200546825001,-71.526293728))&lt;11964" ; Times: 1
+	Query: "Sterna hirundo minnesota" ; Times: 2
+	Query: "body mass" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "kazakhstan vntype:specimen continent:Asia" ; Times: 1
+	Query: "ortalis canicollis" ; Times: 2
+	Query: "Philadelphia Vireo" ; Times: 1
+	Query: "tachyphonus coronatus" ; Times: 1
+	Query: "bristlecone pine" ; Times: 1
+	Query: "catalognumber:86867" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "uwbm 54815" ; Times: 1
+	Query: "Orchard Oriole" ; Times: 1
+	Query: "115425 genus:Catharus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Peregrine falcon" ; Times: 1
+	Query: "baltimore oriole" ; Times: 6
+	Query: "vntype:specimen specificepithet:maritimus genus:Ammodramus year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "46760 institutioncode:UWBM" ; Times: 2
+	Query: "17301" ; Times: 1
+	Query: "Gallus gallus vntype:specimen year &gt;= 0 year &lt;= 1778" ; Times: 1
+	Query: "Gallus gallus vntype:specimen year &gt;= 0 year &lt;= 1800" ; Times: 1
+	Query: "UWBM 67474" ; Times: 1
+	Query: "Hoary redpoll" ; Times: 1
+	Query: "Sitta canadensis minnesota" ; Times: 1
+	Query: "Sanger california" ; Times: 1
+	Query: "cacicus solitarius" ; Times: 1
+	Query: "53872 genus:Catharus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "99927 institutioncode:UWBM" ; Times: 1
+	Query: "Branta canadensis vntype:specimen country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Minnesota Loon" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "aratinga mitrata" ; Times: 16
+	Query: "minnesota egg Euphagus cyanocephalus" ; Times: 1
+	Query: "Canada goose hastissue:1" ; Times: 2
+	Query: "turkey vulture" ; Times: 2
+	Query: "Robbin" ; Times: 1
+	Query: "class:aves country:indonesia" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "class:aves (malaita) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "weevil" ; Times: 1
+	Query: "13875" ; Times: 1
+	Query: "specificepithet:rupicola genus:Colaptes" ; Times: 1
+	Query: "uwbm 31895" ; Times: 1
+	Query: "89889 Aves" ; Times: 1
+	Query: "ardeidae skeleton egretta sacra" ; Times: 1
+	Query: "Virginia Rail" ; Times: 2
+	Query: "tristis hastissue:1" ; Times: 1
+	Query: "Leucopsar" ; Times: 1
+	Query: "UWBM 72539" ; Times: 2
+	Query: "82290 genus:Catharus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Wood Duck" ; Times: 1
+	Query: "royal tern" ; Times: 5
+	Query: "Yellow-green Vireo sex:male" ; Times: 2
+	Query: "44483" ; Times: 1
+	Query: "111327 Aves" ; Times: 1
+	Query: "64944 Aves" ; Times: 2
+	Query: "Chionis minor" ; Times: 8
+	Query: "canada warbler" ; Times: 1
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "goodspeed" ; Times: 1
+	Query: "spectacled eider" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Euphonia hastissue:1" ; Times: 2
+	Query: "uwbm 87911" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "uwbm 6318" ; Times: 1
+	Query: "great shearwater" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:brown year &gt;= 1910 year &lt;= 1920" ; Times: 1
+	Query: "Skin-94896" ; Times: 1
+	Query: "Corvus corax minnesota" ; Times: 1
+	Query: "&#34;deschutes county&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "family:Ploceidae preparations:Nest" ; Times: 4
+	Query: "Philadelphia Vireo sex:male" ; Times: 3
+	Query: "passenger pigeon" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "feathered" ; Times: 1
+	Query: "Lizards" ; Times: 2
+	Query: "Gambia" ; Times: 1
+	Query: "Turdus chrysolaus hastissue:1" ; Times: 1
+	Query: "Thalassarche salvini hastissue:1" ; Times: 1
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "leconteii minnesota egg" ; Times: 1
+	Query: "Penelope obscura" ; Times: 2
+	Query: "trumpeter swan" ; Times: 6
+	Query: "63424 Aves" ; Times: 1
+	Query: "Myrmeciza exsul" ; Times: 1
+	Query: "UWBM 89692" ; Times: 1
+	Query: "distance(location,geopoint(37.9686338914285,-75.3035205898625))&lt;5430" ; Times: 1
+	Query: "genus:Catharus year &gt;= 2007 year &lt;= 2012 month &gt;= 9 month &lt;= 10" ; Times: 1
+	Query: "specificepithet:frugilegus genus:Corvus class:Aves institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:rupicola genus:Colaptes hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(42.759119724,-70.8099073985))&lt;1436" ; Times: 1
+	Query: "Saxicola insignis" ; Times: 3
+	Query: "44494" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "schoeniophylax vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:major genus:Parus class:Aves institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:exulans genus:Diomedea hastissue:1" ; Times: 1
+	Query: "least bittern egg" ; Times: 2
+	Query: "32745" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Troglodytes class:Aves continent:Europe institutioncode:UWBM" ; Times: 1
+	Query: "Catharus minnesota eggs" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Zonotrichia hastissue:1" ; Times: 2
+	Query: "104442 institutioncode:UWBM" ; Times: 1
+	Query: "Pitta sordida" ; Times: 6
+	Query: "Acrocephalus orientalis hastissue:1" ; Times: 1
+	Query: "common raven" ; Times: 1
+	Query: "minnesota Euphagus cyanocephalus" ; Times: 1
+	Query: "Borneo" ; Times: 2
+	Query: "locality:Laurel Branch stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Phylloscopus nitidus" ; Times: 3
+	Query: "vntype:specimen specificepithet:mocinno genus:Pharomachrus" ; Times: 1
+	Query: "catalognumber:91074" ; Times: 2
+	Query: "Corvus minnesota eggs" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "ficedula hyperythra" ; Times: 1
+	Query: "pipra coronata" ; Times: 2
+	Query: "Empidonax traillii county:&#34;Santa Clara&#34;" ; Times: 1
+	Query: "Rhododendron mappable:1" ; Times: 1
+	Query: "UWBM 113053" ; Times: 2
+	Query: "aratinga wagleri" ; Times: 8
+	Query: "black bear" ; Times: 9
+	Query: "16622" ; Times: 1
+	Query: "104442 specificepithet:ustulatus genus:Catharus institutioncode:UWBM" ; Times: 1
+	Query: "Sanger stateprovince:&#34;California&#34; AND (Fresno)" ; Times: 3
+	Query: "uwbm 31600" ; Times: 2
+	Query: "platalea ajaja" ; Times: 1
+	Query: "Acrocephalus hastissue:1" ; Times: 1
+	Query: "Red wolf" ; Times: 1
+	Query: "eggs brazil" ; Times: 1
+	Query: "Cinnamon Teal" ; Times: 1
+	Query: "yellow cardinal" ; Times: 2
+	Query: "Acadian Flycatcher" ; Times: 3
+	Query: "distance(location,geopoint(36.6915912240001,-75.9568339719999))&lt;10755" ; Times: 1
+	Query: "phylloscopus inornatus" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.922499263758255,-119.5883797109127))&lt;100000" ; Times: 1
+	Query: "genus:Haematopus hastissue:1" ; Times: 1
+	Query: "calurus specificepithet:jamaicensis genus:buteo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "egg vntype:specimen class:aves country:&#34;brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Catharus minnesota nest" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "53984 specificepithet:ustulatus genus:Catharus institutioncode:UWBM" ; Times: 1
+	Query: "steelhead" ; Times: 1
+	Query: "genus:Thalassarche class:aves hastissue:1" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "burk university of washington" ; Times: 1
+	Query: "Human" ; Times: 1
+	Query: "Turdus pallidus hastissue:1" ; Times: 1
+	Query: "87089 specificepithet:ustulatus genus:Catharus institutioncode:UWBM" ; Times: 1
+	Query: "82929 institutioncode:UWBM" ; Times: 1
+	Query: "common nighthawk" ; Times: 1
+	Query: "specificepithet:wortheni genus:spizella" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 7
+	Query: "distance(location,geopoint(35.0813240665001,-80.051390608))&lt;5960" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "king eider" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.86471432068721,-119.55761879682541))&lt;100000" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "Vermivora chrysoptera stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Myrmeciza exsul country:&#34;Panama&#34;" ; Times: 1
+	Query: "115541 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "115905 institutioncode:UWBM" ; Times: 1
+	Query: "lorius lory" ; Times: 2
+	Query: "100270 specificepithet:ustulatus genus:Catharus institutioncode:UWBM" ; Times: 3
+	Query: "Ortalis canicollis" ; Times: 1
+	Query: "distance(location,geopoint(41.601686958,-69.995009412))&lt;7575" ; Times: 1
+	Query: "uwbm 76389" ; Times: 1
+	Query: "Phaethon rubricauda" ; Times: 1
+	Query: "janis" ; Times: 1
+	Query: "82296 genus:Catharus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "77705" ; Times: 1
+	Query: "cerulean warbler" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus hastissue:1" ; Times: 1
+	Query: "Turdus obscurus hastissue:1" ; Times: 1
+	Query: "UWBM 63034" ; Times: 1
+	Query: "Black Bear" ; Times: 5
+	Query: "specificepithet:montanus genus:Parus institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:exulans genus:Diomedea institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "111328 Aves" ; Times: 1
+	Query: "86875 institutioncode:UWBM" ; Times: 1
+	Query: "kazakhstan vntype:specimen" ; Times: 1
+	Query: "53319 specificepithet:ustulatus genus:Catharus institutioncode:UWBM" ; Times: 1
+	Query: "class:aves country:gabon" ; Times: 1
+	Query: "leconteii minnesota eggs" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 674 download events in this period)
+Total number of records downloaded: 6884
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-17 ; Times: 5
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aves Paraguay" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "kittiwake" ; Times: 1
+	Query: "brazil AND aves AND egg OR eggs OR nest OR nests" ; Times: 1
+	Query: "Virginia Rail" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "specificepithet:palliatus genus:Haematopus hasmass:1" ; Times: 1
+	Query: "specificepithet:phaeopygia genus:Pterodroma hastissue:1" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "spectacled eider" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "egg aves brazil" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:buteo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "egg brazil" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "family:Ploceidae preparations:Nest" ; Times: 1
+	Query: "egg vntype:specimen class:aves country:&#34;brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "Sterna hirundo minnesota" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "specificepithet:crinitus genus:myiarchus month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "specificepithet:aureola genus:Emberiza hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "eggs brazil" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:Corvus hasmass:1" ; Times: 1
+	Query: "king eider" ; Times: 1
+	Query: "Vermivora chrysoptera stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:brown year &gt;= 1934 year &lt;= 1953" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+
+
+End of report.
