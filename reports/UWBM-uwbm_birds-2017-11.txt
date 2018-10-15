@@ -1,0 +1,195 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 1669
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 69
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Papua New Guinea ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: United States ; Times: 113
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 53
+	Date: 2017-11-29 ; Times: 12
+	Date: 2017-11-26 ; Times: 16
+	Date: 2017-11-27 ; Times: 58
+	Date: 2017-11-24 ; Times: 4
+	Date: 2017-11-25 ; Times: 14
+	Date: 2017-11-30 ; Times: 48
+
+List of queries that retrieved data from the resource: 
+	Query: "Tawny-crowned Greenlet sex:male" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "genus:Turdus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1914" ; Times: 1
+	Query: "Blue Mountain Vireo sex:male" ; Times: 1
+	Query: "specificepithet:nigricans genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "Rufous-browed Peppershrike" ; Times: 2
+	Query: "genus:Geococcyx class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1892" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "mangrove vireo sex:male" ; Times: 4
+	Query: "Chestnut-sided Shrike-vireo sex:male" ; Times: 2
+	Query: "specificepithet:viridis viridis genus:Tersina hastissue:0" ; Times: 1
+	Query: "Snowy Owl" ; Times: 2
+	Query: "Mergus merganser minnesota" ; Times: 1
+	Query: "albatrus year &gt;= 1950 year &lt;= 2017" ; Times: 1
+	Query: "genus:Spiza class:Aves stateprovince:&#34;California&#34; year &gt;= 1769" ; Times: 1
+	Query: "Black-capped Vireo sex:male" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "genus:Lanius class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1881" ; Times: 1
+	Query: "tersina viridis" ; Times: 1
+	Query: "white-eyed vireo sex:male" ; Times: 1
+	Query: "Malurus CM" ; Times: 1
+	Query: "Thick-billed Vireo" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 3
+	Query: "UWBM 114572" ; Times: 1
+	Query: "specificepithet:vociferans genus:Tyrannus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "Cygnus buccinator minnesota" ; Times: 5
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lanius class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "Yucatan Vireo sex:male" ; Times: 1
+	Query: "genus:Cotinga" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Dacnis venusta venusta" ; Times: 2
+	Query: "specificepithet:gallus genus:Gallus" ; Times: 1
+	Query: "april payne" ; Times: 2
+	Query: "specificepithet:pleurostictus genus:thryothorus" ; Times: 1
+	Query: "12642" ; Times: 1
+	Query: "sandhill crane" ; Times: 1
+	Query: "Tersina viridis" ; Times: 7
+	Query: "rufous-crowned greenlet" ; Times: 1
+	Query: "genus:Thryothorus hastissue:1" ; Times: 1
+	Query: "Podiceps grisegena minnesota" ; Times: 1
+	Query: "gray vireo sex:male" ; Times: 8
+	Query: "obscura class:Aves continent:South America" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "cozumel vireo sex:male" ; Times: 2
+	Query: "Golden Vireo sex:male" ; Times: 1
+	Query: "red kite" ; Times: 1
+	Query: "cyclopsitta diophthalma" ; Times: 2
+	Query: "35377" ; Times: 1
+	Query: "specificepithet:venusta venusta genus:Dacnis hastissue:0" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "circus Minnesota" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 6
+	Query: "trogon citreolus institutioncode:UWBM" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "Black-whiskered Vireo sex:male" ; Times: 2
+	Query: "coelestis" ; Times: 1
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "genus:erythrura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Yellow-green Vireo sex:male" ; Times: 1
+	Query: "cyclopsitta" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "UWBM 114871" ; Times: 1
+	Query: "genus:Campylorhynchus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:borealis genus:numenius" ; Times: 1
+	Query: "buccinator minnesota" ; Times: 1
+	Query: "White-eyed Vireo sex:male" ; Times: 6
+	Query: "specificepithet:canadensis genus:branta hastissue:1" ; Times: 1
+	Query: "genus:Climacteris preparations:skeleton" ; Times: 1
+	Query: "specificepithet:pleurostictus genus:Thryothorus hastissue:1" ; Times: 1
+	Query: "albatrus" ; Times: 1
+	Query: "Lesser Greenlet sex:male" ; Times: 1
+	Query: "barred owl" ; Times: 1
+	Query: "Cyanocompsa country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "plumbeous vireo sex:male" ; Times: 2
+	Query: "Uropsila country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Ramphocelus flammigerus hastissue:1" ; Times: 1
+	Query: "yellow-throated vireo sex:male" ; Times: 2
+	Query: "Brown-capped Vireo sex: male" ; Times: 1
+	Query: "uwbm 31599" ; Times: 2
+	Query: "specificepithet:pleurostictus genus:thryothorus hastissue:1" ; Times: 2
+	Query: "Uzbekistan" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1980" ; Times: 3
+	Query: "rufous-browed peppershrike sex:male" ; Times: 1
+	Query: "Arremonops country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "gallinago hardwickii" ; Times: 2
+	Query: "specificepithet:grammacus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "Brown-capped Vireo" ; Times: 1
+	Query: "47996" ; Times: 1
+	Query: "Cacomantis merulinus vntype:specimen" ; Times: 1
+	Query: "coelestis class:Aves" ; Times: 1
+	Query: "Warbling Vireo sex:male" ; Times: 6
+	Query: "specificepithet:belli genus:Amphispiza class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:mexicana genus:Sialia class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "Black-vented Shearwater" ; Times: 1
+	Query: "UWBM 113053" ; Times: 3
+	Query: "UWBM 67474" ; Times: 3
+	Query: "Dacnis hartlaubi" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "rufous-crowned greenlet sex:male" ; Times: 2
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Dacnis venusta" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1970" ; Times: 2
+	Query: "Haliaeetus albicilla egg" ; Times: 1
+	Query: "specificepithet:cassinii class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "Scrub Greenlet" ; Times: 1
+	Query: "Cacomantis merulinus hastissue:1" ; Times: 1
+	Query: "specificepithet:hartlaubi genus:Dacnis hastissue:0" ; Times: 2
+	Query: "slaty vireo sex:male" ; Times: 2
+	Query: "Sandhill Crane" ; Times: 1
+	Query: "Philadelphia Vireo sex:male" ; Times: 1
+	Query: "collared lizard" ; Times: 1
+	Query: "Bucerotidae" ; Times: 1
+	Query: "Puerto Rican Vireo sex:male" ; Times: 1
+	Query: "Red-eyed Vireo sex:male" ; Times: 10
+	Query: "guttatus stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "Brown-capped Vireo sex:male" ; Times: 2
+	Query: "Tersina viridis viridis" ; Times: 1
+	Query: "circus egg Minnesota" ; Times: 2
+	Query: "georgia southern university" ; Times: 3
+	Query: "17013 tissue" ; Times: 1
+	Query: "Great horned owl" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1101 download events in this period)
+Total number of records downloaded: 151
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 12
+	Country: Israel ; Times: 2
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 2
+	Date: 2017-11-27 ; Times: 3
+	Date: 2017-11-30 ; Times: 2
+	Date: 2017-11-28 ; Times: 5
+	Date: 2017-11-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pleurostictus genus:thryothorus hastissue:1" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Malurus CM" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "specificepithet:pleurostictus genus:Thryothorus hastissue:1" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Sostenes Romero" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "zosterops japonicus" ; Times: 4
+
+
+End of report.
