@@ -1,0 +1,478 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 622
+Number of records retrieved in searches: 6366
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 32
+	Country: Italy ; Times: 6
+	Country: Unknown ; Times: 7
+	Country: Ireland ; Times: 4
+	Country: Norway ; Times: 5
+	Country: Australia ; Times: 2
+	Country: Iran ; Times: 8
+	Country: Papua New Guinea ; Times: 6
+	Country: China ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 16
+	Country: Turkey ; Times: 11
+	Country: United States ; Times: 270
+	Country: Sweden ; Times: 6
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 185
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 6
+	Country: Cyprus ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 10
+	Date: 2018-09-23 ; Times: 24
+	Date: 2018-09-02 ; Times: 12
+	Date: 2018-09-03 ; Times: 13
+	Date: 2018-09-26 ; Times: 23
+	Date: 2018-09-01 ; Times: 5
+	Date: 2018-09-20 ; Times: 84
+	Date: 2018-09-21 ; Times: 43
+	Date: 2018-09-22 ; Times: 4
+	Date: 2018-09-05 ; Times: 24
+	Date: 2018-09-08 ; Times: 13
+	Date: 2018-09-09 ; Times: 10
+	Date: 2018-09-28 ; Times: 18
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 19
+	Date: 2018-09-10 ; Times: 19
+	Date: 2018-09-13 ; Times: 17
+	Date: 2018-09-12 ; Times: 14
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-14 ; Times: 23
+	Date: 2018-09-17 ; Times: 31
+	Date: 2018-09-16 ; Times: 3
+	Date: 2018-09-19 ; Times: 15
+	Date: 2018-09-18 ; Times: 26
+	Date: 2018-09-24 ; Times: 63
+	Date: 2018-09-25 ; Times: 49
+	Date: 2018-09-27 ; Times: 24
+	Date: 2018-09-06 ; Times: 18
+	Date: 2018-09-07 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tenuirostris genus:Numenius" ; Times: 2
+	Query: "masked booby" ; Times: 1
+	Query: "specificepithet:nigrorufa genus:poospiza" ; Times: 1
+	Query: "Pterophanes" ; Times: 4
+	Query: "turaco" ; Times: 1
+	Query: "Pycnonotus cafer vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "sterna dougallii vntype:specimen" ; Times: 1
+	Query: "olive bulbul" ; Times: 1
+	Query: "class:aves recordedby:mearns" ; Times: 1
+	Query: "genus:Tricholaema class:Aves institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:leucophrys genus:zonotrichia institutioncode:UWBM" ; Times: 4
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:Pogoniulus class:Aves institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:dumontii genus:mino" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "western tanager UWBM tissue" ; Times: 4
+	Query: "Nativitatis Christmas" ; Times: 1
+	Query: "selasphorus rufus year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "turacoena manadensis" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "specificepithet:media genus:Gallinago hastissue:1" ; Times: 2
+	Query: "white-winged scoter" ; Times: 1
+	Query: "catalognumber:75393 institutioncode:UWBM" ; Times: 2
+	Query: "pharomachrus mocinno" ; Times: 21
+	Query: "genus:Smithornis class:Aves hastissue:1" ; Times: 1
+	Query: "Greater Prairie-Chicken" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "PILEATED woodpecker" ; Times: 1
+	Query: "quail wing" ; Times: 2
+	Query: "56394 institutioncode:UWBM" ; Times: 1
+	Query: "brahminy kite" ; Times: 1
+	Query: "specificepithet:lawesii genus:parotia" ; Times: 1
+	Query: "sterna dougallii (virginia OR carolina OR jersey)" ; Times: 1
+	Query: "Leiothrix lutea vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "specificepithet:belli genus:Basileuterus hastissue:1" ; Times: 1
+	Query: "Lamprolaima" ; Times: 1
+	Query: "myiopsitta hastissue:1" ; Times: 1
+	Query: "vntype:specimen (apapane)" ; Times: 2
+	Query: "116396" ; Times: 1
+	Query: "Motacilla flava lutea" ; Times: 1
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "specificepithet:scops genus:Otus class:Aves institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:ater genus:parus" ; Times: 1
+	Query: "Pachycephala Guadalcanal" ; Times: 3
+	Query: "country:&#34;Bulgaria&#34;" ; Times: 1
+	Query: "Queensland gymnorhina" ; Times: 1
+	Query: "phaethornis mexicanus" ; Times: 1
+	Query: "specificepithet:tahitica genus:hirundo class:aves" ; Times: 1
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus" ; Times: 1
+	Query: "UWBM 100163" ; Times: 1
+	Query: "Hypothymis" ; Times: 1
+	Query: "UWBM 108392" ; Times: 1
+	Query: "wood stork" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Hypothymis azurea" ; Times: 2
+	Query: "UWBM 73051" ; Times: 2
+	Query: "family:Vireonidae stateprovince:&#34;minnesota&#34; preparations:egg" ; Times: 1
+	Query: "specificepithet:stenura genus:Gallinago hastissue:1" ; Times: 1
+	Query: "ailuroedus melanotis" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "116390" ; Times: 2
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "locality:chaun" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 51
+	Query: "specificepithet:taciturnus genus:Arremon" ; Times: 1
+	Query: "vntype:specimen genus:Synallaxis country:&#34;Bolivia&#34; hastissue:1" ; Times: 1
+	Query: "barn owl" ; Times: 2
+	Query: "specificepithet:tigrina genus:Dendroica stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:oceanodroma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "nightingale" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubiginosus genus:Automolus hastissue:1" ; Times: 1
+	Query: "003-95" ; Times: 1
+	Query: "specificepithet:torquilla genus:Jynx class:Aves institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:noctua genus:Athene hastissue:1" ; Times: 1
+	Query: "specificepithet:manadensis" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:monedula genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "recordedby:Attwater" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "specificepithet:megala genus:Gallinago hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Strecker Texas" ; Times: 2
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "chaetorhynchus" ; Times: 1
+	Query: "specificepithet:anais genus:mino" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "monk parakeet" ; Times: 5
+	Query: "vntype:specimen country:&#34;Bolivia&#34; family:Furnariidae" ; Times: 1
+	Query: "genus:Smithornis class:Aves institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "calypte costa year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "hooded oriole" ; Times: 2
+	Query: "Pavo cristatus" ; Times: 33
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "Aves vntype:specimen country:&#34;Philippines&#34; hastissue:1" ; Times: 1
+	Query: "psophia crepitans hastissue:1" ; Times: 1
+	Query: "philippine eagle" ; Times: 1
+	Query: "UWBM 73050" ; Times: 1
+	Query: "specificepithet:pleschanka genus:Oenanthe class:Aves institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Thlypopsis sordida" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 6
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella institutioncode:UWBM" ; Times: 1
+	Query: "Dendrocincla" ; Times: 1
+	Query: "117645" ; Times: 2
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "117643" ; Times: 2
+	Query: "monster" ; Times: 6
+	Query: "specificepithet:ophthalmicus genus:chlorospingus hastissue:1" ; Times: 1
+	Query: "nene" ; Times: 1
+	Query: "ciconia ciconia hastissue:1" ; Times: 1
+	Query: "snow bunting" ; Times: 2
+	Query: "falkner" ; Times: 2
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "vntype:specimen (apapane) year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "117648" ; Times: 1
+	Query: "genus:Xenus preparations:skeleton" ; Times: 2
+	Query: "16088" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "cyanocitta stelleri country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "white-rumped Shama" ; Times: 1
+	Query: "43204" ; Times: 1
+	Query: "sylvia atricapilla" ; Times: 2
+	Query: "Hyliota australis" ; Times: 4
+	Query: "vntype:specimen specificepithet:guttatus genus:Xiphorhynchus" ; Times: 1
+	Query: "wingspan vntype:specimen genus:Tachycineta" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:nicaraguensis genus:quiscalus" ; Times: 2
+	Query: "vntype:specimen genus:Lepidocolaptes country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Henicorhina hastissue:1" ; Times: 1
+	Query: "specificepithet:thilius genus:agelaius" ; Times: 1
+	Query: "specificepithet:hardwickii genus:Gallinago hastissue:1" ; Times: 3
+	Query: "M-101633" ; Times: 1
+	Query: "atlantic puffin" ; Times: 22
+	Query: "fox sparrow" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "UWBM 79576" ; Times: 2
+	Query: "malacoptila" ; Times: 1
+	Query: "genus:zonotrichia year &gt;= 2012 year &lt;= 2018 institutioncode:UWBM" ; Times: 1
+	Query: "Red-footed booby" ; Times: 3
+	Query: "specificepithet:stricklandi genus:Picoides" ; Times: 1
+	Query: "toxorhamphus poliopterus" ; Times: 1
+	Query: "body size" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "octopus" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "50292 class:Aves" ; Times: 2
+	Query: "common tern" ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes hastissue:1" ; Times: 1
+	Query: "Halcyon coromanda" ; Times: 1
+	Query: "passer hispaniolensis" ; Times: 7
+	Query: "Zosterops japonicus hastissue:1" ; Times: 2
+	Query: "specificepithet:cayana genus:cotinga" ; Times: 1
+	Query: "bald eagle washington" ; Times: 1
+	Query: "ara macao" ; Times: 18
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "specificepithet:corone genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "Ivory-bill woodpecker" ; Times: 1
+	Query: "genus:zonotrichia year &gt;= 2012 institutioncode:UWBM" ; Times: 2
+	Query: "Strecker" ; Times: 4
+	Query: "bubulcus ibis" ; Times: 1
+	Query: "egg spizella minnesota" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "family:Emberizidae country:&#34;Honduras&#34; hastissue:1" ; Times: 1
+	Query: "country:&#34;Australia&#34; recordedby:Saunders" ; Times: 2
+	Query: "ancient" ; Times: 1
+	Query: "vntype:specimen specificepithet:azarae genus:Synallaxis" ; Times: 2
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Synallaxis country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "county:&#34;orange&#34; stateprovince:&#34;California&#34; year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "genus:zonotrichia institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:torquilla genus:jynx hastissue:1" ; Times: 1
+	Query: "UWBM 80073" ; Times: 1
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "specificepithet:pica genus:Pica class:Aves institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Chlorostilbon cm" ; Times: 1
+	Query: "class:Aves country:&#34;Honduras&#34; institutioncode:UWBM hastissue:1" ; Times: 3
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "family:apodidae continent:Africa" ; Times: 1
+	Query: "wingspan vntype:specimen genus: hemitriccus" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "specificepithet:simplex genus:pycnonotus hastissue:1" ; Times: 1
+	Query: "60204 class:Aves" ; Times: 1
+	Query: "specificepithet:szalayi genus:oriolus" ; Times: 1
+	Query: "UWBM 70182" ; Times: 1
+	Query: "genus:Ailuroedus hastissue:1" ; Times: 2
+	Query: "Bicolored Antbird" ; Times: 2
+	Query: "specificepithet:fusca genus:Melanitta country:&#34;Russia&#34;" ; Times: 1
+	Query: "117622" ; Times: 1
+	Query: "locality:chaun country:&#34;Russia&#34;" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "yellow tit" ; Times: 1
+	Query: "Zosterops japonicus vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:moluccensis genus:Dendrocopos" ; Times: 1
+	Query: "EMPIDONOMUS VARIUS" ; Times: 1
+	Query: "Diomedea exulans skeleton vntype:specimen hassex:1" ; Times: 1
+	Query: "leptodon cayanensis" ; Times: 1
+	Query: "wingspan vntype:specimen genus:Xiphorhynchus" ; Times: 1
+	Query: "CAMPEPHILUS PRINCIPALIS" ; Times: 1
+	Query: "specificepithet:pica genus:Pica class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:passerina genus:Spizella hastissue:1" ; Times: 1
+	Query: "UWBM 66952" ; Times: 2
+	Query: "calypte anna year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "Accipiter gentilis gentilis hastissue:1" ; Times: 1
+	Query: "Heliangelus uwbm" ; Times: 2
+	Query: "UWBM 66954" ; Times: 3
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "myiopsitta" ; Times: 2
+	Query: "vntype:specimen specificepithet:pyrrhophia genus:Cranioleuca" ; Times: 1
+	Query: "harms" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica country:&#34;Honduras&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia hastissue:1" ; Times: 1
+	Query: "Anthus nilghiriensis" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "northern zig zag" ; Times: 2
+	Query: "spiders" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:hall year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "genus:Arachnothera" ; Times: 1
+	Query: "specificepithet:nigripennis genus:Gallinago hastissue:1" ; Times: 1
+	Query: "zonotrichia tacoma egg" ; Times: 1
+	Query: "ailuroedus buccoides" ; Times: 1
+	Query: "catalognumber:75480 institutioncode:UWBM" ; Times: 1
+	Query: "burrowing owl" ; Times: 1
+	Query: "northern gannet" ; Times: 1
+	Query: "harris hawk" ; Times: 1
+	Query: "117615" ; Times: 1
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 3
+	Query: "117617" ; Times: 1
+	Query: "catalognumber:75463 institutioncode:UWBM" ; Times: 2
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 4
+	Query: "Sula nebouxii" ; Times: 14
+	Query: "oriolus chinensis" ; Times: 1
+	Query: "Gymnogyps californianus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:militaris genus:sturnella" ; Times: 1
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "psophia crepitans" ; Times: 1
+	Query: "tree swallow" ; Times: 2
+	Query: "Pharomachrus auriceps" ; Times: 2
+	Query: "ciconia ciconia" ; Times: 1
+	Query: "specificepithet:frantzii genus:catharus country:&#34;guatemala&#34;" ; Times: 1
+	Query: "genus:chaetorhynchus hastissue:1" ; Times: 4
+	Query: "yellow-nosed albatross" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:poospiza" ; Times: 1
+	Query: "UWBM 81917" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:solitaria genus:Gallinago" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "Telespiza" ; Times: 1
+	Query: "yellow-bellied flycatcher" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 2
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "99925" ; Times: 1
+	Query: "forest owlet" ; Times: 1
+	Query: "genus:Lophospingus" ; Times: 2
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "egg mississippi" ; Times: 3
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "order:passeriformes (asia minor)" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "leptodon" ; Times: 1
+	Query: "copsychus saularis" ; Times: 2
+	Query: "specificepithet:passerina genus:Spizella country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 7
+	Query: "43935" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto class:Aves hastissue:1" ; Times: 1
+	Query: "diomedeidae skeleton" ; Times: 2
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "catalognumber:75450 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:trichroa genus:erythrura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Honduras&#34; hastissue:1" ; Times: 1
+	Query: "capito niger" ; Times: 2
+	Query: "house crow" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "wingspan vntype:specimen genus:Ammodramus" ; Times: 1
+	Query: "Arroyo Seco class:Aves locality:Pasadena county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sterna dougallii" ; Times: 2
+	Query: "catalognumber:75449 institutioncode:UWBM" ; Times: 2
+	Query: "mimosa" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "calliope year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "apapane" ; Times: 4
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "specificepithet:cryptoleucus genus:corvus hastissue:1" ; Times: 1
+	Query: "UWBM 73028" ; Times: 2
+	Query: "specificepithet:simplex genus:pycnonotus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Furnariidae country:&#34;Bolivia&#34; institutioncode:UWBM" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "specificepithet:melanotis genus:Ailuroedus" ; Times: 2
+	Query: "zonotrichia leucophrys Churchill egg" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "quetzal" ; Times: 2
+	Query: "(accipiter gentilis) hastissue:1" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "&#34;Pipra pipra&#34; vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "Red-breasted Nuthatch" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "recordedby:trostler" ; Times: 1
+	Query: "vntype:specimen genus:synallaxis country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "corvus splendens" ; Times: 2
+	Query: "sitta europaea" ; Times: 2
+	Query: "Georgia Southern University" ; Times: 1
+	Query: "specificepithet:virenticeps genus:Atlapetes hastissue:1" ; Times: 2
+	Query: "Melopsittacus" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 12
+	Query: "genus:Entomodestes hastissue:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34;" ; Times: 4
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34; country:&#34;canada&#34;" ; Times: 4
+	Query: "Painted Bunting" ; Times: 1
+	Query: "specificepithet:simplex genus:Pycnonotus country:&#34;Malaysia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 846 download events in this period)
+Total number of records downloaded: 3236
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 29
+	Country: Norway ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-20 ; Times: 5
+	Date: 2018-09-27 ; Times: 6
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Zosterops japonicus hastissue:1" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "psophia crepitans hastissue:1" ; Times: 1
+	Query: "calypte costa year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "specificepithet:ophthalmicus genus:chlorospingus hastissue:1" ; Times: 1
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "Aves vntype:specimen country:&#34;Philippines&#34; hastissue:1" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:brunneinucha genus:Atlapetes hastissue:1" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Gymnogyps californianus preparations:skeleton" ; Times: 1
+	Query: "locality:chaun country:&#34;Russia&#34;" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:belli genus:Basileuterus hastissue:1" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Henicorhina hastissue:1" ; Times: 1
+	Query: "RED BELLIED WOODPECKER" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "specificepithet:virenticeps genus:Atlapetes hastissue:1" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+
+
+End of report.
