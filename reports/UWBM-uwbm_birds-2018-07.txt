@@ -1,0 +1,1002 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1127
+Number of records retrieved in searches: 9703
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 58
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 24
+	Country: Mongolia ; Times: 1
+	Country: France ; Times: 1
+	Country: Peru ; Times: 593
+	Country: Argentina ; Times: 4
+	Country: Norway ; Times: 1
+	Country: Australia ; Times: 15
+	Country: Singapore ; Times: 1
+	Country: El Salvador ; Times: 2
+	Country: Czechia ; Times: 2
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 10
+	Country: Belgium ; Times: 6
+	Country: China ; Times: 6
+	Country: Ukraine ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 339
+	Country: Sweden ; Times: 2
+	Country: Russia ; Times: 4
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 18
+	Country: South Africa ; Times: 11
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 7
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 4
+	Date: 2018-07-01 ; Times: 4
+	Date: 2018-07-02 ; Times: 4
+	Date: 2018-07-03 ; Times: 22
+	Date: 2018-07-28 ; Times: 6
+	Date: 2018-07-29 ; Times: 18
+	Date: 2018-07-08 ; Times: 4
+	Date: 2018-07-09 ; Times: 16
+	Date: 2018-07-04 ; Times: 22
+	Date: 2018-07-05 ; Times: 9
+	Date: 2018-07-06 ; Times: 11
+	Date: 2018-07-21 ; Times: 8
+	Date: 2018-07-26 ; Times: 16
+	Date: 2018-07-27 ; Times: 10
+	Date: 2018-07-24 ; Times: 568
+	Date: 2018-07-25 ; Times: 58
+	Date: 2018-07-13 ; Times: 9
+	Date: 2018-07-12 ; Times: 19
+	Date: 2018-07-11 ; Times: 32
+	Date: 2018-07-10 ; Times: 36
+	Date: 2018-07-17 ; Times: 23
+	Date: 2018-07-16 ; Times: 12
+	Date: 2018-07-15 ; Times: 16
+	Date: 2018-07-14 ; Times: 6
+	Date: 2018-07-31 ; Times: 43
+	Date: 2018-07-30 ; Times: 69
+	Date: 2018-07-19 ; Times: 19
+	Date: 2018-07-18 ; Times: 15
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-23 ; Times: 27
+	Date: 2018-07-20 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "2-1475 aves" ; Times: 1
+	Query: "Eubucco versicolor mappable:1" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "Phoenicopterus chilensis mappable:1" ; Times: 1
+	Query: "uwbm 62061" ; Times: 1
+	Query: "44690" ; Times: 1
+	Query: "passer iagoensis" ; Times: 1
+	Query: "Euphonia laniirostris mappable:1" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 2
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "Diglossa albilatera mappable:1" ; Times: 1
+	Query: "Chloroceryle aenea mappable:1" ; Times: 1
+	Query: "Pelagodroma marina mappable:1" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Nothoprocta ornata mappable:1" ; Times: 1
+	Query: "Merganetta armata mappable:1" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "eagle egg" ; Times: 2
+	Query: "Tachybaptus dominicus mappable:1" ; Times: 1
+	Query: "Amazilia franciae mappable:1" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "egg zenaida brownsville" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "Ramphastos toco mappable:1" ; Times: 1
+	Query: "Fregata magnificens mappable:1" ; Times: 1
+	Query: "Empidonax alnorum mappable:1" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "poi* rob*" ; Times: 1
+	Query: "uwbm 91381" ; Times: 2
+	Query: "catalognumber:76824 institutioncode:UWBM" ; Times: 2
+	Query: "Geotrygon violacea" ; Times: 2
+	Query: "Platalea ajaja mappable:1" ; Times: 1
+	Query: "22763" ; Times: 2
+	Query: "Pemberton Island NOT BAiley" ; Times: 1
+	Query: "Numenius phaeopus mappable:1" ; Times: 1
+	Query: "Myioborus brunniceps" ; Times: 1
+	Query: "100446 aves" ; Times: 2
+	Query: "82901" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 2
+	Query: "74358" ; Times: 1
+	Query: "Welcome swallow" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "Patagona gigas mappable:1" ; Times: 1
+	Query: "catalognumber:76823 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:39626 institutioncode:UWBM" ; Times: 2
+	Query: "Leptodon cayanensis mappable:1" ; Times: 1
+	Query: "20055 aves" ; Times: 1
+	Query: "Trogon curucui mappable:1" ; Times: 1
+	Query: "Synallaxis azarae mappable:1" ; Times: 1
+	Query: "Columbina picui mappable:1" ; Times: 1
+	Query: "Amazona viridigenalis year &gt;= 1908 year &lt;= 1980" ; Times: 1
+	Query: "Penelope purpurascens mappable:1" ; Times: 1
+	Query: "92002" ; Times: 1
+	Query: "Tersina viridis mappable:1" ; Times: 1
+	Query: "Calidris canutus mappable:1" ; Times: 1
+	Query: "Turdus amaurochalinus mappable:1" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 2
+	Query: "Lepidocolaptes souleyetii mappable:1" ; Times: 1
+	Query: "specificepithet:ciconia genus:Ciconia" ; Times: 3
+	Query: "30999" ; Times: 1
+	Query: "genus:Campylorhynchus order:Passeriformes institutioncode:UWBM" ; Times: 1
+	Query: "13128 aves" ; Times: 1
+	Query: "Common Eider Somateria mollissima" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 3
+	Query: "Crypturellus soui" ; Times: 2
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Tringa melanoleuca mappable:1" ; Times: 1
+	Query: "Crypturellus tataupa" ; Times: 2
+	Query: "WM 3" ; Times: 1
+	Query: "county:&#34;tarrant&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Amazilia chionogaster mappable:1" ; Times: 1
+	Query: "Chalcostigma herrani mappable:1" ; Times: 1
+	Query: "30037 aves" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "Tangara schrankii mappable:1" ; Times: 1
+	Query: "Sicalis flaveola mappable:1" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "9524" ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "Chauna torquata mappable:1" ; Times: 1
+	Query: "sterna hirundinacea]" ; Times: 1
+	Query: "Cyanocorax cyanomelas mappable:1" ; Times: 1
+	Query: "Pterodroma phaeopygia" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 2
+	Query: "Lanius collurio" ; Times: 2
+	Query: "Muscisaxicola maculirostris mappable:1" ; Times: 1
+	Query: "Phaethornis malaris mappable:1" ; Times: 1
+	Query: "carpodacus rubicilla" ; Times: 1
+	Query: "Automolus ochrolaemus vntype:specimen country:&#34;Panama&#34;" ; Times: 2
+	Query: "Mionectes oleagineus mappable:1" ; Times: 1
+	Query: "specificepithet:anna genus:calypte stateprovince:&#34;washington&#34; institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Myiodynastes luteiventris mappable:1" ; Times: 1
+	Query: "Boissonneaua matthewsii mappable:1" ; Times: 1
+	Query: "blakistoni specificepithet:spinoletta genus:anthus" ; Times: 1
+	Query: "class:aves country:&#34;kyrgyzstan&#34;" ; Times: 1
+	Query: "Metriopelia aymara mappable:1" ; Times: 1
+	Query: "genus:Cygnus preparations:skeleton institutioncode:UWBM" ; Times: 1
+	Query: "genus:Limnodromus year &gt;= 1924 year &lt;= 1924 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:superbus genus:ptilinopus class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nemosia pileata mappable:1" ; Times: 1
+	Query: "UNAM 4855" ; Times: 1
+	Query: "Myiarchus tyrannulus mappable:1" ; Times: 1
+	Query: "53355" ; Times: 1
+	Query: "Anthracothorax nigricollis mappable:1" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Isabel&#34; country:&#34;Solomon Islands&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:69188 institutioncode:UWBM" ; Times: 2
+	Query: "Pterophanes cyanopterus" ; Times: 2
+	Query: "Phylloscopus inornatus vntype:specimen" ; Times: 1
+	Query: "Netta erythrophthalma mappable:1" ; Times: 1
+	Query: "Tyrannus savana mappable:1" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 2
+	Query: "order:Passeriformes institutioncode:UWBM" ; Times: 2
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "Chaetocercus bombus mappable:1" ; Times: 1
+	Query: "UWBM 79662" ; Times: 2
+	Query: "Coragyps atratus mappable:1" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes institutioncode:UWBM" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 2
+	Query: "2796 aves" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "76389 psittacidae" ; Times: 1
+	Query: "Dendrocygna viduata mappable:1" ; Times: 1
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "73161" ; Times: 1
+	Query: "blue cheeked bee eater" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 2
+	Query: "Bubulcus ibis mappable:1" ; Times: 1
+	Query: "eskimo curlew" ; Times: 1
+	Query: "Conopophaga ardesiaca mappable:1" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "UWBM 7347" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "egg auklet alaska" ; Times: 1
+	Query: "Metriopelia aymara" ; Times: 2
+	Query: "Euphonia chrysopasta mappable:1" ; Times: 1
+	Query: "Picumnus rufiventris mappable:1" ; Times: 1
+	Query: "Ammodramus humeralis mappable:1" ; Times: 1
+	Query: "Crotophaga ani mappable:1" ; Times: 1
+	Query: "Chaetocercus mulsant mappable:1" ; Times: 1
+	Query: "Chloephaga melanoptera mappable:1" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "Formicarius analis mappable:1" ; Times: 1
+	Query: "Psarocolius decumanus mappable:1" ; Times: 1
+	Query: "Vireo altiloquus mappable:1" ; Times: 1
+	Query: "Saltator coerulescens mappable:1" ; Times: 1
+	Query: "Phaethornis guy mappable:1" ; Times: 1
+	Query: "eurocephalus" ; Times: 1
+	Query: "Thamnophilus punctatus mappable:1" ; Times: 1
+	Query: "Ivory-billed woodpecker" ; Times: 4
+	Query: "Coereba flaveola mappable:1" ; Times: 1
+	Query: "Glaucidium brasilianum mappable:1" ; Times: 1
+	Query: "Columbina talpacoti mappable:1" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 2
+	Query: "Myioborus miniatus mappable:1" ; Times: 1
+	Query: "Crypturellus parvirostris mappable:1" ; Times: 1
+	Query: "Gallinago paraguaiae mappable:1" ; Times: 1
+	Query: "Oreotrochilus estella mappable:1" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 2
+	Query: "Cephalopterus penduliger" ; Times: 1
+	Query: "family:Troglodytidae order:Passeriformes institutioncode:UWBM" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "Coryphospingus cucullatus mappable:1" ; Times: 1
+	Query: "genus:Puffinus preparations:skeleton institutioncode:UWBM" ; Times: 2
+	Query: "24 August 1997" ; Times: 1
+	Query: "Glaucidium minutissimum mappable:1" ; Times: 1
+	Query: "Inezia inornata mappable:1" ; Times: 1
+	Query: "Attila spadiceus mappable:1" ; Times: 1
+	Query: "93318 aves" ; Times: 2
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "Ocreatus underwoodii mappable:1" ; Times: 1
+	Query: "Gymnopithys leucaspis mappable:1" ; Times: 1
+	Query: "Adelomyia melanogenys mappable:1" ; Times: 3
+	Query: "specificepithet:anna genus:Calypte hastissue:1" ; Times: 1
+	Query: "Phaethon aethereus mappable:1" ; Times: 1
+	Query: "Phalaropus lobatus mappable:1" ; Times: 1
+	Query: "Phyllomyias sclateri mappable:1" ; Times: 1
+	Query: "Habia rubica mappable:1" ; Times: 1
+	Query: "Ara militaris mappable:1" ; Times: 1
+	Query: "Diglossa glauca mappable:1" ; Times: 1
+	Query: "specificepithet:aureola genus:Emberiza hastissue:1" ; Times: 1
+	Query: "Caloenas" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 2
+	Query: "Ciccaba virgata mappable:1" ; Times: 1
+	Query: "33717 aves" ; Times: 1
+	Query: "copsychus saularis" ; Times: 1
+	Query: "Calidris himantopus mappable:1" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 1
+	Query: "12513 aves" ; Times: 2
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 2
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "39043 aves" ; Times: 1
+	Query: "39.1 aves" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 2
+	Query: "Barn Swallow" ; Times: 1
+	Query: "Podiceps major" ; Times: 2
+	Query: "Nyctibius grandis" ; Times: 2
+	Query: "Gymnomystax mexicanus mappable:1" ; Times: 1
+	Query: "89544" ; Times: 1
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+	Query: "Philohydor lictor mappable:1" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 2
+	Query: "34490" ; Times: 1
+	Query: "specificepithet:pitiayumi hastissue:1" ; Times: 2
+	Query: "catalognumber:82215 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:72056 institutioncode:UWBM" ; Times: 2
+	Query: "19982" ; Times: 1
+	Query: "Pitangus sulphuratus mappable:1" ; Times: 1
+	Query: "Dysithamnus mentalis mappable:1" ; Times: 1
+	Query: "Conover" ; Times: 1
+	Query: "Forpus xanthopterygius mappable:1" ; Times: 1
+	Query: "Eremophila alpestris institutioncode:UWBM" ; Times: 1
+	Query: "AM 3468" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "Lepidocolaptes lacrymiger mappable:1" ; Times: 1
+	Query: "Coeligena inca mappable:1" ; Times: 1
+	Query: "specificepithet:Trichroa genus:Erythrura class:Aves" ; Times: 1
+	Query: "carpodacus rhodochlamys" ; Times: 1
+	Query: "Anthus hellmayri mappable:1" ; Times: 1
+	Query: "90043 aves" ; Times: 5
+	Query: "Hylocharis cyanus mappable:1" ; Times: 1
+	Query: "Limosa fedoa mappable:1" ; Times: 1
+	Query: "egg arctic coast" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "tigrisoma mexicanum" ; Times: 2
+	Query: "Tangara xanthocephala mappable:1" ; Times: 1
+	Query: "Forpus xanthops mappable:1" ; Times: 1
+	Query: "18420 aves" ; Times: 2
+	Query: "Thamnophilus palliatus mappable:1" ; Times: 1
+	Query: "Campephilus haematogaster mappable:1" ; Times: 1
+	Query: "Oceanites oceanicus mappable:1" ; Times: 1
+	Query: "Micrastur semitorquatus mappable:1" ; Times: 1
+	Query: "Mazama americana" ; Times: 4
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Chalcostigma stanleyi mappable:1" ; Times: 1
+	Query: "3704 aves" ; Times: 1
+	Query: "Phaethornis griseogularis mappable:1" ; Times: 1
+	Query: "Stelgidopteryx ruficollis mappable:1" ; Times: 1
+	Query: "Coeligena torquata mappable:1" ; Times: 1
+	Query: "Empidonomus varius mappable:1" ; Times: 1
+	Query: "Psophia crepitans mappable:1" ; Times: 1
+	Query: "Cochlearius cochlearius mappable:1" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "Aeronautes andecolus mappable:1" ; Times: 2
+	Query: "90043" ; Times: 4
+	Query: "99162 aves" ; Times: 1
+	Query: "Syndactyla rufosuperciliata mappable:1" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 2
+	Query: "aves 90043" ; Times: 1
+	Query: "Asthenes maculicauda mappable:1" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 2
+	Query: "Henicorhina leucophrys mappable:1" ; Times: 1
+	Query: "catalognumber:82988 institutioncode:UWBM" ; Times: 2
+	Query: "Haematopus palliatus mappable:1" ; Times: 1
+	Query: "Lurocalis semitorquatus" ; Times: 2
+	Query: "spider" ; Times: 1
+	Query: "Phacellodomus rufifrons mappable:1" ; Times: 1
+	Query: "specificepithet:rupicola genus:Colaptes hastissue:1" ; Times: 2
+	Query: "Nyctanassa violacea mappable:1" ; Times: 1
+	Query: "Wings of Birds" ; Times: 1
+	Query: "Ochthoeca leucophrys mappable:1" ; Times: 1
+	Query: "Crotophaga sulcirostris" ; Times: 1
+	Query: "Myiopagis flavivertex mappable:1" ; Times: 1
+	Query: "rock ptarmigan" ; Times: 1
+	Query: "14616" ; Times: 1
+	Query: "Lafresnaya lafresnayi mappable:1" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 2
+	Query: "ardea purpurea" ; Times: 2
+	Query: "Henicorhina leucosticta mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucocephalus genus:Haliaeetus country:&#34;United States&#34; year &gt;= 1975 year &lt;= 2018" ; Times: 1
+	Query: "Thinocorus rumicivorus mappable:1" ; Times: 1
+	Query: "Cyanerpes cyaneus mappable:1" ; Times: 1
+	Query: "Iridosornis analis mappable:1" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 2
+	Query: "Columba livia mappable:1" ; Times: 3
+	Query: "Gubernatrix" ; Times: 1
+	Query: "specificepithet:pitiayumi genus:Parula hastissue:1" ; Times: 2
+	Query: "Electron platyrhynchum mappable:1" ; Times: 1
+	Query: "catalognumber:77434 institutioncode:UWBM" ; Times: 4
+	Query: "Amazona ochrocephala mappable:1" ; Times: 1
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 1
+	Query: "83545" ; Times: 1
+	Query: "Opisthocomus hoazin mappable:1" ; Times: 1
+	Query: "Anas georgica mappable:1" ; Times: 1
+	Query: "Tangara xanthogastra mappable:1" ; Times: 1
+	Query: "Seriema" ; Times: 1
+	Query: "Patagona gigas" ; Times: 2
+	Query: "Pygochelidon cyanoleuca mappable:1" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "Anthus correndera mappable:1" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Amazona viridigenalis year &gt;= 1908 year &lt;= 1969" ; Times: 1
+	Query: "Lesbia victoriae mappable:1" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 2
+	Query: "Pionus sordidus mappable:1" ; Times: 6
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "willow flycatcher" ; Times: 1
+	Query: "Arremonops conirostris mappable:1" ; Times: 1
+	Query: "sporophila bouvreuil" ; Times: 1
+	Query: "roseata 86640" ; Times: 1
+	Query: "Pipraeidea melanonota mappable:1" ; Times: 1
+	Query: "Anser indicus" ; Times: 4
+	Query: "Quiscalus mexicanus mappable:1" ; Times: 1
+	Query: "Trogon rufus mappable:1" ; Times: 1
+	Query: "Calidris melanotos mappable:1" ; Times: 1
+	Query: "Cacicus solitarius mappable:1" ; Times: 1
+	Query: "Psittinus" ; Times: 1
+	Query: "Leptasthenura aegithaloides mappable:1" ; Times: 1
+	Query: "Terenotriccus erythrurus mappable:1" ; Times: 1
+	Query: "UWBM 5965" ; Times: 1
+	Query: "cerulean" ; Times: 1
+	Query: "Vireo flavoviridis mappable:1" ; Times: 1
+	Query: "Crotophaga ani" ; Times: 1
+	Query: "catalognumber:112955 institutioncode:UWBM" ; Times: 3
+	Query: "Pipra fasciicauda mappable:1" ; Times: 1
+	Query: "recordedby:Nuttall" ; Times: 2
+	Query: "specificepithet:hirundinacea genus:sterna" ; Times: 2
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "Campylopterus villaviscensio" ; Times: 2
+	Query: "glaucidium capense" ; Times: 3
+	Query: "catalognumber:64744 institutioncode:UWBM" ; Times: 2
+	Query: "Cotinga cotinga mappable:1" ; Times: 1
+	Query: "Paroaria gularis mappable:1" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 2
+	Query: "specificepithet:sacra genus:egretta class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sublegatus modestus mappable:1" ; Times: 1
+	Query: "Tityra inquisitor mappable:1" ; Times: 1
+	Query: "Passer ammodendri hastissue:1" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "suiriri" ; Times: 1
+	Query: "Thinocorus orbignyianus mappable:1" ; Times: 1
+	Query: "Coeligena inca" ; Times: 2
+	Query: "Chloephaga melanoptera" ; Times: 2
+	Query: "Merganetta armata" ; Times: 2
+	Query: "uwbm 50411" ; Times: 2
+	Query: "Phaeomyias murina mappable:1" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "Leptotila verreauxi mappable:1" ; Times: 1
+	Query: "Nothoprocta ornata" ; Times: 2
+	Query: "Chordeiles minor" ; Times: 2
+	Query: "Thamnophilus caerulescens mappable:1" ; Times: 1
+	Query: "Columbina minuta" ; Times: 2
+	Query: "Ictinia mississippiensis mappable:1" ; Times: 1
+	Query: "Brotogeris versicolurus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:pitiayumi genus:Parula" ; Times: 1
+	Query: "Myrmotherula longicauda mappable:1" ; Times: 1
+	Query: "Capsiempis flaveola mappable:1" ; Times: 1
+	Query: "&#34;Harris County&#34;" ; Times: 2
+	Query: "Tachycineta leucorrhoa mappable:1" ; Times: 1
+	Query: "Plegadis chihi mappable:1" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 2
+	Query: "53348" ; Times: 1
+	Query: "Catharus fuscescens mappable:1" ; Times: 1
+	Query: "barred owl" ; Times: 2
+	Query: "Chamaeza campanisona mappable:1" ; Times: 1
+	Query: "specificepithet:lafargei genus:myzomela class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pteroglossus erythropygius mappable:1" ; Times: 1
+	Query: "Dubusia taeniata mappable:1" ; Times: 1
+	Query: "Anhinga anhinga mappable:1" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "schultz creek" ; Times: 1
+	Query: "genus:Bartramia hassex:1 haslength:1" ; Times: 1
+	Query: "Elaenia albiceps mappable:1" ; Times: 1
+	Query: "Saltator maximus mappable:1" ; Times: 1
+	Query: "Heliangelus viola mappable:1" ; Times: 1
+	Query: "cm 4597" ; Times: 1
+	Query: "Pemberton Island" ; Times: 2
+	Query: "Chlorophanes spiza mappable:1" ; Times: 1
+	Query: "Microcerculus marginatus mappable:1" ; Times: 1
+	Query: "14651" ; Times: 1
+	Query: "Trogon melanurus mappable:1" ; Times: 1
+	Query: "specificepithet:anna genus:calypte institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "Leptopogon superciliaris mappable:1" ; Times: 1
+	Query: "Melanerpes pucherani mappable:1" ; Times: 1
+	Query: "dacnis hartlaubi basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chlorostilbon mellisugus mappable:1" ; Times: 1
+	Query: "Contopus fumigatus mappable:1" ; Times: 1
+	Query: "1196 p" ; Times: 1
+	Query: "genus:pitta class:aves country:&#34;solomon&#34;" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella year &gt;= 1988 institutioncode:UWBM" ; Times: 1
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "recordedby:P.I.Osburn" ; Times: 1
+	Query: "Phacellodomus striaticeps mappable:1" ; Times: 1
+	Query: "Molothrus bonariensis mappable:1" ; Times: 1
+	Query: "Anas flavirostris mappable:1" ; Times: 1
+	Query: "genus:megapodius class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas georgica" ; Times: 2
+	Query: "Chalybura urochrysia" ; Times: 2
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "wilson Buteo" ; Times: 1
+	Query: "99162" ; Times: 2
+	Query: "39041" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 5
+	Query: "39043" ; Times: 1
+	Query: "Crypturellus parvirostris" ; Times: 2
+	Query: "Iowa marshall county albion" ; Times: 1
+	Query: "genus:colaptes family:picidae country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Elaenia parvirostris mappable:1" ; Times: 1
+	Query: "Saltator grossus mappable:1" ; Times: 1
+	Query: "Pheucticus aureoventris mappable:1" ; Times: 1
+	Query: "65253" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Dendroica institutioncode:UWBM hastissue:1" ; Times: 3
+	Query: "specificepithet:leucophrys genus:rhipidura class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "100529" ; Times: 1
+	Query: "Sitta europaea" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "26817" ; Times: 2
+	Query: "Ivory-billed Woodpecker" ; Times: 1
+	Query: "Cacicus uropygialis mappable:1" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Catamenia inornata mappable:1" ; Times: 1
+	Query: "Todirostrum cinereum mappable:1" ; Times: 1
+	Query: "Trogon collaris mappable:1" ; Times: 1
+	Query: "Aulacorhynchus derbianus mappable:1" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:sterna country:&#34;Argentina&#34;" ; Times: 2
+	Query: "Arremon aurantiirostris mappable:1" ; Times: 1
+	Query: "Psittacula egg" ; Times: 3
+	Query: "Buteo nitidus mappable:1" ; Times: 1
+	Query: "Anabacerthia striaticollis mappable:1" ; Times: 1
+	Query: "Coeligena coeligena mappable:1" ; Times: 1
+	Query: "Chaetocercus mulsant" ; Times: 1
+	Query: "Baryphthengus martii mappable:1" ; Times: 1
+	Query: "Pyrocephalus rubinus mappable:1" ; Times: 1
+	Query: "Rallus limicola mappable:1" ; Times: 1
+	Query: "Tityra cayana mappable:1" ; Times: 1
+	Query: "Asthenes modesta mappable:1" ; Times: 1
+	Query: "pharomachrus" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 11
+	Query: "Phoenicopterus chilensis" ; Times: 2
+	Query: "Vultur gryphus mappable:1" ; Times: 1
+	Query: "vultur" ; Times: 3
+	Query: "aves 47680" ; Times: 1
+	Query: "Eucometis penicillata mappable:1" ; Times: 1
+	Query: "Spheniscus humboldti mappable:1" ; Times: 1
+	Query: "Oporornis agilis mappable:1" ; Times: 1
+	Query: "Caracara plancus mappable:1" ; Times: 1
+	Query: "aves 6399" ; Times: 2
+	Query: "Gubernatrix cristata" ; Times: 2
+	Query: "35473 aves" ; Times: 1
+	Query: "Chlorostilbon poortmani mappable:1" ; Times: 1
+	Query: "Egretta thula mappable:1" ; Times: 1
+	Query: "Piculus chrysochloros mappable:1" ; Times: 1
+	Query: "specificepithet:braccatus genus:Moho" ; Times: 1
+	Query: "Andigena nigrirostris mappable:1" ; Times: 1
+	Query: "Cnemotriccus fuscatus mappable:1" ; Times: 1
+	Query: "Barred owl" ; Times: 2
+	Query: "trichoglossus haematodus" ; Times: 1
+	Query: "104695" ; Times: 1
+	Query: "Lophotriccus vitiosus mappable:1" ; Times: 1
+	Query: "Ramphocelus icteronotus mappable:1" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 2
+	Query: "34370 aves" ; Times: 1
+	Query: "specificepithet:hartlaubi genus:Dacnis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Florisuga mellivora mappable:1" ; Times: 1
+	Query: "Phylloscartes ventralis mappable:1" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus mappable:1" ; Times: 1
+	Query: "Thlypopsis ruficeps mappable:1" ; Times: 1
+	Query: "Mionectes striaticollis mappable:1" ; Times: 1
+	Query: "genus:Melanitta preparations:skeleton institutioncode:UWBM" ; Times: 1
+	Query: "Anthus furcatus mappable:1" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Sicalis luteola mappable:1" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 2
+	Query: "Phaethon aethereus" ; Times: 2
+	Query: "Amazona farinosa mappable:1" ; Times: 1
+	Query: "Amazona viridigenalis year &gt;= 1908 year &lt;= 2018" ; Times: 1
+	Query: "Colonia colonus mappable:1" ; Times: 1
+	Query: "Platyrinchus coronatus mappable:1" ; Times: 1
+	Query: "anser indicus" ; Times: 2
+	Query: "Myiopagis viridicata mappable:1" ; Times: 1
+	Query: "Amazona viridigenalis year &gt;= 1908 year &lt;= 2010" ; Times: 1
+	Query: "(Blair county pennsylvania)" ; Times: 1
+	Query: "Chlorostilbon notatus mappable:1" ; Times: 1
+	Query: "Jacana jacana mappable:1" ; Times: 1
+	Query: "Thamnophilus aethiops mappable:1" ; Times: 1
+	Query: "33717" ; Times: 1
+	Query: "Phaethornis hispidus mappable:1" ; Times: 1
+	Query: "Colaptes rupicola mappable:1" ; Times: 1
+	Query: "Chlorospingus flavigularis mappable:1" ; Times: 1
+	Query: "Natividad Baja &#34;1897&#34;" ; Times: 1
+	Query: "Turdus chiguanco mappable:1" ; Times: 1
+	Query: "Volatinia jacarina mappable:1" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 2
+	Query: "Leptotila rufaxilla" ; Times: 2
+	Query: "Pterophanes cyanopterus mappable:1" ; Times: 1
+	Query: "catalognumber:113438 institutioncode:UWBM" ; Times: 2
+	Query: "Ixobrychus exilis mappable:1" ; Times: 1
+	Query: "Heliodoxa leadbeateri mappable:1" ; Times: 1
+	Query: "Spizella wortheni" ; Times: 10
+	Query: "Amazilia chionogaster" ; Times: 1
+	Query: "specificepithet:lathami genus:Alectura country:&#34;Australia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Troglodytes solstitialis mappable:1" ; Times: 1
+	Query: "Piaya cayana mappable:1" ; Times: 1
+	Query: "18509 AVES" ; Times: 2
+	Query: "Thamnophilus doliatus mappable:1" ; Times: 1
+	Query: "Ensifera ensifera mappable:1" ; Times: 1
+	Query: "16129" ; Times: 1
+	Query: "Chen rossii hastissue:1" ; Times: 2
+	Query: "Dromococcyx phasianellus mappable:1" ; Times: 1
+	Query: "Myiodynastes chrysocephalus mappable:1" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "Hemitriccus margaritaceiventer mappable:1" ; Times: 1
+	Query: "Nyctidromus albicollis" ; Times: 2
+	Query: "Trogon personatus mappable:1" ; Times: 1
+	Query: "specificepithet:solstitialis genus:Aratinga hastissue:1" ; Times: 1
+	Query: "Sicalis olivascens mappable:1" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Sittasomus griseicapillus mappable:1" ; Times: 1
+	Query: "Arenaria interpres mappable:1" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 2
+	Query: "Rollandia rolland" ; Times: 2
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Mecocerculus hellmayri mappable:1" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 3
+	Query: "Aberdeen" ; Times: 1
+	Query: "Cisticola lais" ; Times: 1
+	Query: "catalognumber:71469 institutioncode:UWBM" ; Times: 2
+	Query: "Lesbia victoriae" ; Times: 2
+	Query: "Ardea alba mappable:1" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella year &gt;= 1988 year &lt;= 1988 institutioncode:UWBM" ; Times: 1
+	Query: "Porzana albicollis mappable:1" ; Times: 1
+	Query: "catalognumber:51144 institutioncode:UWBM" ; Times: 2
+	Query: "pachyrhyncha" ; Times: 1
+	Query: "Catharus fuscater mappable:1" ; Times: 1
+	Query: "Wire-tailed swallow" ; Times: 3
+	Query: "specificepithet:lineata class:aves country:&#34;solomon&#34;" ; Times: 1
+	Query: "Cistothorus platensis mappable:1" ; Times: 1
+	Query: "Tringa flavipes mappable:1" ; Times: 1
+	Query: "Phoenicopteridae" ; Times: 1
+	Query: "Dendrocolaptes picumnus mappable:1" ; Times: 1
+	Query: "Crotophaga sulcirostris mappable:1" ; Times: 1
+	Query: "genus:micropsitta class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Heliomaster longirostris mappable:1" ; Times: 1
+	Query: "Klais guimeti" ; Times: 2
+	Query: "Eutoxeres aquila mappable:1" ; Times: 1
+	Query: "specificepithet:minor genus:dendrocopos hastissue:1" ; Times: 1
+	Query: "89930" ; Times: 1
+	Query: "White-throated swallow" ; Times: 2
+	Query: "Doryfera johannae mappable:1" ; Times: 1
+	Query: "Anthus bogotensis mappable:1" ; Times: 1
+	Query: "Ara ararauna mappable:1" ; Times: 1
+	Query: "pyrrhura picta" ; Times: 4
+	Query: "vntype:specimen specificepithet:barbarus genus:otus" ; Times: 1
+	Query: "genus:Phasianus preparations:skeleton institutioncode:UWBM" ; Times: 1
+	Query: "cyanoptila" ; Times: 1
+	Query: "26817 aves" ; Times: 2
+	Query: "2040 genus:Catharus" ; Times: 1
+	Query: "Psarocolius angustifrons mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:otus" ; Times: 1
+	Query: "Saltator aurantiirostris mappable:1" ; Times: 1
+	Query: "Gnorimopsar chopi mappable:1" ; Times: 1
+	Query: "Grallaria guatimalensis mappable:1" ; Times: 1
+	Query: "49649-1" ; Times: 1
+	Query: "columba plumbea" ; Times: 2
+	Query: "ramphocelus nigrogularis" ; Times: 3
+	Query: "Tangara nigrocincta mappable:1" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 2
+	Query: "Turdus albicollis mappable:1" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 2
+	Query: "Uzbekistan" ; Times: 1
+	Query: "specificepithet:townsendi genus:Dendroica year &gt;= 2000 year &lt;= 2018 institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "genus:Bartramia hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Leptotila rufaxilla mappable:1" ; Times: 1
+	Query: "93531 aves" ; Times: 1
+	Query: "Anthracothorax prevostii mappable:1" ; Times: 1
+	Query: "57433 aves" ; Times: 1
+	Query: "Leucippus chlorocercus" ; Times: 1
+	Query: "Mecocerculus leucophrys mappable:1" ; Times: 1
+	Query: "burrowing owl" ; Times: 1
+	Query: "genus:Calonectris preparations:skeleton institutioncode:UWBM" ; Times: 1
+	Query: "Caracara cheriway mappable:1" ; Times: 1
+	Query: "Egretta caerulea mappable:1" ; Times: 1
+	Query: "Camptostoma obsoletum mappable:1" ; Times: 1
+	Query: "specificepithet:lineata genus:coracina class:aves country:&#34;solomon&#34;" ; Times: 1
+	Query: "Zonotrichia capensis mappable:1" ; Times: 1
+	Query: "Elaenia flavogaster mappable:1" ; Times: 1
+	Query: "Progne subis mappable:1" ; Times: 1
+	Query: "Progne tapera mappable:1" ; Times: 1
+	Query: "eastern bluebird" ; Times: 1
+	Query: "Iowa marshall county allen" ; Times: 1
+	Query: "Crypturellus tataupa mappable:1" ; Times: 1
+	Query: "Roseate tern wing" ; Times: 1
+	Query: "uwbm 48266" ; Times: 1
+	Query: "Ramphomicron microrhynchum" ; Times: 2
+	Query: "specificepithet:rufifrons genus:Rhipidura" ; Times: 1
+	Query: "catalognumber:39838 institutioncode:UWBM" ; Times: 2
+	Query: "Calliphlox amethystina mappable:1" ; Times: 1
+	Query: "Nyctidromus albicollis mappable:1" ; Times: 1
+	Query: "Elaenia obscura mappable:1" ; Times: 1
+	Query: "Cotinga cayana mappable:1" ; Times: 1
+	Query: "Crotophaga major mappable:1" ; Times: 1
+	Query: "Myiarchus cephalotes mappable:1" ; Times: 1
+	Query: "catalognumber:111700 institutioncode:UWBM" ; Times: 1
+	Query: "Tachyphonus rufus mappable:1" ; Times: 1
+	Query: "Vireo leucophrys mappable:1" ; Times: 1
+	Query: "Trichothraupis melanops mappable:1" ; Times: 1
+	Query: "Geotrygon violacea mappable:1" ; Times: 1
+	Query: "Hemithraupis guira mappable:1" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "genus:petroica class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Megarynchus pitangua mappable:1" ; Times: 1
+	Query: "Crypturellus undulatus mappable:1" ; Times: 1
+	Query: "genus:collocalia class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophilus aroyae mappable:1" ; Times: 1
+	Query: "psittacella brehmii" ; Times: 11
+	Query: "Glaucidium capense" ; Times: 8
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "UWBM 7362" ; Times: 1
+	Query: "milvus kenya" ; Times: 1
+	Query: "Tachycineta albilinea mappable:1" ; Times: 1
+	Query: "Euphonia chlorotica mappable:1" ; Times: 1
+	Query: "Psarocolius atrovirens mappable:1" ; Times: 1
+	Query: "Onychorhynchus coronatus mappable:1" ; Times: 1
+	Query: "Amblycercus holosericeus mappable:1" ; Times: 1
+	Query: "Melanerpes cruentatus mappable:1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "Goura" ; Times: 1
+	Query: "Anas flavirostris" ; Times: 2
+	Query: "Tangara gyrola mappable:1" ; Times: 1
+	Query: "Veniliornis passerinus mappable:1" ; Times: 1
+	Query: "Conirostrum speciosum mappable:1" ; Times: 1
+	Query: "Stercorarius longicaudus mappable:1" ; Times: 1
+	Query: "uwbm 86661" ; Times: 1
+	Query: "UWBM 90862" ; Times: 1
+	Query: "Emberizoides herbicola mappable:1" ; Times: 1
+	Query: "30037] aves" ; Times: 1
+	Query: "Buteo swainsoni mappable:1" ; Times: 1
+	Query: "Chloroceryle americana mappable:1" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "starlings" ; Times: 1
+	Query: "catalognumber:111470 institutioncode:UWBM" ; Times: 1
+	Query: "Amazona viridigenalis year &gt;= 1908 year &lt;= 1990" ; Times: 1
+	Query: "Riparia riparia mappable:1" ; Times: 1
+	Query: "charmosyna" ; Times: 1
+	Query: "Chauna torquata" ; Times: 2
+	Query: "Satrapa icterophrys mappable:1" ; Times: 1
+	Query: "Turdus leucomelas mappable:1" ; Times: 1
+	Query: "99 DOT" ; Times: 1
+	Query: "Bluejay" ; Times: 1
+	Query: "Cairina moschata mappable:1" ; Times: 1
+	Query: "Pygiptila stellaris mappable:1" ; Times: 1
+	Query: "Pachyramphus castaneus mappable:1" ; Times: 1
+	Query: "genus:Haliaeetus county:&#34;Clallam&#34; stateprovince:&#34;Washington&#34; institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Natividad Island" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 2
+	Query: "Turdus serranus mappable:1" ; Times: 1
+	Query: "Veniliornis affinis mappable:1" ; Times: 1
+	Query: "Pachyramphus homochrous mappable:1" ; Times: 1
+	Query: "specificepithet:rupicola genus:Colaptes" ; Times: 1
+	Query: "Aramus guarauna mappable:1" ; Times: 1
+	Query: "Trogon viridis mappable:1" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 2
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "Egretta tricolor mappable:1" ; Times: 1
+	Query: "pselliophorus luteoviridis" ; Times: 6
+	Query: "Dendrocincla fuliginosa mappable:1" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus year &gt;= 1870 year &lt;= 1910" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 2
+	Query: "specificepithet:cassinii genus:Vireo year &gt;= 1884 year &lt;= 1884" ; Times: 1
+	Query: "Myrtis fanny mappable:1" ; Times: 1
+	Query: "Eurypyga helias mappable:1" ; Times: 1
+	Query: "notabilis 80400" ; Times: 2
+	Query: "Spheniscus magellanicus mappable:1" ; Times: 1
+	Query: "Metallura tyrianthina mappable:1" ; Times: 1
+	Query: "lonchura quinticolor" ; Times: 1
+	Query: "Pharomachrus auriceps mappable:1" ; Times: 1
+	Query: "Myiarchus tuberculifer mappable:1" ; Times: 1
+	Query: "Chiroxiphia boliviana mappable:1" ; Times: 1
+	Query: "Piranga rubra mappable:1" ; Times: 1
+	Query: "class:Aves recordedby:P.I.Osburn" ; Times: 1
+	Query: "penelopina nigra" ; Times: 1
+	Query: "Cyanocorax yncas mappable:1" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 33
+	Query: "vntype:specimen specificepithet:choliba genus:otus" ; Times: 1
+	Query: "Myiophobus fasciatus mappable:1" ; Times: 1
+	Query: "Knipolegus cabanisi mappable:1" ; Times: 1
+	Query: "Lurocalis semitorquatus mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "catalognumber:46430 institutioncode:UWBM" ; Times: 2
+	Query: "Icterus mesomelas mappable:1" ; Times: 1
+	Query: "specificepithet:lathami genus:Alectura stateprovince:&#34;New South Wales&#34; country:&#34;Australia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Turdus nigriceps mappable:1" ; Times: 1
+	Query: "Crotophaga major" ; Times: 1
+	Query: "Psittacula eggs" ; Times: 3
+	Query: "Colibri coruscans" ; Times: 2
+	Query: "Limosa haemastica mappable:1" ; Times: 1
+	Query: "Amazona viridigenalis year &gt;= 1908 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:lafargei class:aves country:&#34;solomon&#34;" ; Times: 1
+	Query: "murrelet" ; Times: 1
+	Query: "pine beetle" ; Times: 1
+	Query: "Lathrotriccus euleri mappable:1" ; Times: 1
+	Query: "Chalcostigma stanleyi" ; Times: 2
+	Query: "Stercorarius pomarinus mappable:1" ; Times: 1
+	Query: "Pileated woodpecker" ; Times: 2
+	Query: "Streptoprocne zonaris mappable:1" ; Times: 1
+	Query: "Griseotyrannus aurantioatrocristatus mappable:1" ; Times: 1
+	Query: "Tityra semifasciata mappable:1" ; Times: 1
+	Query: "Barn swallow" ; Times: 2
+	Query: "Phaethornis guy" ; Times: 2
+	Query: "Streptoprocne zonaris" ; Times: 2
+	Query: "Penelope purpurascens" ; Times: 2
+	Query: "Myiobius atricaudus mappable:1" ; Times: 1
+	Query: "Chordeiles acutipennis mappable:1" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 2
+	Query: "Legatus leucophaius mappable:1" ; Times: 1
+	Query: "Tolmomyias sulphurescens mappable:1" ; Times: 1
+	Query: "Catharus minimus mappable:1" ; Times: 1
+	Query: "aves arctic coast" ; Times: 1
+	Query: "momotus momota" ; Times: 1
+	Query: "specificepithet:purpurea genus:Ardea hastissue:1" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 2
+	Query: "Calidris bairdii mappable:1" ; Times: 1
+	Query: "Myiarchus ferox mappable:1" ; Times: 1
+	Query: "Sporophila caerulescens mappable:1" ; Times: 1
+	Query: "genus:charmosyna class:aves year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "15899" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "specificepithet:townsendi genus:Dendroica institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 1
+	Query: "Coccyzus erythropthalmus mappable:1" ; Times: 1
+	Query: "Stercorarius parasiticus mappable:1" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:patachonicus genus:Tachyeres" ; Times: 1
+	Query: "Arremon taciturnus mappable:1" ; Times: 1
+	Query: "22740" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "aves 7892" ; Times: 2
+	Query: "Taraba major mappable:1" ; Times: 1
+	Query: "L.E. Allen" ; Times: 1
+	Query: "Myiarchus crinitus mappable:1" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "american kestrel" ; Times: 3
+	Query: "(Mallory)" ; Times: 1
+	Query: "genus:chalcophaps class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brachyura genus:camaroptera hastissue:1" ; Times: 1
+	Query: "Myiotheretes striaticollis mappable:1" ; Times: 1
+	Query: "Coeligena lutetiae mappable:1" ; Times: 1
+	Query: "30999 aves" ; Times: 2
+	Query: "Automolus ochrolaemus mappable:1" ; Times: 1
+	Query: "bald eagle egg" ; Times: 1
+	Query: "Columbina picui" ; Times: 2
+	Query: "Pyriglena leuconota mappable:1" ; Times: 1
+	Query: "Campylopterus villaviscensio mappable:1" ; Times: 1
+	Query: "Colibri thalassinus mappable:1" ; Times: 1
+	Query: "Myiarchus swainsoni mappable:1" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "20167 aves" ; Times: 1
+	Query: "Colibri coruscans mappable:1" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 2
+	Query: "Xiphorhynchus ocellatus mappable:1" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "class:Aves country:&#34;Kazakhstan&#34; hastissue:1" ; Times: 1
+	Query: "Dendrocygna bicolor mappable:1" ; Times: 1
+	Query: "Doryfera ludovicae mappable:1" ; Times: 1
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 1
+	Query: "specificepithet:lineata genus:coracina class:aves country:&#34;solomon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:citrina genus:Wilsonia institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Imperial woodpecker" ; Times: 1
+	Query: "genus:colaptes family:picidae stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 2
+	Query: "Cyclarhis gujanensis mappable:1" ; Times: 1
+	Query: "Geositta tenuirostris mappable:1" ; Times: 1
+	Query: "Myiozetetes similis mappable:1" ; Times: 1
+	Query: "16129 aves" ; Times: 1
+	Query: "Chalcostigma herrani" ; Times: 2
+	Query: "Tyrannus melancholicus mappable:1" ; Times: 1
+	Query: "Myiodynastes maculatus mappable:1" ; Times: 1
+	Query: "specificepithet:bairdii genus:ammodramus" ; Times: 5
+	Query: "Momotus momota mappable:1" ; Times: 1
+	Query: "Thlypopsis sordida mappable:1" ; Times: 1
+	Query: "Manacus manacus mappable:1" ; Times: 1
+	Query: "trichoglossus 72539" ; Times: 1
+	Query: "catalognumber:111471 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "catalognumber:116721 institutioncode:UWBM" ; Times: 2
+	Query: "Buteo platypterus mappable:1" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aglaeactis cupripennis mappable:1" ; Times: 1
+	Query: "uwbm 91379" ; Times: 2
+	Query: "Calidris fuscicollis mappable:1" ; Times: 1
+	Query: "Pachyramphus validus mappable:1" ; Times: 1
+	Query: "genus:cacomantis class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pulsatrix perspicillata mappable:1" ; Times: 1
+	Query: "Discosura popelairii mappable:1" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Contopus cinereus mappable:1" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 2
+	Query: "Buteogallus anthracinus mappable:1" ; Times: 1
+	Query: "catalognumber:97714 institutioncode:UWBM" ; Times: 3
+	Query: "Euphonia xanthogaster mappable:1" ; Times: 1
+	Query: "specificepithet:lineata genus:coracina class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chrysuronia oenone mappable:1" ; Times: 1
+	Query: "specificepithet:cockerelli genus:rhipidura class:aves country:&#34;solomon&#34; year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:citrina genus:Wilsonia hastissue:1" ; Times: 1
+	Query: "Chordeiles acutipennis" ; Times: 2
+	Query: "Knipolegus aterrimus mappable:1" ; Times: 1
+	Query: "Chlorophonia cyanea mappable:1" ; Times: 1
+	Query: "Limnodromus griseus mappable:1" ; Times: 1
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 1
+	Query: "Tringa solitaria mappable:1" ; Times: 1
+	Query: "Tangara chilensis mappable:1" ; Times: 1
+	Query: "Cyanerpes caeruleus mappable:1" ; Times: 1
+	Query: "Campylopterus largipennis mappable:1" ; Times: 1
+	Query: "gyrfalcon" ; Times: 2
+	Query: "Coeligena coeligena" ; Times: 2
+	Query: "Micrastur ruficollis mappable:1" ; Times: 1
+	Query: "Microbates cinereiventris mappable:1" ; Times: 1
+	Query: "Phyllomyias zeledoni mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Solomon Islands&#34; hastissue:1" ; Times: 1
+	Query: "Aeronautes andecolus" ; Times: 2
+	Query: "Podiceps major mappable:1" ; Times: 1
+	Query: "100446" ; Times: 2
+	Query: "egg genus:Spheniscus" ; Times: 2
+	Query: "Ramphocelus nigrogularis mappable:1" ; Times: 1
+	Query: "Bartramia longicauda mappable:1" ; Times: 1
+	Query: "Iowa Marshall county" ; Times: 1
+	Query: "Tolmomyias assimilis mappable:1" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 2
+	Query: "Elaenia spectabilis mappable:1" ; Times: 1
+	Query: "Momotus momota country:&#34;Mexico&#34; hastissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 977 download events in this period)
+Total number of records downloaded: 4591
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Ukraine ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 34
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 6
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-29 ; Times: 2
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 4
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-28 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-31 ; Times: 7
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-30 ; Times: 13
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Comal county" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "Caloenas" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "Eremophila alpestris institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis order:Passeriformes" ; Times: 1
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "vntype:specimen specificepithet:choliba genus:otus" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "Gubernatrix" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Rhipidura" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 1
+	Query: "genus:colaptes family:picidae stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "genus:colaptes family:picidae country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Dendroica institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "point reyes national seashore" ; Times: 1
+	Query: "class:Aves country:&#34;Kazakhstan&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pipilo" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "vntype:specimen specificepithet:barbarus genus:otus" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila" ; Times: 1
+	Query: "Ivory-billed woodpecker" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:otus" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Imperial woodpecker" ; Times: 1
+	Query: "genus:Bartramia hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:townsendi genus:Dendroica year &gt;= 2000 year &lt;= 2018 institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "genus:Bartramia hassex:1 hasmass:1" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "genus:Bartramia hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Catharus ustulatus" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.
