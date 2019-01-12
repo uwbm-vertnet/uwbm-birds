@@ -1,0 +1,466 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 473
+Number of records retrieved in searches: 6399
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 3
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 15
+	Country: France ; Times: 25
+	Country: United Kingdom ; Times: 60
+	Country: Switzerland ; Times: 11
+	Country: Germany ; Times: 4
+	Country: Ecuador ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 4
+	Country: Argentina ; Times: 6
+	Country: Myanmar [Burma] ; Times: 1
+	Country: United States ; Times: 302
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 12
+	Date: 2018-12-09 ; Times: 7
+	Date: 2018-12-06 ; Times: 33
+	Date: 2018-12-19 ; Times: 13
+	Date: 2018-12-18 ; Times: 29
+	Date: 2018-12-31 ; Times: 8
+	Date: 2018-12-30 ; Times: 2
+	Date: 2018-12-15 ; Times: 6
+	Date: 2018-12-14 ; Times: 4
+	Date: 2018-12-17 ; Times: 25
+	Date: 2018-12-16 ; Times: 3
+	Date: 2018-12-11 ; Times: 23
+	Date: 2018-12-10 ; Times: 16
+	Date: 2018-12-13 ; Times: 12
+	Date: 2018-12-12 ; Times: 14
+	Date: 2018-12-20 ; Times: 36
+	Date: 2018-12-21 ; Times: 11
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 3
+	Date: 2018-12-24 ; Times: 4
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-26 ; Times: 59
+	Date: 2018-12-27 ; Times: 19
+	Date: 2018-12-28 ; Times: 22
+	Date: 2018-12-29 ; Times: 8
+	Date: 2018-12-04 ; Times: 33
+	Date: 2018-12-05 ; Times: 18
+	Date: 2018-12-02 ; Times: 5
+	Date: 2018-12-03 ; Times: 23
+	Date: 2018-12-01 ; Times: 2
+	Date: 2018-12-07 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Aplonis opaca hastissue:1" ; Times: 1
+	Query: "27950" ; Times: 2
+	Query: "specificepithet:aegyptiaca genus:Alopochen hastissue:1" ; Times: 1
+	Query: "aplonis grandis macrura" ; Times: 1
+	Query: "myiagra rubecula hastissue:1" ; Times: 2
+	Query: "Glaucidium brasilianum" ; Times: 11
+	Query: "Eos squamata" ; Times: 20
+	Query: "anthus rubescens hastissue:1" ; Times: 2
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;California&#34; hastissue:1" ; Times: 2
+	Query: "Black Guillemot" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;Oregon&#34; year &gt;= 2010 startdayofyear &gt;= 1 hastissue:1" ; Times: 1
+	Query: "aplonis tabuensis hastissue:1" ; Times: 2
+	Query: "myiagra hastissue:1" ; Times: 1
+	Query: "baltimore oriole" ; Times: 1
+	Query: "Aplonis metallica metallica hastissue:1" ; Times: 3
+	Query: "specificepithet:minutilla stateprovince:&#34;alaska&#34; year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "specificepithet:spurius genus:Icterus country:&#34;mexico&#34; year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "ascaris" ; Times: 2
+	Query: "Brotogeris chiriri" ; Times: 2
+	Query: "specificepithet:cantoroides genus:aplonis hastissue:1" ; Times: 1
+	Query: "Garrulus glandarius" ; Times: 1
+	Query: "Reindeer" ; Times: 1
+	Query: "kelp gull" ; Times: 1
+	Query: "rallus limicola hastissue:1" ; Times: 1
+	Query: "Osburn PI" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "eubucco" ; Times: 1
+	Query: "skel specificepithet:camelus genus:Struthio" ; Times: 1
+	Query: "Calandrella rufescens" ; Times: 4
+	Query: "102476" ; Times: 1
+	Query: "Charadrius wilsonia" ; Times: 1
+	Query: "97312" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "34885" ; Times: 2
+	Query: "curve-billed thrasher" ; Times: 2
+	Query: "UWBM 68045" ; Times: 1
+	Query: "39747" ; Times: 1
+	Query: "aplonis opaca hastissue:1" ; Times: 3
+	Query: "vulture" ; Times: 1
+	Query: "mino hastissue:1" ; Times: 2
+	Query: "genus:Tyto catalognumber:57441" ; Times: 2
+	Query: "Aplonis opaca kosrae" ; Times: 1
+	Query: "ardea herodias skel" ; Times: 1
+	Query: "35439" ; Times: 1
+	Query: "specificepithet:montanus country:(Kazakhstan OR Kyrgyzstan OR Tajikistan OR Uzbekistan)" ; Times: 1
+	Query: "specificepithet:cryptoleucus genus:corvus year &gt;= 1970 hastissue:1" ; Times: 3
+	Query: "agelaius minnesota" ; Times: 1
+	Query: "specificepithet:spurius genus:Icterus year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "Burrowing owl" ; Times: 4
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;Oregon&#34; year &gt;= 2005 startdayofyear &gt;= 1 hastissue:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "UW 113670" ; Times: 1
+	Query: "specificepithet:owenii genus:Apteryx" ; Times: 2
+	Query: "genus:phoenicopterus year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "nectarinia talatala" ; Times: 2
+	Query: "Ardeidae ardea herodias skel" ; Times: 1
+	Query: "46137" ; Times: 2
+	Query: "great frigatebird" ; Times: 3
+	Query: "aplonis hastissue:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus county:&#34;Clallam&#34; stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 1
+	Query: "aplonis grandis macrura hastissue:1" ; Times: 2
+	Query: "35923" ; Times: 1
+	Query: "&#34;1954-08-09&#34;" ; Times: 1
+	Query: "genus:Tyto catalognumber:78155" ; Times: 2
+	Query: "genus:Tyto year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "aplonis grandis grandis hastissue:1" ; Times: 1
+	Query: "honeycreeper" ; Times: 1
+	Query: "Sterna albifrons mappable:1" ; Times: 1
+	Query: "aplonis panayensis" ; Times: 2
+	Query: "117576" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "19477" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; preparations:skin institutioncode:UWBM" ; Times: 4
+	Query: "10732" ; Times: 2
+	Query: "grus americana" ; Times: 1
+	Query: "pacific loon" ; Times: 4
+	Query: "Atlapetes citrinellus" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "specificepithet:pacificus class:aves locality:johnston atoll" ; Times: 1
+	Query: "common raven" ; Times: 1
+	Query: "genus:Catharus recordedby:Baird" ; Times: 3
+	Query: "basilornis hastissue:1" ; Times: 2
+	Query: "Gavia arctica mappable:1" ; Times: 1
+	Query: "Grus canadensis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:empidonax stateprovince:&#34;Guerrero&#34;" ; Times: 1
+	Query: "Agapornis" ; Times: 3
+	Query: "agelaius minnesota egg" ; Times: 2
+	Query: "specificepithet:ferrocyanea genus:myiagra mappable:1 country:solomon islands" ; Times: 3
+	Query: "athene noctua" ; Times: 5
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "Rissa tridactyla mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "vntype:specimen class:aves recordedby:burtch" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "pterodroma mollis vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Gavia immer mappable:1" ; Times: 1
+	Query: "Electron vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "116272" ; Times: 1
+	Query: "California spotted owl" ; Times: 1
+	Query: "(GMS) institutioncode:UWBM" ; Times: 1
+	Query: "aplonis opaca opaca" ; Times: 3
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "carolina parakeet" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:flavicollis genus:ixobrychus" ; Times: 3
+	Query: "specificepithet:niger genus:cypseloides" ; Times: 1
+	Query: "aplonis mystacea" ; Times: 2
+	Query: "otus scops" ; Times: 1
+	Query: "specificepithet:brunneicapillus hastissue:1" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 1
+	Query: "spotted owl" ; Times: 1
+	Query: "Poospiza erythrophrys" ; Times: 2
+	Query: "pinon county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(-8.168,159.546))&lt;10000" ; Times: 2
+	Query: "specificepithet:spurius genus:Icterus country:&#34;mexico&#34; year &gt;= 1995 year &lt;= 2018 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "aplonis tabuensis country: tonga" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "Lophorina" ; Times: 2
+	Query: "country:(Tajikistan OR Tadzhikistan OR Tojikiston)" ; Times: 1
+	Query: "strix aluco" ; Times: 1
+	Query: "specificepithet:opaca hastissue:1 genus:aplonis country:&#34;Northern Mariana Islands&#34;" ; Times: 1
+	Query: "Synthliboramphus hypoleucus vntype:specimen" ; Times: 2
+	Query: "aplonis panayensis hastissue:1" ; Times: 2
+	Query: "genus:Brachyramphus class:Aves stateprovince:&#34;Alaska&#34; institutioncode:UWBM" ; Times: 1
+	Query: "california spotted owl" ; Times: 1
+	Query: "UWBM Bird 62034" ; Times: 1
+	Query: "pyrrhura" ; Times: 2
+	Query: "Brachyramphus marmoratus mappable:1" ; Times: 1
+	Query: "marbled murrelet" ; Times: 2
+	Query: "mazama americana" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Aegolius country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Jalisco&#34; (Melanotis) institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "genus:Terenura hastissue:1" ; Times: 1
+	Query: "curve billed thrasher" ; Times: 1
+	Query: "Marbled Murrelet" ; Times: 2
+	Query: "specificepithet:opaca genus:aplonis country:&#34;Northern Mariana Islands&#34;" ; Times: 2
+	Query: "109753" ; Times: 1
+	Query: "Aplonis cinerascens hastissue:1" ; Times: 2
+	Query: "79993" ; Times: 1
+	Query: "Trichoglossus flavoviridis" ; Times: 8
+	Query: "Larus melanocephalus mappable:1" ; Times: 1
+	Query: "spruce grouse hastissue:1" ; Times: 1
+	Query: "alectoris graeca" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "10379" ; Times: 1
+	Query: "aplonis tabuensis" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "red fox tissue" ; Times: 1
+	Query: "16431" ; Times: 3
+	Query: "Aplonis opaca" ; Times: 3
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "Alca torda mappable:1" ; Times: 1
+	Query: "aplonis opaca" ; Times: 1
+	Query: "tragopan" ; Times: 1
+	Query: "otus sunia" ; Times: 3
+	Query: "Evening Grosbeak hastissue:1" ; Times: 1
+	Query: "specificepithet:niger genus:cypseloides country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Fratercula arctica mappable:1" ; Times: 1
+	Query: "98592" ; Times: 1
+	Query: "aplonis cinerascens hastissue:1" ; Times: 2
+	Query: "plumbeous vireo hastissue:1" ; Times: 1
+	Query: "105868" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "uwbm 60250" ; Times: 1
+	Query: "vntype:specimen (Melanotis) institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "UWBM Bird 60234" ; Times: 1
+	Query: "vntype:specimen (Melanotis) institutioncode:UWBM" ; Times: 1
+	Query: "aplonis grandis" ; Times: 2
+	Query: "Oreoscoptes montanus mappable:1" ; Times: 1
+	Query: "class:aves locality:kosrae" ; Times: 1
+	Query: "genus:Philydor" ; Times: 1
+	Query: "eggshell" ; Times: 2
+	Query: "Melanitta nigra mappable:1" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Los Angeles stateprovince:&#34;California&#34; year &lt;= 1890" ; Times: 2
+	Query: "Aphelocoma coerulescens" ; Times: 2
+	Query: "Iceland Gull" ; Times: 1
+	Query: "Melanitta fusca mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucotos genus:Dendrocopos" ; Times: 1
+	Query: "15623" ; Times: 1
+	Query: "class:Aves country:&#34;Greenland&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Aplonis panayensis panayensis hastissue:1" ; Times: 1
+	Query: "locality:johnston atoll" ; Times: 3
+	Query: "Alopochen aegyptiaca hastissue:1" ; Times: 1
+	Query: "aplonis grandis hastissue:1" ; Times: 2
+	Query: "Aplonis solomon islands" ; Times: 1
+	Query: "Alca torda  mappable:1" ; Times: 1
+	Query: "ifrita" ; Times: 1
+	Query: "specificepithet:carmioli carmioli genus:Chlorothraupis" ; Times: 1
+	Query: "falkland island" ; Times: 4
+	Query: "vntype:specimen specificepithet:aegyptiaca genus:Alopochen" ; Times: 1
+	Query: "genus:Tyto catalognumber:62912" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "aplonis cantoroides hastissue:1" ; Times: 1
+	Query: "Larus marinus mappable:1" ; Times: 1
+	Query: "Aplonis cinerascens" ; Times: 5
+	Query: "Aplonis grandis hastissue:1" ; Times: 2
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "passerina amoena x cyanea" ; Times: 1
+	Query: "class:aves recordedby:suther" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "distance(location,geopoint(31.896766050720444,-122.75390625))&lt;100000" ; Times: 1
+	Query: "90486" ; Times: 1
+	Query: "genus:Catharus recordedby:Harris" ; Times: 1
+	Query: "Aplonis grandis grandis" ; Times: 1
+	Query: "Aplonis tabuensis country: tonga" ; Times: 1
+	Query: "scolopax saturata" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;Washington&#34; year &gt;= 2010 startdayofyear &gt;= 1 hastissue:1" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "clapper rail" ; Times: 1
+	Query: "UWBM Bird 62035" ; Times: 1
+	Query: "Raffles" ; Times: 1
+	Query: "Sylvia borin" ; Times: 5
+	Query: "locality:Hood canal stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "aegithalos" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1947 year &lt;= 1947" ; Times: 2
+	Query: "32115" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "green rosella" ; Times: 1
+	Query: "Sterna paradisaea mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Dumetella year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "Glaucidium griseiceps" ; Times: 1
+	Query: "rhipidura rufifrons year &gt;= 1990 institutioncode:UWBM" ; Times: 1
+	Query: "95015" ; Times: 1
+	Query: "genus:Tyto catalognumber:78173" ; Times: 1
+	Query: "farallon island" ; Times: 1
+	Query: "crissal thrasher" ; Times: 1
+	Query: "Rainbow River Florida" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "vntype:specimen county:&#34;ionia&#34; stateprovince:&#34;michigan&#34; hassex:1" ; Times: 1
+	Query: "Eyerdam" ; Times: 2
+	Query: "coho salmon" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Sterna hirundo mappable:1" ; Times: 1
+	Query: "specificepithet:leucorhoa class:aves locality:sitka stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; institutioncode:UWBM" ; Times: 1
+	Query: "passerina cyanea x amoena" ; Times: 1
+	Query: "king rail" ; Times: 1
+	Query: "69666 class:aves institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:vilissimus genus:zimmerius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aphelocoma coerulescens mappable:1" ; Times: 1
+	Query: "Chalcopsitta duivenbodei" ; Times: 26
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 2005 year &lt;= 2018" ; Times: 1
+	Query: "UWBM Bird 60255" ; Times: 1
+	Query: "Callonetta leucophrys mappable:1" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "Larus argentatus mappable:1" ; Times: 1
+	Query: "myiagra ferrocyanea hastissue:1" ; Times: 1
+	Query: "Larus ridibundus mappable:1" ; Times: 2
+	Query: "Sarda sarda mappable:1" ; Times: 3
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Oregon&#34; hastissue:1" ; Times: 1
+	Query: "Rhipidura rufifrons year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "MBM" ; Times: 1
+	Query: "genus:Tyto catalognumber:78174" ; Times: 1
+	Query: "Accipiter gentilis eggs" ; Times: 1
+	Query: "gubernatrix" ; Times: 1
+	Query: "beaks" ; Times: 1
+	Query: "specificepithet:opaca genus:aplonis hastissue:1" ; Times: 1
+	Query: "12281" ; Times: 1
+	Query: "Geotrygon violacea mappable:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 2
+	Query: "Aplonis mystacea" ; Times: 5
+	Query: "aplonis metallica" ; Times: 1
+	Query: "Wood turtle" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "aplonis metallica mystacea" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "specificepithet:concolor concolor genus:Amaurospiza" ; Times: 1
+	Query: "45407" ; Times: 1
+	Query: "Aplonis grandis macrura" ; Times: 1
+	Query: "country:(Tajikistan)" ; Times: 1
+	Query: "Larus fuscus mappable:1" ; Times: 1
+	Query: "catalognumber:62945 institutioncode:UWBM" ; Times: 2
+	Query: "MBM pipilo" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "Prunella collaris tissue" ; Times: 1
+	Query: "catalognumber:82796 institutioncode:UWBM" ; Times: 2
+	Query: "Aplonis tabuensis hastissue:1" ; Times: 2
+	Query: "tachyeres" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 809 download events in this period)
+Total number of records downloaded: 15658
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 32
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 16
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-31 ; Times: 7
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 3
+	Date: 2018-12-11 ; Times: 3
+	Date: 2018-12-17 ; Times: 9
+	Date: 2018-12-20 ; Times: 8
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-26 ; Times: 3
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-18 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Strigops" ; Times: 2
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; preparations:skin institutioncode:UWBM" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "papua new guinea" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "specificepithet:concolor concolor genus:Amaurospiza" ; Times: 1
+	Query: "Glaucidium griseiceps" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1845 year &lt;= 1950" ; Times: 1
+	Query: "Osburn PI" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "otus sunia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "specificepithet:vilissimus genus:zimmerius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Glaucidium perlatum" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "specificepithet:olivacea genus:Chlorothraupis" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "specificepithet:carmioli carmioli genus:Chlorothraupis" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;Oregon&#34; year &gt;= 2005 startdayofyear &gt;= 1 hastissue:1" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "curve-billed thrasher" ; Times: 1
+	Query: "Glaucidium jardinii" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "ecuador aves" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "Glaucidium passerinum" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Jalisco&#34; (Melanotis) institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+
+
+End of report.
