@@ -1,0 +1,862 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 938
+Number of records retrieved in searches: 12115
+Number of different countries where searches have been originated: 29
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 73
+	Country: Canada ; Times: 51
+	Country: Unknown ; Times: 4
+	Country: Micronesia ; Times: 1
+	Country: France ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 5
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Czechia ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 19
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 43
+	Country: China ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 125
+	Country: Turkey ; Times: 3
+	Country: United States ; Times: 475
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Russia ; Times: 4
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 51
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 33
+	Country: Malaysia ; Times: 1
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 56
+	Date: 2019-05-31 ; Times: 107
+	Date: 2019-05-09 ; Times: 20
+	Date: 2019-05-08 ; Times: 43
+	Date: 2019-05-07 ; Times: 9
+	Date: 2019-05-06 ; Times: 8
+	Date: 2019-05-05 ; Times: 8
+	Date: 2019-05-04 ; Times: 8
+	Date: 2019-05-03 ; Times: 13
+	Date: 2019-05-02 ; Times: 86
+	Date: 2019-05-01 ; Times: 22
+	Date: 2019-05-25 ; Times: 14
+	Date: 2019-05-24 ; Times: 31
+	Date: 2019-05-27 ; Times: 32
+	Date: 2019-05-26 ; Times: 14
+	Date: 2019-05-21 ; Times: 84
+	Date: 2019-05-20 ; Times: 30
+	Date: 2019-05-23 ; Times: 43
+	Date: 2019-05-22 ; Times: 74
+	Date: 2019-05-29 ; Times: 28
+	Date: 2019-05-28 ; Times: 37
+	Date: 2019-05-18 ; Times: 10
+	Date: 2019-05-19 ; Times: 8
+	Date: 2019-05-10 ; Times: 23
+	Date: 2019-05-11 ; Times: 20
+	Date: 2019-05-12 ; Times: 4
+	Date: 2019-05-13 ; Times: 14
+	Date: 2019-05-14 ; Times: 8
+	Date: 2019-05-15 ; Times: 46
+	Date: 2019-05-16 ; Times: 29
+	Date: 2019-05-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinoptilus africanus year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "tetrao urogallus" ; Times: 3
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;alberta&#34; month &gt;= 4 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "vntype:specimen specificepithet:rostratum genus:trichastoma" ; Times: 1
+	Query: "Tetrao urogallus" ; Times: 9
+	Query: "115905 Catharus" ; Times: 3
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "specificepithet:sharpei genus:Terenura hastissue:1" ; Times: 1
+	Query: "Catoptrophorus semipalmatus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "common kingfisher year&lt;=1940" ; Times: 3
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "genus:Junco hyemalis county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:UWBM" ; Times: 4
+	Query: "Pycnonotus jocosus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "Geothlypis nelsoni vntype:specimen" ; Times: 2
+	Query: "Ara macao" ; Times: 1
+	Query: "genus:arenaria institutioncode:UWBM" ; Times: 2
+	Query: "Lophotis ruficrista year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "genus:Junco hyemalis stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:UWBM" ; Times: 1
+	Query: "Syrrhaptes paradoxus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Picoides country:&#34;United States&#34; year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "UWBM 117953" ; Times: 1
+	Query: "UWBM 117952" ; Times: 1
+	Query: "UWBM 117951" ; Times: 1
+	Query: "vntype:specimen specificepithet:felix genus:Thryothorus" ; Times: 1
+	Query: "class:Aves catalognumber:98215 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UWBM 117954" ; Times: 1
+	Query: "phalacrocorax carbo russia" ; Times: 1
+	Query: "specificepithet:cinereum genus:malacopteron" ; Times: 1
+	Query: "POLIOPTILA NIGRICEPS" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Picoides hastissue:1" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "Scytalopus superciliaris year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "103784 Catharus" ; Times: 1
+	Query: "vntype:specimen genus:Rhodostethia class:Aves AND (NOT Alaska)" ; Times: 2
+	Query: "(Gizo OR Ghizo) AND UWBM" ; Times: 2
+	Query: "class:Aves catalognumber:53962" ; Times: 1
+	Query: "Phigys solitarius hastissue:1" ; Times: 1
+	Query: "Golden-fronted Woodpecker" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "class:Aves catalognumber:77110 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Strix occidentalis year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "specificepithet:flava genus:Piranga hastissue:1" ; Times: 1
+	Query: "Chloroceryle aenea year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Picoides stateprovince:&#34;british columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Formicivora grisea" ; Times: 2
+	Query: "UWBM 72501" ; Times: 2
+	Query: "Columbina picui year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Bombycilla garrulus year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "specificepithet:leucoptera genus:Piranga hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:peltata genus:platysteira hastissue:1" ; Times: 1
+	Query: "genus:Sphyrapicus sex:Female year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 3
+	Query: "Charadrius semipalmatus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "class:Aves catalognumber:70493 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Pheucticus hastissue:1" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "knipolegus" ; Times: 1
+	Query: "class:Aves catalognumber:78260 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:pulverulentus genus:porphyrio" ; Times: 1
+	Query: "Myiophobus fasciatus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Phoenicopterus ruber year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "specificepithet:lichtensteini genus:Philydor" ; Times: 1
+	Query: "Peucedramus taeniatus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:33003 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "Emberiza fucata year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Formicarius rufipectus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "class:Aves catalognumber:77593 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:euphonia country:&#34;argentina&#34; hastissue:1" ; Times: 1
+	Query: "quercus" ; Times: 1
+	Query: "Pluvialis squatarola mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Aptenodytes patagonicus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "specificepithet:molitor genus:batis hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "Centropus bengalensis year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "UWBM 73822" ; Times: 3
+	Query: "11225" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "order:Passeriformes institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phylloscartes" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha United States" ; Times: 1
+	Query: "genus:Limnodromus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1957 year &lt;= 1957" ; Times: 1
+	Query: "class:Aves catalognumber:18269 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "UWBM 87455" ; Times: 1
+	Query: "UWBM 87453" ; Times: 1
+	Query: "RUFFED GROUSE" ; Times: 7
+	Query: "Chunga burmeisteri year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Fregata magnificens year &gt; 1990 NOT clo" ; Times: 1
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla" ; Times: 1
+	Query: "Pomatostomus ruficeps year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "caprimulgus rufus" ; Times: 2
+	Query: "Corythaixoides concolor year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "Anthoscopus minutus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "82370 Catharus" ; Times: 1
+	Query: "county:&#34;Park&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:108402" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "paradoxornis webbianus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Tichodroma hastissue:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;British columbia&#34; month &gt;= 4 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "Leiothrix lutea year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "rollandia rolland" ; Times: 1
+	Query: "M-115239" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "Cisticola juncidis year &gt; 1990 NOT CLO" ; Times: 2
+	Query: "specificepithet:lincolnii genus:Melospiza stateprovince:&#34;Alberta&#34;" ; Times: 1
+	Query: "Hemiprocne comata year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "Polioptila caerulea year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Numida meleagris year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Promerops cafer year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "genus:Junco hyemalis stateprovince:&#34;Washington&#34; institutioncode:UWBM" ; Times: 1
+	Query: "pygoscelis adeliae" ; Times: 1
+	Query: "Phalacrocorax carbo year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "Aegithalos caudatus year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Crypturellus tataupa mappable:1" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Vidua macroura year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Columba livia year &lt;=1940" ; Times: 1
+	Query: "locality:Rongelap country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "common moorhen" ; Times: 1
+	Query: "class:Aves catalognumber:53894" ; Times: 1
+	Query: "pied wagtail" ; Times: 1
+	Query: "ptarmigan" ; Times: 2
+	Query: "specificepithet:melanocephala genus:arenaria stateprovince:&#34;alaska&#34; year &gt;= 1990 year &lt;= 1990" ; Times: 1
+	Query: "ramphastos sulfuratus" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "Loxia leucoptera year &gt; 1990 NOT clo" ; Times: 1
+	Query: "class:Aves catalognumber:53947" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "phoenicurus erythronotus" ; Times: 6
+	Query: "Callipepla squamata year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "genus:Myioborus hastissue:1" ; Times: 5
+	Query: "Colius striatus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "microcerculus marginatus" ; Times: 1
+	Query: "83059" ; Times: 1
+	Query: "Eurypyga helias year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "Coturnix japonica year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "Prunella fulvescens" ; Times: 1
+	Query: "Scopus umbretta year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "spheniscus magellanicus" ; Times: 1
+	Query: "genus:Sarkidiornis" ; Times: 1
+	Query: "Quiscalus Mexicanus tamaulipas" ; Times: 1
+	Query: "56179 Catharus" ; Times: 1
+	Query: "Chauna torquata year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "specificepithet:carduelis genus:Carduelis class:Aves continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Macronectes hastissue:1" ; Times: 1
+	Query: "Marbled murrelet" ; Times: 6
+	Query: "vntype:specimen specificepithet:canus genus:picus" ; Times: 1
+	Query: "eudyptes chrysocome" ; Times: 1
+	Query: "vntype:specimen specificepithet:frontalis genus:synallaxis" ; Times: 1
+	Query: "vntype:specimen specificepithet:molitor genus:batis" ; Times: 2
+	Query: "33485" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia hastissue:1" ; Times: 2
+	Query: "Pardalotus punctatus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "tigrisoma mexicanum" ; Times: 2
+	Query: "turdus chrysolaus" ; Times: 1
+	Query: "UWBM 73914" ; Times: 2
+	Query: "Acrocephalus arundinaceus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1985" ; Times: 1
+	Query: "tetraogallus" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "class:aves country:&#34;Cuba&#34; preparations:skeleton" ; Times: 1
+	Query: "Cuculus canorus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "UWBM 117864" ; Times: 1
+	Query: "UWBM 117863" ; Times: 1
+	Query: "UWBM 117862" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 12
+	Query: "Pygoscelis adeliae" ; Times: 2
+	Query: "UWBM 117940" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1889 year &lt;= 1889" ; Times: 1
+	Query: "class:Aves catalognumber:54039" ; Times: 2
+	Query: "spider" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides country:&#34;United States&#34; year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "Ptychoramphus AND Coronado" ; Times: 1
+	Query: "UWBM 65094" ; Times: 1
+	Query: "uwbm 62081" ; Times: 1
+	Query: "uwbm 62080" ; Times: 1
+	Query: "Oceanodroma melania AND Island" ; Times: 2
+	Query: "Ring necked pheasant" ; Times: 3
+	Query: "Yellow-billed cuckoo" ; Times: 6
+	Query: "UWBM 49164" ; Times: 2
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 4
+	Query: "Smithornis capensis year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "Formicivora grisea vntype:specimen year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "Acrocephalus palustris" ; Times: 5
+	Query: "ruffed grouse" ; Times: 3
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "specificepithet:rostratum genus:trichastoma" ; Times: 1
+	Query: "class:Aves catalognumber:33004 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melanocephala genus:arenaria stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "genus:Ridgwayia institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "UWBM 75403" ; Times: 2
+	Query: "specificepithet:virgata genus:Aphriza" ; Times: 1
+	Query: "specificepithet:melanocephala class:aves locality:lawrence stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Terenura hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:54083" ; Times: 2
+	Query: "&#34;Plectrophenax nivalis&#34; month &gt;= 4 month &lt;= 10 hastissue:1" ; Times: 1
+	Query: "UWBM 74724" ; Times: 2
+	Query: "Hirundinea ferruginea" ; Times: 2
+	Query: "Toxostoma bendirei stateprovince:&#34;Nevada&#34;" ; Times: 4
+	Query: "Geococcyx californianus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Trichoglossus haematodus massena hastissue:1" ; Times: 2
+	Query: "Corvus corone year &lt;=1940" ; Times: 2
+	Query: "Crotophaga sulcirostris year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "california gnatcatcher" ; Times: 1
+	Query: "Loxia leucoptera year &gt; 1990 NOT fmnh" ; Times: 1
+	Query: "UWBM 74729" ; Times: 3
+	Query: "UWBM 74728" ; Times: 2
+	Query: "UWBM 74726" ; Times: 2
+	Query: "genus:monticola" ; Times: 1
+	Query: "UWBM 74723" ; Times: 2
+	Query: "knipolegus striaticeps" ; Times: 2
+	Query: "phalacrocorax brasilianus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "specificepithet:axillaris genus:Myrmotherula hastissue:1" ; Times: 2
+	Query: "family:Stercorariidae hastissue:1" ; Times: 3
+	Query: "Amazilia lactea lactea" ; Times: 2
+	Query: "specificepithet:rupestris genus:monticola" ; Times: 1
+	Query: "Leucosticte tephrocotis stateprovince:&#34;California&#34; year &gt;= 1998" ; Times: 2
+	Query: "Balearica regulorum year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:viridis genus:picus" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5755 institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 74052" ; Times: 2
+	Query: "10408" ; Times: 1
+	Query: "genus:Junco hyemalis county:&#34;King&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:UWBM" ; Times: 2
+	Query: "campylorhynchus yucatanicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fuscus genus:Cinclodes hastissue:1" ; Times: 1
+	Query: "class:Aves locality:Clarion Island" ; Times: 1
+	Query: "Colius striatus year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "specificepithet:colubris genus:Archilochus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:Wrightii genus:Empidonax hastissue:1" ; Times: 1
+	Query: "UWBM 73611" ; Times: 2
+	Query: "specificepithet:whiteheadi genus:stachyris" ; Times: 1
+	Query: "catalognumber:32742 institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 73840" ; Times: 2
+	Query: "specificepithet:tenuirostris genus:Calidris" ; Times: 1
+	Query: "class:Aves catalognumber:45548 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trichoglossus haematodus rubritorquis hastissue:1" ; Times: 1
+	Query: "UWBM 73844" ; Times: 6
+	Query: "megadyptes antipodes" ; Times: 2
+	Query: "UWBM 86268" ; Times: 1
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "class:Aves catalognumber:54076" ; Times: 1
+	Query: "class:Aves catalognumber:92707 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga hastissue:1" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "eudyptes chrysolophus" ; Times: 1
+	Query: "Chloropsis cyanopogon year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:54139" ; Times: 1
+	Query: "specificepithet:regulus genus:regulus" ; Times: 1
+	Query: "specificepithet:tenuirostris class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Prunella fulvescens year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "class:Aves (Gizo OR Ghizo) hastissue:1" ; Times: 2
+	Query: "emberiza cia" ; Times: 3
+	Query: "pygochelidon cyanoleuca" ; Times: 1
+	Query: "Oriolus oriolus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Piping plover" ; Times: 6
+	Query: "Galbula ruficauda mappable:1" ; Times: 1
+	Query: "genus:egretta year &gt;= 1974 year &lt;= 1977" ; Times: 1
+	Query: "99927 Catharus" ; Times: 1
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UWBM 87439" ; Times: 1
+	Query: "specificepithet:percussus genus:Prionochilus" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 6
+	Query: "Erythrura trichroa" ; Times: 2
+	Query: "31934" ; Times: 1
+	Query: "cyclarhis gujanensis" ; Times: 4
+	Query: "batis" ; Times: 1
+	Query: "specificepithet:frontalis genus:synallaxis" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "UWBM 65101" ; Times: 1
+	Query: "genus:Buteo stateprovince:&#34;Nevada&#34; year &gt;= 1945 year &lt;= 1962" ; Times: 1
+	Query: "White wagtail" ; Times: 1
+	Query: "Pterocles burchelli year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "UWBM 79662" ; Times: 2
+	Query: "vntype:specimen specificepithet:capensis genus:batis" ; Times: 1
+	Query: "Sapayoa aenigma year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Oriole veracruz" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "103068" ; Times: 2
+	Query: "recordedby:R. L. Rausch" ; Times: 1
+	Query: "Rissa tridactyla year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "UWBM 87484" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "specificepithet:virgata genus:Aphriza stateprovince:&#34;British Columbia&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Ramphastos sulfuratus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "specificepithet:pririt genus:batis hastissue:1" ; Times: 1
+	Query: "Ara ararauna" ; Times: 3
+	Query: "Vaccinium vitis-idaea mappable:1" ; Times: 3
+	Query: "34130" ; Times: 1
+	Query: "specificepithet:colchicus genus:phasianus country:&#34;United States&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "vntype:specimen family:Indicatoridae hastissue:1" ; Times: 2
+	Query: "sharp-tail grouse" ; Times: 2
+	Query: "&#34;stomach contents saved&#34; class:Aves" ; Times: 1
+	Query: "UWBM 73790" ; Times: 2
+	Query: "order:Passeriformes stateprovince:&#34;Washington&#34; institutioncode:UWBM" ; Times: 1
+	Query: "genus:Phylloscartes hastissue:1" ; Times: 1
+	Query: "(Gizo OR Ghizo)" ; Times: 1
+	Query: "Dendrocygna bicolor mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Ergaticus ruber vntype:specimen" ; Times: 1
+	Query: "specificepithet:nigrescens genus:dendroica hastissue:1" ; Times: 1
+	Query: "Short tailed snake" ; Times: 1
+	Query: "class:Aves catalognumber:84500 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "Trogon melanurus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "31985" ; Times: 1
+	Query: "Falco sparverius catalognumber:9347 institutioncode:UWBM" ; Times: 1
+	Query: "Tricholaema leucomelas year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "class:Aves catalognumber:70494 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Numenius" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix hastissue:1" ; Times: 1
+	Query: "specificepithet:griseus genus:Passer hastissue:1" ; Times: 1
+	Query: "milwaukee" ; Times: 3
+	Query: "Daphoenositta chrysoptera year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "&#34;Oriolus oriolus&#34; year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:54138" ; Times: 1
+	Query: "Halcyon senegalensis year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:haliaeetus preparations:skeleton" ; Times: 1
+	Query: "112617 Catharus" ; Times: 2
+	Query: "Gunnison sage-grouse" ; Times: 6
+	Query: "Vaccinium mappable:1" ; Times: 1
+	Query: "genus:Oxyura stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "Rhinoptilus africanus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "specificepithet:gallinago class:aves stateprovince:&#34;alaska&#34; year &gt;= 1985 year &lt;= 1985" ; Times: 1
+	Query: "family:Pycnonotidae continent:Africa hastissue:1" ; Times: 1
+	Query: "uwbm 59089" ; Times: 1
+	Query: "uwbm 117922" ; Times: 1
+	Query: "uwbm 117923" ; Times: 1
+	Query: "uwbm 117920" ; Times: 1
+	Query: "uwbm 117921" ; Times: 1
+	Query: "UWBM 117874" ; Times: 2
+	Query: "UWBM 117877" ; Times: 2
+	Query: "UWBM 87478" ; Times: 1
+	Query: "UWBM 117873" ; Times: 1
+	Query: "vntype:specimen specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "snow bunting" ; Times: 12
+	Query: "Egretta caerulea mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "UWBM 117878" ; Times: 1
+	Query: "Dicrurus macrocercus" ; Times: 7
+	Query: "class:Aves catalognumber:10755 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tyrannus savana mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Locustella ochotensis year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "emberiza godlewskii" ; Times: 2
+	Query: "Spheniscus humboldti mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "vntype:specimen specificepithet:perkeo genus:batis" ; Times: 1
+	Query: "Oceanodroma melania AND Coronados" ; Times: 1
+	Query: "genus:Accipiter cooperii stateprovince:&#34;Nevada&#34; year &gt;= 1945 year &lt;= 1962" ; Times: 1
+	Query: "aloe" ; Times: 1
+	Query: "catalognumber:5542 institutioncode:UWBM" ; Times: 1
+	Query: "Plectrophenax nivalis (St. Paul Island) month &gt;= 5 month &lt;= 10" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "locality:Clarion Island" ; Times: 1
+	Query: "Chionis minor" ; Times: 1
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 1
+	Query: "class:Aves catalognumber:117932 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nothoprocta ornata year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34; month &gt;= 4 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "UWBM 73774" ; Times: 2
+	Query: "jf 145" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "UWBM 66786" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 2
+	Query: "specificepithet:plateni genus:Prionochilus" ; Times: 1
+	Query: "isopod" ; Times: 3
+	Query: "UWBM 87477" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1888 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:capensis genus:batis hastissue:1" ; Times: 2
+	Query: "Furnarius rufus mappable:1" ; Times: 2
+	Query: "recordedby:Quaintance" ; Times: 1
+	Query: "class:aves locality:lawrence stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "bank swallow" ; Times: 1
+	Query: "specificepithet:scolopaceus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1957 year &lt;= 1957" ; Times: 1
+	Query: "pseudoseisura" ; Times: 1
+	Query: "Brassica" ; Times: 2
+	Query: "genus:myzomela AND (NOT Australia) year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:carmioli lutescens genus:Chlorothraupis hastissue:1" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 10
+	Query: "specificepithet:xanthogaster genus:euphonia hastissue:1" ; Times: 1
+	Query: "Burhinus bistriatus year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "Gymnorhina tibicen year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "34176" ; Times: 1
+	Query: "Phainopepla nitens year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "uwbm 59059" ; Times: 1
+	Query: "american golden plover" ; Times: 1
+	Query: "collared dove" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Picoides country:&#34;Canada&#34; year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "Arundo donax" ; Times: 1
+	Query: "abies" ; Times: 1
+	Query: "Chaetorhynchus papuensis year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Chough" ; Times: 1
+	Query: "Sula dactylatra year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "UWBM 80702" ; Times: 1
+	Query: "Chalcopsitta cardinalis hastissue:1" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;montana&#34; month &gt;= 4 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Picoides year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Acrocephalus arundinaceus year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Pyrocephalus rubinus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Gallinula chloropus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Falcunculus frontatus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "class:Aves catalognumber:33005 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Strix occidentalis year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34; mexico" ; Times: 1
+	Query: "red breasted merganser" ; Times: 1
+	Query: "vntype:specimen genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "locality:Malaysia" ; Times: 1
+	Query: "Todus mexicanus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Florida scrub-jay" ; Times: 14
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 3
+	Query: "Phaethon lepturus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Merops nubicus year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Charadrius vociferus year &gt; 1990" ; Times: 1
+	Query: "Kenyon AND ISland" ; Times: 1
+	Query: "Oxyura jamaicensis mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "specificepithet:melanocephala class:aves stateprovince:&#34;alaska&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "california quail baja california" ; Times: 1
+	Query: "Himantopus himantopus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:54167" ; Times: 1
+	Query: "genus:corvus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Cinclus mexicanus year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "Spheniscus magellanicus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "class:Aves catalognumber:54160" ; Times: 1
+	Query: "genus:Buteo jamaicensis county:&#34;King&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:lichtensteini genus:Philydor hastissue:1" ; Times: 1
+	Query: "specificepithet:colchicus genus:phasianus country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus month &gt;= 4 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:Prionochilus" ; Times: 1
+	Query: "Emberiza cia hastissue:1" ; Times: 1
+	Query: "UWBM 84785" ; Times: 1
+	Query: "vntype:specimen specificepithet:pririt genus:batis hastissue:1" ; Times: 1
+	Query: "Nycticryphes semicollaris year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "uwbm 117853" ; Times: 1
+	Query: "Anhinga anhinga year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Plectrophenax nivalis tissue" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 1
+	Query: "harpactes year &gt;= 1990" ; Times: 1
+	Query: "anthus rubescens hastissue:1" ; Times: 3
+	Query: "Plectrophenax nivalis month &gt;= 4 month &lt;= 10 hastissue:1" ; Times: 2
+	Query: "alberta bucephala egg" ; Times: 1
+	Query: "genus:Dicrurus continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fregata magnificens year &gt; 1990 NOT fmnh" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "snow bunting tissue" ; Times: 2
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Sclerurus mexicanus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Perisoreus infaustus" ; Times: 1
+	Query: "macronectes giganteus" ; Times: 3
+	Query: "Spheniscus humboldt" ; Times: 3
+	Query: "elf" ; Times: 1
+	Query: "phylloscopus sibilatrix year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "UWBM 117939" ; Times: 1
+	Query: "UWBM 117938" ; Times: 1
+	Query: "sage grouse" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "caprimulgus carolinensis year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "UWBM 117937" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "Crypturellus soui year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "EUTOXERES AQUILA" ; Times: 3
+	Query: "Vermivora crissalis vntype:specimen" ; Times: 1
+	Query: "specificepithet:griseus genus:Passer" ; Times: 3
+	Query: "specificepithet:incanus class:aves locality:lawrence stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Red knot" ; Times: 6
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "SAGE GROUSE" ; Times: 1
+	Query: "UWBM 87497" ; Times: 1
+	Query: "Andaman aves" ; Times: 1
+	Query: "specificepithet:molitor genus:batis" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Prunella himalayana year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Calyptomena viridis year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "specificepithet:madagascariensis genus:Numenius hastissue:1" ; Times: 1
+	Query: "genus:Rhodostethia class:Aves" ; Times: 2
+	Query: "104852 Catharus" ; Times: 1
+	Query: "odontophorus" ; Times: 1
+	Query: "specificepithet:melanocephala genus:arenaria stateprovince:&#34;alaska&#34; institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:xanthopygius genus:Prionochilus" ; Times: 1
+	Query: "specificepithet:virgata genus:Aphriza stateprovince:&#34;Alaska&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:atra Fulica preparations:skeleton" ; Times: 1
+	Query: "vntype:specimen specificepithet:soror genus:batis hastissue:1" ; Times: 1
+	Query: "emberiza cia hastissue:1" ; Times: 1
+	Query: "Eurasian wren" ; Times: 1
+	Query: "Ptilonorhynchus violaceus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "monk parakeet" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:33959 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "fulvous whistling duck" ; Times: 2
+	Query: "specificepithet:sylvatica genus:Turnix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myadestes unicolor" ; Times: 1
+	Query: "Aramus guarauna year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "class:Aves catalognumber:53893" ; Times: 2
+	Query: "spheniscus humboldti" ; Times: 1
+	Query: "hummingbird egg" ; Times: 2
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "Agapornis roseicollis year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "UWBM 73836" ; Times: 1
+	Query: "Podoces panderi" ; Times: 1
+	Query: "acorn woodpecker" ; Times: 3
+	Query: "specificepithet:melanocephala class:aves stateprovince:&#34;alaska&#34; recordedby:rausch" ; Times: 6
+	Query: "eudyptula minor" ; Times: 1
+	Query: "UWBM 82873" ; Times: 2
+	Query: "uwbm 117899" ; Times: 2
+	Query: "otates" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "Puffinus griseus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Chaetops frenatus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "vntype:specimen genus:eos" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "penelope obscura" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 3
+	Query: "psarocolius angustifrons" ; Times: 1
+	Query: "Podiceps cristatus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "UWBM 87441" ; Times: 1
+	Query: "Calidris canutus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Phyllastrephus continent:Africa hastissue:1" ; Times: 1
+	Query: "Grus americana year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Cathartes aura year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "UWBM 73945" ; Times: 2
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 5
+	Query: "Formicivora grisea year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "Numida meleagris year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "Turnix velox year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Eos reticulata hastissue:1" ; Times: 1
+	Query: "Aphriza virgata mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "specificepithet:Regulus genus:Regulus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 3
+	Query: "Philetairus socius" ; Times: 1
+	Query: "Psophia crepitans year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Thryothorus ludovicianus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Mallard Duck" ; Times: 1
+	Query: "vntype:specimen specificepithet:aegithaloides genus:Leptasthenura hastissue:1" ; Times: 1
+	Query: "specificepithet:melanocephala stateprovince:&#34;alaska&#34; recordedby:rausch" ; Times: 2
+	Query: "Cairina moschata year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "gilded flicker" ; Times: 2
+	Query: "Struthidea cinerea year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Trichoglossus haematodus hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:34131 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "northern goshawk" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "genus:vireo stateprovince:&#34;puebla&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "aptenodytes patagonicus" ; Times: 1
+	Query: "class:Aves catalognumber:45546 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ardeotis kori year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "specificepithet:pacificus genus:Troglodytes stateprovince:&#34;british columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "UWBM 75420" ; Times: 2
+	Query: "Ara macao vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hastissue:1" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 2
+	Query: "vntype:specimen specificepithet:ignicapillus genus:regulus" ; Times: 1
+	Query: "Melopsittacus undulatus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "anthus lutescens" ; Times: 2
+	Query: "specificepithet:vicinior genus:Vireo hastissue:1" ; Times: 1
+	Query: "genus:tringa stateprovince:&#34;alaska&#34; year &gt;= 1974 year &lt;= 1974" ; Times: 1
+	Query: "115541 Catharus" ; Times: 2
+	Query: "sculpins" ; Times: 1
+	Query: "class:Aves catalognumber:84989 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hippolais icterina year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Upupa epops year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "ddt class:aves preparations:skin" ; Times: 1
+	Query: "specificepithet:tenuirostris genus:Calidris hastissue:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Picoides stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "class:Aves catalognumber:84608 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Strix occidentalis caurina" ; Times: 2
+	Query: "104081 Catharus" ; Times: 2
+	Query: "specificepithet:palawanense genus:malacopteron" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 5
+	Query: "Buceros rhinoceros year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "91493" ; Times: 1
+	Query: "UWBM 84277" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "UWBM 75450" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 1
+	Query: "Phrygilus unicolor mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Puffinus creatopus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "uwbm 117900" ; Times: 2
+	Query: "uwbm 117901" ; Times: 2
+	Query: "uwbm 117902" ; Times: 2
+	Query: "Amazilia lactea" ; Times: 2
+	Query: "ara macao" ; Times: 1
+	Query: "Falco sparverius catalognumber:10221 institutioncode:UWBM" ; Times: 1
+	Query: "genus:loris preparations:skeleton" ; Times: 1
+	Query: "specificepithet:melanocephala genus:arenaria institutioncode:UWBM" ; Times: 1
+	Query: "class:Aves catalognumber:70490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crax rubra" ; Times: 2
+	Query: "uwbm 62082" ; Times: 1
+	Query: "UWBM 73638" ; Times: 2
+	Query: "spheniscus demersus" ; Times: 1
+	Query: "sylvatica hastissue:1" ; Times: 1
+	Query: "Erithacus rubecula year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Blue bird wings" ; Times: 1
+	Query: "gray jay" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 122 (out of 940 download events in this period)
+Total number of records downloaded: 3365
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 33
+	Country: United States ; Times: 55
+	Country: Mexico ; Times: 18
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 2
+	Country: Malawi ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 7
+	Date: 2019-05-31 ; Times: 12
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-04 ; Times: 3
+	Date: 2019-05-03 ; Times: 4
+	Date: 2019-05-02 ; Times: 8
+	Date: 2019-05-01 ; Times: 6
+	Date: 2019-05-25 ; Times: 8
+	Date: 2019-05-24 ; Times: 8
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 5
+	Date: 2019-05-22 ; Times: 5
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 12
+	Date: 2019-05-10 ; Times: 6
+	Date: 2019-05-11 ; Times: 11
+	Date: 2019-05-14 ; Times: 6
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;alberta&#34; month &gt;= 4 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "Prunella fulvescens" ; Times: 1
+	Query: "vntype:specimen specificepithet:rostratum genus:trichastoma" ; Times: 1
+	Query: "vntype:specimen specificepithet:rutilus genus:Thryothorus" ; Times: 1
+	Query: "genus:Dicrurus continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gambelii genus:Callipepla" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "Perisoreus infaustus" ; Times: 1
+	Query: "Spheniscus humboldt" ; Times: 1
+	Query: "specificepithet:plateni genus:Prionochilus" ; Times: 2
+	Query: "vntype:specimen specificepithet:canus genus:picus" ; Times: 1
+	Query: "genus:Junco hyemalis county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:UWBM" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "specificepithet:virgata genus:Aphriza stateprovince:&#34;British Columbia&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "vntype:specimen specificepithet:felix genus:Thryothorus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculipectus genus:Thryothorus" ; Times: 1
+	Query: "specificepithet:cinereum genus:malacopteron" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Toxostoma bendirei stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "amazona viridigenalis" ; Times: 2
+	Query: "Pygoscelis adeliae" ; Times: 2
+	Query: "campylorhynchus yucatanicus" ; Times: 1
+	Query: "specificepithet:xanthopygius genus:Prionochilus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix hastissue:1" ; Times: 1
+	Query: "specificepithet:virgata genus:Aphriza stateprovince:&#34;Alaska&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "emberiza cia hastissue:1" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:haliaeetus preparations:skeleton" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Turnix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myadestes unicolor" ; Times: 2
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "vntype:specimen specificepithet:melodia genus:Melospiza stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:nigrescens genus:dendroica hastissue:1" ; Times: 1
+	Query: "Formicivora grisea vntype:specimen year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "vntype:specimen genus:pitta" ; Times: 1
+	Query: "vntype:specimen specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "specificepithet:rostratum genus:trichastoma" ; Times: 1
+	Query: "vntype:specimen specificepithet:pulverulentus genus:porphyrio" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;British columbia&#34; month &gt;= 4 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:eos" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "specificepithet:angolensis genus:monticola" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 1
+	Query: "genus:Macronectes hastissue:1" ; Times: 1
+	Query: "Plectrophenax tissue" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "Falco sparverius catalognumber:9347 institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "family:Stercorariidae hastissue:1" ; Times: 1
+	Query: "Brassica" ; Times: 1
+	Query: "specificepithet:rupestris genus:monticola" ; Times: 1
+	Query: "Leucosticte tephrocotis stateprovince:&#34;California&#34; year &gt;= 1998" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "genus:Junco hyemalis county:&#34;King&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:percussus genus:Prionochilus" ; Times: 1
+	Query: "gilded flicker" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "vntype:specimen specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:colubris genus:Archilochus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:whiteheadi genus:stachyris" ; Times: 1
+	Query: "abies" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "Ara macao vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 1
+	Query: "vntype:specimen specificepithet:ignicapillus genus:regulus" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Picoides stateprovince:&#34;british columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:yncas" ; Times: 1
+	Query: "vntype:specimen genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Picoides stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "class:aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "sylvatica hastissue:1" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "specificepithet:palawanense genus:malacopteron" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "vntype:specimen specificepithet:pertinax genus:contopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "ramphastos sulfuratus" ; Times: 2
+	Query: "ara macao" ; Times: 1
+	Query: "Formicivora grisea year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:tricolor genus:agelaius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "zmuc aves year &gt; 1987" ; Times: 1
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "genus:apalis" ; Times: 1
+	Query: "specificepithet:maculatus genus:Prionochilus" ; Times: 1
+	Query: "vntype:specimen specificepithet:porphyrio genus:porphyrio" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+
+End of report.
