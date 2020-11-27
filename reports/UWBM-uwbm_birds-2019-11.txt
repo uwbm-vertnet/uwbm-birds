@@ -1,0 +1,1420 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3893
+Number of records retrieved in searches: 20904
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 249
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Turkey ; Times: 3
+	Country: Germany ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 10
+	Country: Netherlands ; Times: 12
+	Country: Denmark ; Times: 30
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 3463
+	Country: Sweden ; Times: 4
+	Country: Russia ; Times: 2
+	Country: Mexico ; Times: 29
+	Country: India ; Times: 14
+	Country: United Kingdom ; Times: 21
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 14
+	Country: Japan ; Times: 2
+	Country: Cyprus ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 34
+	Date: 2019-11-18 ; Times: 24
+	Date: 2019-11-30 ; Times: 10
+	Date: 2019-11-15 ; Times: 94
+	Date: 2019-11-14 ; Times: 162
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-16 ; Times: 90
+	Date: 2019-11-11 ; Times: 109
+	Date: 2019-11-10 ; Times: 1255
+	Date: 2019-11-13 ; Times: 188
+	Date: 2019-11-12 ; Times: 42
+	Date: 2019-11-08 ; Times: 1151
+	Date: 2019-11-09 ; Times: 48
+	Date: 2019-11-06 ; Times: 63
+	Date: 2019-11-07 ; Times: 133
+	Date: 2019-11-20 ; Times: 235
+	Date: 2019-11-21 ; Times: 43
+	Date: 2019-11-22 ; Times: 30
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-24 ; Times: 2
+	Date: 2019-11-25 ; Times: 11
+	Date: 2019-11-26 ; Times: 15
+	Date: 2019-11-27 ; Times: 20
+	Date: 2019-11-28 ; Times: 22
+	Date: 2019-11-29 ; Times: 10
+	Date: 2019-11-04 ; Times: 26
+	Date: 2019-11-05 ; Times: 20
+	Date: 2019-11-02 ; Times: 15
+	Date: 2019-11-03 ; Times: 7
+	Date: 2019-11-01 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "10565" ; Times: 1
+	Query: "class:aves catalognumber:87263 year:2001 month:6" ; Times: 9
+	Query: "class:aves catalognumber:112738 year:2006 month:6 day:20" ; Times: 7
+	Query: "86319 UWBM" ; Times: 4
+	Query: "class:aves catalognumber:113376 year:2007 month:6 day:13" ; Times: 7
+	Query: "Charadrius melodus 2005" ; Times: 4
+	Query: "genus:sphyrapicus catalognumber:118182" ; Times: 2
+	Query: "46986" ; Times: 1
+	Query: "class:aves catalognumber:41211 year:1985 month:8 day:30" ; Times: 6
+	Query: "Aquila chrysaetos year &gt; 1990" ; Times: 1
+	Query: "112112 UWBM" ; Times: 2
+	Query: "specificepithet:nuchalis class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "53648" ; Times: 1
+	Query: "118297 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:43110 year:1990 month:7" ; Times: 3
+	Query: "111581 UWBM" ; Times: 2
+	Query: "Rissa tridactyla egg" ; Times: 1
+	Query: "RAM Vireo gilvus" ; Times: 1
+	Query: "genus:cistothorus hastissue:1" ; Times: 5
+	Query: "class:aves catalognumber:87209 year:2007 month:6 day:16" ; Times: 6
+	Query: "Brachyramphus marmoratus 1978" ; Times: 5
+	Query: "Brachyramphus marmoratus 1979" ; Times: 5
+	Query: "Brachyramphus marmoratus 1977" ; Times: 5
+	Query: "specificepithet:alba genus:Tyto (stomach)" ; Times: 1
+	Query: "Brachyramphus marmoratus 1975" ; Times: 5
+	Query: "112082 UWBM" ; Times: 2
+	Query: "specificepithet:americana class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "genus:catharus catalognumber:73100" ; Times: 1
+	Query: "class:aves catalognumber:100500 year:2006 month:6 day:15" ; Times: 7
+	Query: "18819" ; Times: 1
+	Query: "Asio otus otus hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:100500 year:2006 month:6" ; Times: 4
+	Query: "specificepithet:flammeus genus:Asio hasmass:1 haslength:1" ; Times: 1
+	Query: "toxostoma curvirostre hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:111077 year:2003 month:7 day:22" ; Times: 6
+	Query: "Thayer’s gull UWBM" ; Times: 1
+	Query: "genus:regulus catalognumber:117676" ; Times: 2
+	Query: "specificepithet:dorsalis class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:110503 year:2002 month:6" ; Times: 5
+	Query: "class:aves catalognumber:107977 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:109046 year:2006 month:6" ; Times: 5
+	Query: "McLeod" ; Times: 2
+	Query: "class:aves catalognumber:113566 year:2006 month:6 day:14" ; Times: 7
+	Query: "Mycteria americana 1978" ; Times: 4
+	Query: "class:aves catalognumber:107975 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:111057 year:2003 month:6 day:29" ; Times: 6
+	Query: "catalognumber:113381 year &gt;= 2007 year &lt;= 2007 month &gt;= 6" ; Times: 1
+	Query: "class:aves catalognumber:105140 year:2003 month:7 day:1" ; Times: 6
+	Query: "Sitta pygmaea pinos" ; Times: 1
+	Query: "class:aves catalognumber:115928 year:2006 month:6 day:19" ; Times: 6
+	Query: "class:aves catalognumber:110811 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:117676 year:2013 month:6" ; Times: 3
+	Query: "class:aves catalognumber:79832 year:2002 month:7" ; Times: 6
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "class:aves catalognumber:84328 year:2005 month:7 day:25" ; Times: 8
+	Query: "specificepithet:hyemalis class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:116186 year:2008 month:6" ; Times: 4
+	Query: "class:aves catalognumber:113381 year:2007 month:6" ; Times: 3
+	Query: "Sitta pusilla vntype:specimen year &gt;= 1985" ; Times: 1
+	Query: "class:aves catalognumber:110830 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:100271 year:2005 month:6" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Coronados" ; Times: 3
+	Query: "class:aves catalognumber:100502 year:2006 month:6 day:15" ; Times: 6
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "Eremophila alpestris strigata 2003" ; Times: 4
+	Query: "class:aves catalognumber:116205 year:2008 month:6" ; Times: 3
+	Query: "specificepithet:atricapillus class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:80172 year:2003 month:6" ; Times: 3
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "class:aves catalognumber:47916 year:1991 month:6" ; Times: 3
+	Query: "class:aves catalognumber:100271 year:2005 month:6 day:24" ; Times: 6
+	Query: "class:aves catalognumber:111078 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:111075 year:2003 month:7 day:22" ; Times: 7
+	Query: "class:aves catalognumber:111044 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:91322 year:2009 month:7" ; Times: 3
+	Query: "class:aves catalognumber:116186 year:2008 month:6 day:22" ; Times: 7
+	Query: "class:aves catalognumber:111044 year:2003 month:7 day:1" ; Times: 6
+	Query: "class:aves catalognumber:50339 year:1988 month:6" ; Times: 3
+	Query: "specificepithet:lincolnii class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:47921 year:1991 month:6 day:25" ; Times: 6
+	Query: "class:aves catalognumber:113344 year:2007 month:6" ; Times: 3
+	Query: "97825" ; Times: 1
+	Query: "specificepithet:guttatus class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "class:aves catalognumber:49866 year:1994 month:6" ; Times: 3
+	Query: "class:aves catalognumber:79379 year:1999 month:7" ; Times: 3
+	Query: "uwbm 3721" ; Times: 1
+	Query: "class:aves catalognumber:105155 year:2003 month:7 day:2" ; Times: 6
+	Query: "specificepithet:hyemalis class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:118426 year:2014 month:6" ; Times: 5
+	Query: "61707" ; Times: 2
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Washington&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "class:aves catalognumber:113720 year:2008 month:7 day:2" ; Times: 7
+	Query: "class:aves catalognumber:74532 year:2001 month:7" ; Times: 7
+	Query: "class:aves catalognumber:111078 year:2003 month:7 day:22" ; Times: 6
+	Query: "catalognumber:81616 year &gt;= 1998 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "yellow-vented bulbul" ; Times: 1
+	Query: "class:aves catalognumber:86320 year:2006 month:7" ; Times: 3
+	Query: "class:aves catalognumber:116208 year:2008 month:6" ; Times: 3
+	Query: "class:aves catalognumber:90431 year:2010 month:6" ; Times: 3
+	Query: "montifringilla nivalis" ; Times: 2
+	Query: "specificepithet:canadensis class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:certhia catalognumber:59041" ; Times: 2
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "class:aves catalognumber:115877 year:2005 month:6 day:24" ; Times: 7
+	Query: "class:aves catalognumber:91256 year:2009 month:6 day:18" ; Times: 7
+	Query: "class:aves catalognumber:110503 year:2002 month:6 day:9" ; Times: 7
+	Query: "catalognumber:90428 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:aves catalognumber:72882 year:2000 month:6 day:4" ; Times: 6
+	Query: "Pterodroma phaeopygia" ; Times: 1
+	Query: "class:aves catalognumber:105147 year:2003 month:6 day:29" ; Times: 6
+	Query: "64191" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "specificepithet:coronata catalognumber:90428" ; Times: 1
+	Query: "specificepithet:lincolnii class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:empidonax catalognumber:109751" ; Times: 2
+	Query: "catalognumber:113379 year &gt;= 2007 year &lt;= 2007 month &gt;= 6" ; Times: 1
+	Query: "class:aves catalognumber:114433 year:2010 month:7" ; Times: 5
+	Query: "111568 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:81616 year:1999 month:8 day:1" ; Times: 6
+	Query: "class:aves catalognumber:118181 year:2014 month:6 day:16" ; Times: 7
+	Query: "specificepithet:fuscescens class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "112077 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:59041 year:1995 month:6" ; Times: 5
+	Query: "catalognumber:47954 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:aves catalognumber:50345 year:1988 month:6" ; Times: 3
+	Query: "class:aves catalognumber:69544 year:2001 month:8 day:1" ; Times: 7
+	Query: "class:aves catalognumber:115925 year:2006 month:6" ; Times: 3
+	Query: "class:aves catalognumber:113345 year:2007 month:6" ; Times: 3
+	Query: "Smithornis capensis year &gt;1990" ; Times: 1
+	Query: "106765 UWBM" ; Times: 2
+	Query: "seaside sparrow" ; Times: 1
+	Query: "116331 UWBM" ; Times: 4
+	Query: "specificepithet:hyemalis class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "107090 UWBM" ; Times: 2
+	Query: "Brachyramphus marmoratus 1974" ; Times: 5
+	Query: "genus:regulus institutioncode:UWBM" ; Times: 1
+	Query: "indigo x" ; Times: 1
+	Query: "Coccyzus americanus 1978" ; Times: 4
+	Query: "Coccyzus americanus 1979" ; Times: 4
+	Query: "genus:melospiza catalognumber:116189" ; Times: 2
+	Query: "specificepithet:lincolnii class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Coccyzus americanus 1974" ; Times: 4
+	Query: "Coccyzus americanus 1975" ; Times: 4
+	Query: "Numida" ; Times: 1
+	Query: "Coccyzus americanus 1977" ; Times: 4
+	Query: "95836" ; Times: 1
+	Query: "112649 UWBM" ; Times: 2
+	Query: "specificepithet:calendula stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Olive-sided Flycatcher" ; Times: 2
+	Query: "specificepithet:americana class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "class:aves catalognumber:105178 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:72883 year:2000 month:6" ; Times: 3
+	Query: "class:aves catalognumber:100441 year:2006 month:6 day:14" ; Times: 7
+	Query: "class:aves catalognumber:43109 year:1990 month:7 day:3" ; Times: 7
+	Query: "class:aves catalognumber:110825 year:2003 month:6" ; Times: 3
+	Query: "class:aves catalognumber:43108 year:1990 month:7" ; Times: 3
+	Query: "class:aves catalognumber:113197 year:2007 month:6 day:15" ; Times: 7
+	Query: "diomedea exulans" ; Times: 1
+	Query: "catalognumber:101610" ; Times: 1
+	Query: "genus:certhia catalognumber:118432" ; Times: 2
+	Query: "class:aves catalognumber:107977 year:2003 month:7 day:2" ; Times: 6
+	Query: "Oceanodroma homochroa AND Farallon NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Thinocorus orbignyianus" ; Times: 1
+	Query: "monarcha castaneiventris" ; Times: 1
+	Query: "flammulated owl" ; Times: 2
+	Query: "class:aves catalognumber:43111 year:1990 month:7 day:3" ; Times: 7
+	Query: "class:aves catalognumber:90431 year:2010 month:6 day:14" ; Times: 6
+	Query: "Ramphastos sulfuratus" ; Times: 2
+	Query: "Oreoscoptes year &gt; 1990" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Hippolais icterina" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:68233 year:1998 month:7" ; Times: 6
+	Query: "class:aves catalognumber:49893 year:1994 month:6 day:30" ; Times: 6
+	Query: "specificepithet:varius class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:junco catalognumber:100500" ; Times: 2
+	Query: "class:aves catalognumber:79610 year:2001 month:6" ; Times: 6
+	Query: "class:aves catalognumber:88796 year:2008 month:7 day:21" ; Times: 7
+	Query: "specificepithet:acuticauda genus:poephila country:&#34;australia&#34;" ; Times: 1
+	Query: "black headed grosbeak" ; Times: 1
+	Query: "class:aves catalognumber:116204 year:2008 month:6 day:13" ; Times: 7
+	Query: "class:aves catalognumber:105178 year:2003 month:7 day:4" ; Times: 6
+	Query: "pavo cristatus" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Rossem NOT Huey NOT Stephens" ; Times: 1
+	Query: "specificepithet:ruficapilla class:aves stateprovince:Oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:personatus genus:Trogon" ; Times: 2
+	Query: "disease vntype:specimen year &gt;= 1800 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:satrapa catalognumber:81616 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:aves catalognumber:115643 year:2006 month:6" ; Times: 5
+	Query: "arctic tern" ; Times: 5
+	Query: "genus:perisoreus catalognumber:115923" ; Times: 2
+	Query: "53454" ; Times: 1
+	Query: "class:aves catalognumber:115650 year:2006 month:6" ; Times: 5
+	Query: "class:aves catalognumber:104443 year:2002 month:6 day:17" ; Times: 6
+	Query: "class:aves catalognumber:89991 year:2009 month:7 day:22" ; Times: 7
+	Query: "Brachyramphus marmoratus 1993" ; Times: 5
+	Query: "specificepithet:atricapillus class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:110822 year:2003 month:7" ; Times: 3
+	Query: "specificepithet:calendula class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:100494 year:2006 month:6" ; Times: 3
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:cassinii class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "apus horus vntype:specimen" ; Times: 1
+	Query: "wing vntype:specimen family:trochilidae preparations:wing" ; Times: 3
+	Query: "112790 UWBM" ; Times: 2
+	Query: "catalognumber:73145 month&gt;=6 month&lt;=8" ; Times: 1
+	Query: "Coccyzus americanus 2014" ; Times: 4
+	Query: "Coccyzus americanus 2015" ; Times: 3
+	Query: "specificepithet:ustulatus class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "56080" ; Times: 1
+	Query: "Coccyzus americanus 2010" ; Times: 4
+	Query: "Coccyzus americanus 2011" ; Times: 4
+	Query: "class:aves catalognumber:116200 year:2008 month:6" ; Times: 3
+	Query: "class:aves catalognumber:12069" ; Times: 1
+	Query: "class:aves catalognumber:118181 year:2014 month:6" ; Times: 5
+	Query: "class:aves catalognumber:107976 year:2003 month:7" ; Times: 3
+	Query: "specificepithet:dorsalis class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "110839 UWBM" ; Times: 2
+	Query: "colaptes rupicola" ; Times: 2
+	Query: "specificepithet:celata class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "112111 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:66980 year:1998 month:7" ; Times: 5
+	Query: "66876 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:115876 year:2005 month:6 day:24" ; Times: 7
+	Query: "class:aves catalognumber:110830 year:2003 month:7 day:1" ; Times: 6
+	Query: "specificepithet:anerythra genus:pitta" ; Times: 1
+	Query: "class:aves catalognumber:79379 year:1999 month:7 day:24" ; Times: 6
+	Query: "class:aves catalognumber:72404 year:2002 month:6" ; Times: 3
+	Query: "Ensifera ensifera" ; Times: 3
+	Query: "111584 UWBM" ; Times: 2
+	Query: "specificepithet:ossifragus genus:Corvus institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:113376 year &gt;= 2007 year &lt;= 2007 month &gt;= 6" ; Times: 1
+	Query: "86599" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "specificepithet:atricapillus class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:empidonax catalognumber:110503" ; Times: 2
+	Query: "class:aves catalognumber:110827 year:2003 month:7 day:1" ; Times: 6
+	Query: "86593" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus hastissue:1" ; Times: 1
+	Query: "rob 4331" ; Times: 1
+	Query: "specificepithet:calendula class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:62657 year:1996 month:7" ; Times: 7
+	Query: "class:aves catalognumber:112767 year:2006 month:6" ; Times: 3
+	Query: "graciae family:Parulidae country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Sparrowhawk" ; Times: 1
+	Query: "class:aves catalognumber:107976 year:2003 month:7 day:2" ; Times: 6
+	Query: "pitta SOlomon Islands" ; Times: 1
+	Query: "class:aves catalognumber:84881 year:2007 month:6 day:10" ; Times: 6
+	Query: "class:aves catalognumber:87263 year:2001 month:6 day:8" ; Times: 8
+	Query: "class:aves catalognumber:105142 year:2003 month:7 day:2" ; Times: 6
+	Query: "specificepithet:nuchalis class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:49887 year:1994 month:6 day:30" ; Times: 6
+	Query: "111671 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:84873 year:2007 month:6 day:15" ; Times: 6
+	Query: "yellow rail" ; Times: 4
+	Query: "class:aves catalognumber:111055 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:84198 year:2006 month:7 day:1" ; Times: 7
+	Query: "class:aves catalognumber:110858 year:2003 month:7 day:6" ; Times: 6
+	Query: "catalognumber:113378 year &gt;= 2007 year &lt;= 2007 month &gt;= 6" ; Times: 1
+	Query: "class:aves catalognumber:79605 year:2001 month:6" ; Times: 3
+	Query: "class:aves catalognumber:116205 year:2008 month:6 day:13" ; Times: 7
+	Query: "class:aves catalognumber:87244 year:2005 month:8" ; Times: 8
+	Query: "Himantopus himantopus himantopus hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:84344 year:2005 month:8" ; Times: 3
+	Query: "specificepithet:ruficapilla class:aves stateprovince:Washington year&gt;=1990 month&gt;= 6 month&gt;= 6" ; Times: 1
+	Query: "Charadrius melodus 1979" ; Times: 4
+	Query: "class:aves catalognumber:105147 year:2003 month:6" ; Times: 3
+	Query: "specificepithet:townsendi class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:110831 year:2003 month:7 day:1" ; Times: 5
+	Query: "Charadrius melodus 1977" ; Times: 4
+	Query: "class:aves catalognumber:73145 month&gt;=6 month&lt;=8" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Habia hastissue:1" ; Times: 2
+	Query: "specificepithet:townsendi class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "pachyptila turtur year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "class:aves catalognumber:59063 year:1995 month:6 day:21" ; Times: 6
+	Query: "class:aves catalognumber:84871 year:2007 month:6 day:15" ; Times: 6
+	Query: "Aves Jammu UWBM" ; Times: 1
+	Query: "111668 UWBM" ; Times: 2
+	Query: "Spizella pusilla" ; Times: 1
+	Query: "107178 UWBM" ; Times: 2
+	Query: "107093 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:91770 year:2011 month:8 day:17" ; Times: 7
+	Query: "class:aves catalognumber:47916 year:1991 month:6 day:23" ; Times: 6
+	Query: "swamp sparrow" ; Times: 1
+	Query: "118370 UWBM" ; Times: 4
+	Query: "cacicus uropygialis" ; Times: 1
+	Query: "Odonata" ; Times: 2
+	Query: "class:aves catalognumber:91403 year:2010 month:6" ; Times: 3
+	Query: "class:aves catalognumber:91257 year:2010 month:6" ; Times: 5
+	Query: "class:aves catalognumber:72419 year:2002 month:6" ; Times: 3
+	Query: "class:aves catalognumber:111049 year:2003 month:7" ; Times: 3
+	Query: "52778" ; Times: 1
+	Query: "class:aves catalognumber:91770 year:2011 month:8" ; Times: 5
+	Query: "THayer’s gull UWBM" ; Times: 1
+	Query: "class:aves catalognumber:118264 year:2014 month:6" ; Times: 3
+	Query: "107117 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:110507 year:2002 month:7" ; Times: 4
+	Query: "trochilidae spread wing" ; Times: 1
+	Query: "specificepithet:varius class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "class:aves catalognumber:69539 year:2001 month:7 day:24" ; Times: 7
+	Query: "family:Procellariidae institutioncode:UWBM hastissue:1" ; Times: 3
+	Query: "pubescens skin thurston county" ; Times: 1
+	Query: "class:aves catalognumber:110829 year:2003 month:7 day:1" ; Times: 6
+	Query: "genus:melospiza catalognumber:116186" ; Times: 2
+	Query: "class:aves catalognumber:110802 year:2003 month:7" ; Times: 5
+	Query: "class:aves catalognumber:110865 year:2003 month:7" ; Times: 3
+	Query: "109684 UWBM" ; Times: 2
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:aves catalognumber:110825 year:2003 month:6 day:29" ; Times: 6
+	Query: "110837 UWBM" ; Times: 2
+	Query: "wood stork" ; Times: 1
+	Query: "wing genus:regulus month &gt;= 7 month &lt;= 11 institutioncode:UWBM" ; Times: 2
+	Query: "class:aves catalognumber:62657 year:1996 month:7 day:14" ; Times: 8
+	Query: "107130 UWBM" ; Times: 2
+	Query: "blue macaw" ; Times: 1
+	Query: "class:aves catalognumber:84873 year:2007 month:6" ; Times: 3
+	Query: "class:aves catalognumber:53378 year:1989 month:6 day:17" ; Times: 8
+	Query: "class:aves catalognumber:79605 year:2001 month:6 day:16" ; Times: 7
+	Query: "class:aves catalognumber:100501 year:2006 month:6 day:15" ; Times: 6
+	Query: "53812" ; Times: 1
+	Query: "class:aves catalognumber:111076 year:2003 month:7" ; Times: 3
+	Query: "Anas platyrhynchos 1915" ; Times: 2
+	Query: "class:aves catalognumber:80751 year:1986 month:6" ; Times: 3
+	Query: "Oceanodroma homochroa AND Farallon" ; Times: 2
+	Query: "catalognumber:8386 institutioncode:UWBM" ; Times: 1
+	Query: "class:aves catalognumber:91422 year:2008 month:7" ; Times: 3
+	Query: "class:aves catalognumber:113375 year:2007 month:6" ; Times: 3
+	Query: "53498" ; Times: 1
+	Query: "class:aves catalognumber:90256 year:2004 month:7" ; Times: 7
+	Query: "45051" ; Times: 1
+	Query: "107089 UWBM" ; Times: 2
+	Query: "Pyrrhura" ; Times: 1
+	Query: "class:aves catalognumber:100502 year:2006 month:6" ; Times: 3
+	Query: "class:aves catalognumber:84879 year:2007 month:6" ; Times: 3
+	Query: "class:aves catalognumber:110849 year:2003 month:7 day:5" ; Times: 6
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "class:aves catalognumber:110823 year:2003 month:6" ; Times: 3
+	Query: "specificepithet:satrapa catalognumber:81616 year &gt;= 1998" ; Times: 1
+	Query: "class:aves catalognumber:46095 year:1990 month:7 day:3" ; Times: 7
+	Query: "genus:odontophorus" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "class:aves catalognumber:113378 year:2007 month:6 day:14" ; Times: 7
+	Query: "class:aves catalognumber:89991 year:2009 month:7" ; Times: 5
+	Query: "specificepithet:hyemalis class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Helmeted Guineafowl" ; Times: 1
+	Query: "class:aves catalognumber:50390 year:1988 month:6 day:13" ; Times: 6
+	Query: "Japanese Sparrowhawk" ; Times: 1
+	Query: "class:aves catalognumber:101619 year:2002 month:6" ; Times: 3
+	Query: "class:aves catalognumber:110821 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:118434 year:2014 month:6 day:20" ; Times: 6
+	Query: "class:aves recordedby:browning" ; Times: 1
+	Query: "Aleutian tern" ; Times: 5
+	Query: "class:aves catalognumber:79495 year:2000 month:6 day:4" ; Times: 7
+	Query: "class:aves catalognumber:113375 year:2007 month:6 day:15" ; Times: 7
+	Query: "class:aves catalognumber:115927 year:2006 month:6" ; Times: 3
+	Query: "Charadrius melodus 1999" ; Times: 4
+	Query: "class:aves catalognumber:47921 year:1991 month:6" ; Times: 3
+	Query: "specificepithet:plumbeus class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "wing genus:regulus institutioncode:UWBM" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "112080 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:84213 year:2003 month:7 day:23" ; Times: 6
+	Query: "class:aves catalognumber:47922 year:1991 month:6 day:25" ; Times: 6
+	Query: "class:aves catalognumber:84870 year:2007 month:6 day:15" ; Times: 6
+	Query: "class:aves catalognumber:113379 year:2007 month:6" ; Times: 3
+	Query: "Brachyramphus marmoratus 2002" ; Times: 5
+	Query: "Brachyramphus marmoratus 2001" ; Times: 5
+	Query: "Brachyramphus marmoratus 2000" ; Times: 5
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "class:aves catalognumber:116203 year:2008 month:6 day:14" ; Times: 7
+	Query: "Brachyramphus marmoratus 2005" ; Times: 5
+	Query: "class:aves catalognumber:100441 year:2006 month:6" ; Times: 3
+	Query: "Passerina cyanea x amoena" ; Times: 2
+	Query: "Rheidae" ; Times: 1
+	Query: "Brachyramphus marmoratus 2009" ; Times: 5
+	Query: "class:aves catalognumber:115930 year:2006 month:6" ; Times: 3
+	Query: "class:aves catalognumber:110828 year:2003 month:7" ; Times: 3
+	Query: "117407" ; Times: 1
+	Query: "class:aves catalognumber:110811 year:2003 month:7 day:2" ; Times: 6
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "class:aves catalognumber:110862 year:2003 month:7 day:6" ; Times: 6
+	Query: "specificepithet:cassinii class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "Coccyzus americanus 1998" ; Times: 4
+	Query: "specificepithet:americana class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "class:aves catalognumber:110841 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:111048 year:2003 month:7 day:1" ; Times: 6
+	Query: "class:aves catalognumber:110849 year:2003 month:7" ; Times: 3
+	Query: "specificepithet:guttatus class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "vntype:specimen specificepithet:Kirtlandii country:&#34;United States&#34;" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "Eremophila alpestris strigata 2004" ; Times: 4
+	Query: "class:aves catalognumber:59063 year:1995 month:6" ; Times: 3
+	Query: "specificepithet:calendula stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:87116 year:2007 month:6 day:21" ; Times: 7
+	Query: "class:aves catalognumber:118200 year:2014 month:6 day:16" ; Times: 6
+	Query: "114924 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:72882 year:2000 month:6" ; Times: 3
+	Query: "specificepithet:americana class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "monster" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "Mycteria americana 1993" ; Times: 4
+	Query: "Oceanodroma homochroa AND Farallon NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "class:aves catalognumber:115649 year:2006 month:6" ; Times: 5
+	Query: "specificepithet:townsendi class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "66875 UWBM" ; Times: 2
+	Query: "pachyptila turtur year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:hudsonicus class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skel hassex:1" ; Times: 1
+	Query: "class:aves catalognumber:110819 year:2003 month:7" ; Times: 3
+	Query: "70334 UWBM" ; Times: 2
+	Query: "113895 UWBM" ; Times: 5
+	Query: "genus:myzomela (Tetepare) institutioncode:UWBM" ; Times: 1
+	Query: "113782 UWBM" ; Times: 2
+	Query: "Vini" ; Times: 3
+	Query: "class:aves catalognumber:114845 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:109046 year:2006 month:6 day:20" ; Times: 6
+	Query: "genus:Sphyrapicus catalognumber:104443" ; Times: 1
+	Query: "114992 UWBM" ; Times: 2
+	Query: "specificepithet:hyemalis class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:occidentalis class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "class:aves catalognumber:47914 year:1991 month:6 day:23" ; Times: 6
+	Query: "class:aves catalognumber:100249 year:2005 month:6" ; Times: 5
+	Query: "class:aves catalognumber:64403 year:1999 month:7" ; Times: 3
+	Query: "Oceanodroma homochroa AND Farallon NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "catalognumber:110831 year &gt;= 2003 year &lt;= 2003 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:aves catalognumber:116202 year:2008 month:6 day:14" ; Times: 7
+	Query: "Mycteria americana 2001" ; Times: 4
+	Query: "class:aves catalognumber:101619 year:2002 month:6 day:16" ; Times: 6
+	Query: "class:aves catalognumber:110809 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:111055 year:2003 month:7 day:3" ; Times: 6
+	Query: "class:aves catalognumber:116167 year:2008 month:6 day:20" ; Times: 7
+	Query: "Acer" ; Times: 1
+	Query: "class:aves catalognumber:105136 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:90477 year:2010 month:6 day:14" ; Times: 6
+	Query: "class:aves catalognumber:111077 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:116204 year:2008 month:6" ; Times: 3
+	Query: "class:aves catalognumber:43110 year:1990 month:7 day:3" ; Times: 7
+	Query: "Sylvia mystacea" ; Times: 1
+	Query: "wing specificepithet:fuscatus genus:Cnemotriccus" ; Times: 1
+	Query: "class:aves catalognumber:118192 year:2014 month:6 day:16" ; Times: 6
+	Query: "institutioncode:UWBM 117407" ; Times: 2
+	Query: "class:aves catalognumber:111047 year:2003 month:7" ; Times: 3
+	Query: "Sharp-tailed grouse" ; Times: 3
+	Query: "Gallinago gallinago gallinago hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:72404 year:2002 month:6 day:16" ; Times: 6
+	Query: "Nycticorax nycticorax nycticorax hasmass:1" ; Times: 1
+	Query: "Rhinoceros" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Rossem" ; Times: 1
+	Query: "class:aves catalognumber:113747 year:2008 month:6 day:10" ; Times: 6
+	Query: "20532" ; Times: 1
+	Query: "class:aves catalognumber:115929 year:2006 month:6 day:19" ; Times: 6
+	Query: "class:aves catalognumber:72370 year:1999 month:7" ; Times: 3
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "class:aves catalognumber:113566 year:2006 month:6" ; Times: 3
+	Query: "class:aves catalognumber:118426 year:2014 month:6 day:16" ; Times: 7
+	Query: "60015" ; Times: 1
+	Query: "class:aves catalognumber:116167 year:2008 month:6" ; Times: 3
+	Query: "112208 UWBM" ; Times: 2
+	Query: "specificepithet:satrapa class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:116082 year:2007 month:6 day:15" ; Times: 7
+	Query: "genus:regulus catalognumber:112767" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "wingspan genus:Camptostoma" ; Times: 1
+	Query: "specificepithet:celata class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "107091 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:46095 year:1990 month:7" ; Times: 3
+	Query: "genus:sphyrapicus catalognumber:114845" ; Times: 2
+	Query: "class:aves catalognumber:110860 year:2003 month:7" ; Times: 3
+	Query: "panterpe insignis" ; Times: 2
+	Query: "class:aves catalognumber:53378 year:1989 month:6" ; Times: 9
+	Query: "class:aves catalognumber:111049 year:2003 month:7 day:3" ; Times: 6
+	Query: "class:aves catalognumber:115650 year:2006 month:6 day:19" ; Times: 7
+	Query: "class:aves catalognumber:72419 year:2002 month:6 day:14" ; Times: 6
+	Query: "class:aves catalognumber:100250 year:2005 month:6" ; Times: 5
+	Query: "class:aves catalognumber:49882 year:1994 month:6 day:30" ; Times: 6
+	Query: "genus:certhia catalognumber:110802" ; Times: 2
+	Query: "class:aves catalognumber:91256 year:2009 month:6" ; Times: 6
+	Query: "passenger pigeon" ; Times: 4
+	Query: "Aves Jammu" ; Times: 7
+	Query: "class:aves catalognumber:115877 year:2005 month:6" ; Times: 3
+	Query: "Syrrhaptes paradoxus USNM year &gt; 1990" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND Howell" ; Times: 1
+	Query: "specificepithet:satrapa class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Dickey NOT Rossem NOT Huey NOT Stephens" ; Times: 4
+	Query: "specificepithet:hyemalis class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:115643 year:2006 month:6 day:19" ; Times: 7
+	Query: "specificepithet:tolmiei class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:68192 year:1998 month:7 day:28" ; Times: 6
+	Query: "class:aves catalognumber:113521 year:2007 month:6 day:15" ; Times: 6
+	Query: "Thornscrub" ; Times: 2
+	Query: "class:aves catalognumber:80448 year:2004 month:6 day:1" ; Times: 6
+	Query: "barred owl" ; Times: 1
+	Query: "Columbina picui" ; Times: 1
+	Query: "class:aves catalognumber:84871 year:2007 month:6" ; Times: 3
+	Query: "113779 UWBM" ; Times: 2
+	Query: "111656 UWBM" ; Times: 3
+	Query: "specificepithet:plumbeus class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "specificepithet:rupicoloides genus:Falco" ; Times: 1
+	Query: "class:aves catalognumber:84198 year:2006 month:7" ; Times: 5
+	Query: "red fox" ; Times: 1
+	Query: "pheucticus skin washington skagit" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "trochilidae preparations:wing" ; Times: 3
+	Query: "class:aves catalognumber:47925 year:1991 month:6" ; Times: 3
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "catalognumber:110865 year &gt;= 2003 year &lt;= 2003 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "100353 UWBM" ; Times: 3
+	Query: "class:aves catalognumber:116180 year:2008 month:6 day:29" ; Times: 7
+	Query: "class:aves catalognumber:113345 year:2007 month:6 day:14" ; Times: 6
+	Query: "class:aves catalognumber:105155 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:50339 year:1988 month:6 day:14" ; Times: 6
+	Query: "class:aves catalognumber:69544 year:2001 month:8" ; Times: 6
+	Query: "107174 UWBM" ; Times: 2
+	Query: "Coccyzus americanus 2009" ; Times: 4
+	Query: "53464" ; Times: 2
+	Query: "Limosa lapponica year &gt; 1990" ; Times: 1
+	Query: "class:aves catalognumber:90502 year:2010 month:6" ; Times: 3
+	Query: "class:aves catalognumber:50345 year:1988 month:6 day:17" ; Times: 7
+	Query: "53460" ; Times: 2
+	Query: "Coccyzus americanus 2001" ; Times: 4
+	Query: "class:aves catalognumber:100206 year:2005 month:6" ; Times: 5
+	Query: "Coccyzus americanus 2003" ; Times: 4
+	Query: "Coccyzus americanus 2002" ; Times: 4
+	Query: "Coccyzus americanus 2005" ; Times: 4
+	Query: "class:aves catalognumber:79402 year:1999 month:8" ; Times: 7
+	Query: "Coccyzus americanus 2007" ; Times: 4
+	Query: "Coccyzus americanus 2006" ; Times: 4
+	Query: "class:aves catalognumber:118288 year:2014 month:6 day:18" ; Times: 7
+	Query: "class:aves catalognumber:115929 year:2006 month:6" ; Times: 3
+	Query: "class:aves catalognumber:115590 year:2008 month:6 day:13" ; Times: 7
+	Query: "class:aves catalognumber:87209 year:2007 month:6" ; Times: 3
+	Query: "116330 UWBM" ; Times: 4
+	Query: "specificepithet:virens class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:110819 year:2003 month:7 day:3" ; Times: 6
+	Query: "specificepithet:rufescens class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "specificepithet:platensis genus:cistothorus hastissue:1" ; Times: 1
+	Query: "specificepithet:pusilla class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 14
+	Query: "vireo vicinior" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "genus:parus catalognumber:111055" ; Times: 2
+	Query: "class:aves catalognumber:84868 year:2007 month:6" ; Times: 3
+	Query: "class:aves catalognumber:49881 year:1994 month:6 day:30" ; Times: 6
+	Query: "class:aves catalognumber:115923 year:2006 month:6" ; Times: 3
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "class:aves recordedby:beasley" ; Times: 1
+	Query: "112078 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:113720 year:2008 month:7" ; Times: 5
+	Query: "class:aves catalognumber:107975 year:2003 month:7 day:2" ; Times: 6
+	Query: "class:aves catalognumber:118183 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:12072" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 3
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "Aphelocoma coerulescens 2016" ; Times: 12
+	Query: "class:aves catalognumber:90502 year:2010 month:6 day:14" ; Times: 6
+	Query: "specificepithet:iliaca class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:74532 year:2001 month:7 day:3" ; Times: 7
+	Query: "class:aves catalognumber:73031 year:2000 month:6 day:29" ; Times: 7
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "class:aves catalognumber:113196 year:2007 month:6 day:15" ; Times: 7
+	Query: "class:aves catalognumber:116189 year:2008 month:6" ; Times: 3
+	Query: "Sitta pygmaea ventura egg" ; Times: 1
+	Query: "class:aves catalognumber:118210 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:109034 year:2006 month:6 day:20" ; Times: 7
+	Query: "Aphelocoma coerulescens 1985" ; Times: 6
+	Query: "class:aves catalognumber:57312 year:1990 month:7 day:18" ; Times: 7
+	Query: "class:aves catalognumber:50330 year:1988 month:6 day:12" ; Times: 7
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:100501 year:2006 month:6" ; Times: 3
+	Query: "class:aves catalognumber:114261 year:2008 month:7 day:2" ; Times: 7
+	Query: "89898 UWBM" ; Times: 4
+	Query: "112209 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:116185 year:2008 month:6" ; Times: 3
+	Query: "class:aves catalognumber:110850 year:2003 month:7" ; Times: 5
+	Query: "body mass vntype:specimen" ; Times: 1
+	Query: "specificepithet:cassinii class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "specificepithet:calendula class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:110832 year:2003 month:7" ; Times: 3
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;washington&#34; year &gt;= 1994 year &lt;= 1994 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "catalognumber:79277 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:aves catalognumber:110821 year:2003 month:7 day:2" ; Times: 6
+	Query: "class:aves catalognumber:116206 year:2008 month:6 day:10" ; Times: 7
+	Query: "111670 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:100458 year:2006 month:6 day:15" ; Times: 7
+	Query: "schell creek" ; Times: 2
+	Query: "class:aves catalognumber:118192 year:2014 month:6" ; Times: 3
+	Query: "specificepithet:canadensis class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:43107 year:1990 month:7 day:3" ; Times: 7
+	Query: "100362 UWBM" ; Times: 4
+	Query: "class:aves catalognumber:116202 year:2008 month:6" ; Times: 3
+	Query: "Cairina moschata" ; Times: 1
+	Query: "specificepithet:lincolnii class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Jammu and Kashmir&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "118332 UWBM" ; Times: 4
+	Query: "class:aves catalognumber:116207 year:2008 month:6" ; Times: 3
+	Query: "specificepithet:albigularis genus:Laterallus" ; Times: 1
+	Query: "class:aves catalognumber:113344 year:2007 month:6 day:15" ; Times: 6
+	Query: "specificepithet:coronata class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:113565 year:2006 month:6" ; Times: 3
+	Query: "catalognumber:47836 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "108755 UWBM" ; Times: 2
+	Query: "specificepithet:ustulatus class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "milvus migrans" ; Times: 2
+	Query: "class:aves catalognumber:49893 year:1994 month:6" ; Times: 3
+	Query: "85954 UWBM" ; Times: 2
+	Query: "class:AVES (KASHMIR) AND (Jammu) AND (NOT Gilgit) AND (NOT Ladakh) AND (NOT Himachal) AND (NOT Ruphsu) AND (NOT Baltistan) AND (NOT Kargil)" ; Times: 1
+	Query: "specificepithet:ruber class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:calendula class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:116200 year:2008 month:6 day:22" ; Times: 7
+	Query: "107126 UWBM" ; Times: 2
+	Query: "107128 UWBM" ; Times: 2
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "class:aves catalognumber:87116 year:2007 month:6" ; Times: 4
+	Query: "class:aves catalognumber:100249 year:2005 month:6 day:25" ; Times: 7
+	Query: "class:aves catalognumber:80448 year:2004 month:6" ; Times: 3
+	Query: "class:aves catalognumber:118182 year:2014 month:6" ; Times: 3
+	Query: "specificepithet:americana class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:coronata class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "100552 UWBM" ; Times: 2
+	Query: "42543 specificepithet:sawtelli genus:collocalia" ; Times: 1
+	Query: "class:aves catalognumber:115590 year:2008 month:6" ; Times: 3
+	Query: "Charadrius melodus 1980" ; Times: 4
+	Query: "56084" ; Times: 1
+	Query: "class:aves catalognumber:80751 year:1986 month:6 day:13" ; Times: 7
+	Query: "31201" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "specificepithet:satrapa class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:cenchroides genus:Falco" ; Times: 2
+	Query: "class:aves catalognumber:49887 year:1994 month:6" ; Times: 3
+	Query: "class:aves catalognumber:62783 year:1997 month:8 day:1" ; Times: 7
+	Query: "genus:parus catalognumber:110861" ; Times: 2
+	Query: "genus:parus catalognumber:110860" ; Times: 2
+	Query: "white-breasted nuthatch hastissue:1" ; Times: 3
+	Query: "genus:Pachyptila institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Passerina cyanea x amoena vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "class:aves catalognumber:79610 year:2001 month:6 day:18" ; Times: 7
+	Query: "specificepithet:mystacea genus:Sylvia hastissue:1" ; Times: 3
+	Query: "class:aves catalognumber:84868 year:2007 month:6 day:15" ; Times: 6
+	Query: "catalognumber:101619 year &gt;= 2002 year &lt;= 2002 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "wingspan specificepithet:flavipes genus:Tringa" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "locality:new hanover" ; Times: 1
+	Query: "wing specificepithet:helias genus:Eurypyga" ; Times: 1
+	Query: "genus:certhia catalognumber:111075" ; Times: 2
+	Query: "Anas crecca crecca hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:110828 year:2003 month:7 day:1" ; Times: 6
+	Query: "pachyptila turtur year &gt;= 1950 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "110838 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:110858 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:50332 year:1988 month:6 day:13" ; Times: 6
+	Query: "class:aves catalognumber:100453 year:2006 month:6 day:14" ; Times: 7
+	Query: "Coturnicops noveboracensis" ; Times: 5
+	Query: "class:aves catalognumber:100263 year:2005 month:6 day:24" ; Times: 6
+	Query: "genus:certhia catalognumber:110850" ; Times: 2
+	Query: "Spizella breweri" ; Times: 1
+	Query: "class:aves catalognumber:112765 year:2006 month:6" ; Times: 3
+	Query: "wingspan specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "100417 UWBM" ; Times: 2
+	Query: "genus:perisoreus catalognumber:101619" ; Times: 2
+	Query: "specificepithet:calendula class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:74531 year:2001 month:7" ; Times: 9
+	Query: "Cepphus grylle US" ; Times: 1
+	Query: "vini" ; Times: 1
+	Query: "111666 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:116184 year:2008 month:6 day:14" ; Times: 7
+	Query: "specificepithet:varius class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:113347 year:2007 month:6 day:14" ; Times: 6
+	Query: "genus:melospiza catalognumber:116167" ; Times: 2
+	Query: "116526 UWBM" ; Times: 2
+	Query: "12644 UWBM" ; Times: 1
+	Query: "specificepithet:nuchalis class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "117576 UWBM" ; Times: 2
+	Query: "passerina cyanea x amoena" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 NOT Stephens" ; Times: 1
+	Query: "specificepithet:rufescens class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "specificepithet:virens class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:79277 year:1999 month:8 day:9" ; Times: 6
+	Query: "himalayan monal" ; Times: 9
+	Query: "class:aves (Tetepare) institutioncode:UWBM" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Jammu&#34;" ; Times: 1
+	Query: "class:aves catalognumber:113379 year:2007 month:6 day:15" ; Times: 7
+	Query: "112076 UWBM" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 2
+	Query: "class:aves catalognumber:111046 year:2003 month:7" ; Times: 3
+	Query: "genus:Pterodroma institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:84344 year:2005 month:8 day:21" ; Times: 6
+	Query: "specificepithet:ruficapilla class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:110861 year:2003 month:7 day:6" ; Times: 6
+	Query: "107116 UWBM" ; Times: 2
+	Query: "specificepithet:ruficapilla class:aves country:&#34;canada&#34; year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "113634 Mexico" ; Times: 1
+	Query: "class:aves catalognumber:47914 year:1991 month:6" ; Times: 3
+	Query: "55422" ; Times: 1
+	Query: "specificepithet:townsendi class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Loxia curvirostra Washington King County" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "warbling vireo nevada" ; Times: 1
+	Query: "112205 UWBM" ; Times: 2
+	Query: "specificepithet:satrapa class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:115926 year:2006 month:6 day:20" ; Times: 6
+	Query: "specificepithet:americana class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:100263 year:2005 month:6" ; Times: 3
+	Query: "class:aves catalognumber:114845 year:2003 month:7 day:12" ; Times: 6
+	Query: "specificepithet:atricapillus class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:110865 year:2003 month:7 day:5" ; Times: 5
+	Query: "specificepithet:coronata class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:guttatus class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Sitta europaea USNM year &gt; 1990" ; Times: 1
+	Query: "hoatzin" ; Times: 1
+	Query: "specificepithet:atricapillus class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:43131 year:1990 month:7 day:17" ; Times: 7
+	Query: "class:aves catalognumber:43109 year:1990 month:7" ; Times: 3
+	Query: "specificepithet:americana class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:115927 year:2006 month:6 day:19" ; Times: 6
+	Query: "Coccyzus americanus 1981" ; Times: 4
+	Query: "Coccyzus americanus 1980" ; Times: 4
+	Query: "Coccyzus americanus 1983" ; Times: 4
+	Query: "Coccyzus americanus 1985" ; Times: 4
+	Query: "Eremophila alpestris strigata 2016" ; Times: 4
+	Query: "Coccyzus americanus 1987" ; Times: 4
+	Query: "Coccyzus americanus 1986" ; Times: 4
+	Query: "Coccyzus americanus 1989" ; Times: 4
+	Query: "Coccyzus americanus 1988" ; Times: 4
+	Query: "bombus" ; Times: 1
+	Query: "66828 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:109751 year:2001 month:7 day:20" ; Times: 7
+	Query: "Pitta sordida year &gt; 1990" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 5
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 1
+	Query: "106734 UWBM" ; Times: 2
+	Query: "18905" ; Times: 5
+	Query: "specificepithet:townsendi class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "specificepithet:atricapillus class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Strix occidentalis caurina 2016" ; Times: 3
+	Query: "specificepithet:dorsalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:43111 year:1990 month:7" ; Times: 3
+	Query: "catalognumber:58538 institutioncode:UWBM" ; Times: 2
+	Query: "class:aves catalognumber:116203 year:2008 month:6" ; Times: 3
+	Query: "class:aves catalognumber:43108 year:1990 month:7 day:3" ; Times: 7
+	Query: "class:aves catalognumber:72883 year:2000 month:6 day:4" ; Times: 6
+	Query: "specificepithet:celata stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "catalognumber:113383 year &gt;= 2007 year &lt;= 2007 month &gt;= 6" ; Times: 1
+	Query: "class:aves catalognumber:111076 year:2003 month:7 day:22" ; Times: 6
+	Query: "class:aves catalognumber:113195 year:2007 month:6 day:14" ; Times: 7
+	Query: "phasianus" ; Times: 1
+	Query: "112648 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:104443 year:2002 month:6" ; Times: 3
+	Query: "class:aves catalognumber:105140 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:118432 year:2014 month:6 day:20" ; Times: 7
+	Query: "class:aves catalognumber:88796 year:2008 month:7" ; Times: 7
+	Query: "cercomacra" ; Times: 1
+	Query: "class:aves catalognumber:115926 year:2006 month:6" ; Times: 3
+	Query: "class:aves catalognumber:110809 year:2003 month:7 day:2" ; Times: 6
+	Query: "wing specificepithet:flavipes genus:Tringa" ; Times: 1
+	Query: "class:aves catalognumber:118183 year:2014 month:6 day:18" ; Times: 6
+	Query: "genus:regulus catalognumber:110849" ; Times: 2
+	Query: "class:aves catalognumber:91257 year:2010 month:6 day:26" ; Times: 7
+	Query: "class:aves catalognumber:113347 year:2007 month:6" ; Times: 3
+	Query: "class:aves catalognumber:118288 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:112765 year:2006 month:6 day:20" ; Times: 6
+	Query: "86545" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "great tit" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "specificepithet:ruber class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "bird body size" ; Times: 1
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "Brachyramphus marmoratus 2016" ; Times: 8
+	Query: "66334" ; Times: 1
+	Query: "107149 UWBM" ; Times: 2
+	Query: "specificepithet:canadensis class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:Procellaria institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:116207 year:2008 month:6 day:10" ; Times: 7
+	Query: "class:aves catalognumber:91403 year:2010 month:6 day:1" ; Times: 6
+	Query: "class:aves catalognumber:80172 year:2003 month:6 day:26" ; Times: 6
+	Query: "117762 UWBM" ; Times: 4
+	Query: "class:aves catalognumber:112762 year:2006 month:6" ; Times: 3
+	Query: "class:aves catalognumber:116185 year:2008 month:6 day:22" ; Times: 7
+	Query: "10918" ; Times: 2
+	Query: "specificepithet:decumanus genus:psarocolius country:&#34;Venezuela&#34;" ; Times: 6
+	Query: "specificepithet:tolmiei class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Fulmarus glacialis year &gt; 1990" ; Times: 2
+	Query: "114990 UWBM" ; Times: 2
+	Query: "Brachyramphus marmoratus 1981" ; Times: 5
+	Query: "117448 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:118200 year:2014 month:6" ; Times: 3
+	Query: "16051" ; Times: 2
+	Query: "112792 UWBM" ; Times: 2
+	Query: "113781 UWBM" ; Times: 2
+	Query: "112644 UWBM" ; Times: 2
+	Query: "Brachyramphus marmoratus 1989" ; Times: 5
+	Query: "Coccyzus americanus 2004" ; Times: 4
+	Query: "genus:regulus catalognumber:110825" ; Times: 2
+	Query: "genus:perisoreus catalognumber:116207" ; Times: 2
+	Query: "genus:regulus catalognumber:110827" ; Times: 2
+	Query: "class:aves catalognumber:115925 year:2006 month:6 day:20" ; Times: 6
+	Query: "class:aves catalognumber:43131 year:1990 month:7" ; Times: 7
+	Query: "16053" ; Times: 3
+	Query: "genus:regulus catalognumber:110822" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Huey NOT Stephens" ; Times: 2
+	Query: "specificepithet:virens stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:aves catalognumber:113520 year:2007 month:6 day:15" ; Times: 6
+	Query: "genus:junco catalognumber:100249" ; Times: 2
+	Query: "catalognumber:90428 year = 2010 month = 6 month" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "107133 UWBM" ; Times: 2
+	Query: "117795 UWBM" ; Times: 2
+	Query: "Eremophila alpestris strigata 2015" ; Times: 4
+	Query: "specificepithet:castaneoventris genus:Lampornis sex:male" ; Times: 1
+	Query: "specificepithet:nuchalis class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:59338 year:1991 month:8 day:4" ; Times: 6
+	Query: "class:aves catalognumber:118182 year:2014 month:6 day:18" ; Times: 6
+	Query: "THayer’s gull pSm" ; Times: 2
+	Query: "specificepithet:montanus continent:Europe" ; Times: 1
+	Query: "112204 UWBM" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "genus:Rallus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Aphelocoma coerulescens 1981" ; Times: 6
+	Query: "117496 UWBM" ; Times: 2
+	Query: "specificepithet:serranus genus:turdus family:turdidae continent:South America year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "specificepithet:satrapa class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "catalognumber:109046 year &gt;= 2006 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:aves catalognumber:109030 year:2006 month:6" ; Times: 5
+	Query: "cooper center" ; Times: 1
+	Query: "86668" ; Times: 1
+	Query: "class:aves catalognumber:118432 year:2014 month:6" ; Times: 5
+	Query: "specificepithet:dorsalis class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Lepidóptera" ; Times: 1
+	Query: "class:aves catalognumber:84881 year:2007 month:6" ; Times: 3
+	Query: "112177 UWBM" ; Times: 2
+	Query: "66877 UWBM" ; Times: 4
+	Query: "class:aves catalognumber:84872 year:2007 month:6" ; Times: 3
+	Query: "genus:regulus catalognumber:111078" ; Times: 2
+	Query: "class:aves catalognumber:116082 year:2007 month:6" ; Times: 7
+	Query: "class:aves catalognumber:105154 year:2003 month:7" ; Times: 3
+	Query: "morus bassanus" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 2
+	Query: "class:aves catalognumber:115648 year:2006 month:6" ; Times: 5
+	Query: "specificepithet:townsendi class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Catharus guttatus skin connecticut" ; Times: 1
+	Query: "class:aves catalognumber:117676 year:2013 month:6 day:6" ; Times: 6
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Howell" ; Times: 3
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "class:aves catalognumber:91422 year:2008 month:7 day:17" ; Times: 6
+	Query: "106764 UWBM" ; Times: 2
+	Query: "Nothoprocta ornata year &gt; 1990" ; Times: 2
+	Query: "bushtit" ; Times: 5
+	Query: "genus:parus catalognumber:107975" ; Times: 2
+	Query: "class:aves catalognumber:78111 year:2001 month:6" ; Times: 3
+	Query: "specificepithet:satrapa country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "specificepithet:calendula class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:113565 year:2006 month:6 day:13" ; Times: 7
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:aves catalognumber:116180 year:2008 month:6" ; Times: 3
+	Query: "pelecanoides urinator" ; Times: 1
+	Query: "class:aves catalognumber:111046 year:2003 month:7 day:1" ; Times: 6
+	Query: "class:aves catalognumber:87244 year:2005 month:8 day:6" ; Times: 8
+	Query: "specificepithet:hyemalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:uropygialis genus:Cacicus hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:57312 year:1990 month:7" ; Times: 3
+	Query: "class:aves catalognumber:116184 year:2008 month:6" ; Times: 3
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "class:aves catalognumber:69539 year:2001 month:7" ; Times: 4
+	Query: "Pluvialis squatarola squatarola hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:115644 year:2006 month:6" ; Times: 5
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "class:aves catalognumber:111048 year:2003 month:7" ; Times: 3
+	Query: "Pine siskin" ; Times: 2
+	Query: "specificepithet:canadensis class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "19720" ; Times: 2
+	Query: "Sitta pusilla tissue vntype:specimen hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:78111 year:2001 month:6 day:9" ; Times: 6
+	Query: "wingspan specificepithet:erythropthalmus genus:Coccyzus" ; Times: 1
+	Query: "class:aves catalognumber:66980 year:1998 month:7 day:14" ; Times: 7
+	Query: "catalognumber:8387 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Thalassoica institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:113747 year:2008 month:6" ; Times: 3
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "genus:certhia catalognumber:113196" ; Times: 1
+	Query: "class:aves catalognumber:113520 year:2007 month:6" ; Times: 3
+	Query: "class:aves catalognumber:84879 year:2007 month:6 day:10" ; Times: 6
+	Query: "whooping crane" ; Times: 9
+	Query: "115820" ; Times: 1
+	Query: "genus:myzomela institutioncode:UWBM" ; Times: 3
+	Query: "class:aves catalognumber:73055 year:2000 month:6" ; Times: 5
+	Query: "class:aves catalognumber:50332 year:1988 month:6" ; Times: 3
+	Query: "class:aves catalognumber:109751 year:2001 month:7" ; Times: 5
+	Query: "class:aves catalognumber:114433 year:2010 month:7 day:9" ; Times: 7
+	Query: "specificepithet:townsendi class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:virens class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Pandion haliaetus year &gt; 1990" ; Times: 1
+	Query: "109683 UWBM" ; Times: 2
+	Query: "warbling vireo" ; Times: 2
+	Query: "class:aves catalognumber:68233 year:1998 month:7 day:25" ; Times: 7
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1980 year &lt;= 2019 hastissue:1" ; Times: 4
+	Query: "specificepithet:iliaca class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Jammu" ; Times: 1
+	Query: "golden trout" ; Times: 1
+	Query: "class:aves catalognumber:73031 year:2000 month:6" ; Times: 5
+	Query: "Vireo gilvus alberta" ; Times: 1
+	Query: "54056" ; Times: 1
+	Query: "class:aves catalognumber:110862 year:2003 month:7" ; Times: 3
+	Query: "54721" ; Times: 1
+	Query: "specificepithet:ruber class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73055 year:2000 month:6 day:30" ; Times: 7
+	Query: "northern mallard" ; Times: 1
+	Query: "specificepithet:calendula class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:100453 year:2006 month:6" ; Times: 3
+	Query: "fiery-throated hummingbird" ; Times: 1
+	Query: "class:aves catalognumber:110810 year:2003 month:7 day:2" ; Times: 6
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 AND Field" ; Times: 1
+	Query: "specificepithet:celata class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Gallinula chloropus chloropus hasmass:1" ; Times: 1
+	Query: "118280 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:59338 year:1991 month:8" ; Times: 3
+	Query: "class:aves catalognumber:110835 year:2003 month:7" ; Times: 3
+	Query: "58676" ; Times: 1
+	Query: "class:aves catalognumber:50390 year:1988 month:6" ; Times: 3
+	Query: "institutioncode:UWBM 57440" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913" ; Times: 4
+	Query: "67280" ; Times: 1
+	Query: "class:aves catalognumber:110841 year:2003 month:7 day:2" ; Times: 6
+	Query: "class:aves catalognumber:115648 year:2006 month:6 day:19" ; Times: 7
+	Query: "elf" ; Times: 2
+	Query: "specificepithet:ruficapilla class:aves country:&#34;canada&#34; hastissue:1" ; Times: 1
+	Query: "genus:Indicator hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:43123 year:1990 month:7 day:16" ; Times: 7
+	Query: "class:aves catalognumber:90477 year:2010 month:6" ; Times: 3
+	Query: "specificepithet:lincolnii class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:110810 year:2003 month:7" ; Times: 3
+	Query: "95833" ; Times: 1
+	Query: "class:aves catalognumber:108752 year:2005 month:6 day:24" ; Times: 7
+	Query: "johannae" ; Times: 2
+	Query: "locality:bonney" ; Times: 1
+	Query: "class:aves catalognumber:62783 year:1997 month:8" ; Times: 3
+	Query: "class:aves catalognumber:90428 year:2010 month:6 day:15" ; Times: 6
+	Query: "specificepithet:cassinii class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "specificepithet:iliaca class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:110850 year:2003 month:7 day:5" ; Times: 7
+	Query: "genus:junco catalognumber:100206" ; Times: 2
+	Query: "genus:francolinus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Washington&#34; county:&#34;King&#34;" ; Times: 1
+	Query: "genus:sphyrapicus catalognumber:105136" ; Times: 2
+	Query: "Mycteria americana 1989" ; Times: 4
+	Query: "genus:ortygospiza class:aves year &gt;= 1980" ; Times: 1
+	Query: "class:aves catalognumber:50410 year:1988 month:6" ; Times: 3
+	Query: "class:aves catalognumber:113383 year:2007 month:6" ; Times: 3
+	Query: "class:aves catalognumber:110507 year:2002 month:7 day:6" ; Times: 7
+	Query: "class:aves catalognumber:100206 year:2005 month:6 day:23" ; Times: 7
+	Query: "Brachyramphus marmoratus 1999" ; Times: 5
+	Query: "class:aves catalognumber:115876 year:2005 month:6" ; Times: 3
+	Query: "class:aves catalognumber:110820 year:2003 month:7 day:2" ; Times: 6
+	Query: "109588" ; Times: 1
+	Query: "class:aves catalognumber:68192 year:1998 month:7" ; Times: 3
+	Query: "genus:Oporornis catalognumber:118181" ; Times: 2
+	Query: "111582 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:105136 year:2003 month:7 day:6" ; Times: 6
+	Query: "genus:vermivora catalognumber:118210" ; Times: 2
+	Query: "113778 UWBM" ; Times: 2
+	Query: "catalognumber:79277 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:occidentalis class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "pileated woodpecker" ; Times: 3
+	Query: "class:aves catalognumber:113195 year:2007 month:6" ; Times: 5
+	Query: "class:aves catalognumber:113378 year:2007 month:6" ; Times: 3
+	Query: "class:aves catalognumber:110832 year:2003 month:7 day:1" ; Times: 6
+	Query: "107124 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:110829 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:84869 year:2007 month:6 day:15" ; Times: 6
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "specificepithet:guttatus class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "class:aves catalognumber:109034 year:2006 month:6" ; Times: 5
+	Query: "slaty bunting" ; Times: 3
+	Query: "class:aves catalognumber:84213 year:2003 month:7" ; Times: 3
+	Query: "Strix occidentalis caurina 2015" ; Times: 3
+	Query: "specificepithet:hyemalis class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "113802 UWBM" ; Times: 4
+	Query: "specificepithet:occidentalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "Lamprolaima hastissue:1" ; Times: 1
+	Query: "Aphelocoma coerulescens 1983" ; Times: 6
+	Query: "class:aves catalognumber:79495 year:2000 month:6" ; Times: 5
+	Query: "class:aves catalognumber:49882 year:1994 month:6" ; Times: 3
+	Query: "116611 UWBM" ; Times: 4
+	Query: "106469" ; Times: 1
+	Query: "111585 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:72907 year:2000 month:6" ; Times: 3
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "class:aves catalognumber:118434 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:113197 year:2007 month:6" ; Times: 5
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "class:aves catalognumber:72907 year:2000 month:6 day:29" ; Times: 6
+	Query: "pheucticus skin washington" ; Times: 1
+	Query: "112107 UWBM" ; Times: 2
+	Query: "UWBM 66742" ; Times: 1
+	Query: "class:aves catalognumber:111075 year:2003 month:7" ; Times: 5
+	Query: "specificepithet:americana class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:113196 year:2007 month:6" ; Times: 5
+	Query: "Tangara fastuosa mappable:1" ; Times: 3
+	Query: "Ceyx UWBM Malaita" ; Times: 1
+	Query: "specificepithet:rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 2000" ; Times: 4
+	Query: "56937" ; Times: 2
+	Query: "genus:Halobaena institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:satrapa class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:110831 year:2003 month:7" ; Times: 3
+	Query: "specificepithet:colubris genus:Archilochus hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:112767 year:2006 month:6 day:19" ; Times: 6
+	Query: "genus:dendroica catalognumber:90502" ; Times: 2
+	Query: "specificepithet:carolinensis class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "54464" ; Times: 1
+	Query: "class:aves catalognumber:116189 year:2008 month:6 day:12" ; Times: 7
+	Query: "class:aves catalognumber:110860 year:2003 month:7 day:6" ; Times: 6
+	Query: "54548" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND 1896" ; Times: 2
+	Query: "class:aves catalognumber:41211 year:1985 month:8" ; Times: 3
+	Query: "class:aves catalognumber:84892 year:2007 month:6" ; Times: 3
+	Query: "specificepithet:canadensis class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:pusilla class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 13
+	Query: "class:aves catalognumber:72370 year:1999 month:7 day:23" ; Times: 6
+	Query: "class:aves catalognumber:86320 year:2006 month:7 day:1" ; Times: 7
+	Query: "cormorant Alaska" ; Times: 3
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "112109 UWBM" ; Times: 2
+	Query: "pachyptila turtur year &gt;= 1980 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:110823 year:2003 month:6 day:29" ; Times: 6
+	Query: "specificepithet:nuchalis class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "specificepithet:ustulatus class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Plocepasser" ; Times: 1
+	Query: "107150 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:114261 year:2008 month:7" ; Times: 5
+	Query: "Brachyramphus marmoratus 1983" ; Times: 5
+	Query: "class:aves catalognumber:115644 year:2006 month:6 day:19" ; Times: 7
+	Query: "specificepithet:canadensis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:ustulatus class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:116206 year:2008 month:6" ; Times: 3
+	Query: "17921" ; Times: 1
+	Query: "Chordeiles acutipennis year &gt; 1990" ; Times: 1
+	Query: "specificepithet:pusilla catalognumber:53378" ; Times: 1
+	Query: "specificepithet:ruficapilla class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:tolmiei class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:picoides catalognumber:105178" ; Times: 1
+	Query: "Oenanthe oenanthe USNM year &gt; 1990" ; Times: 1
+	Query: "class:aves catalognumber:110835 year:2003 month:7 day:1" ; Times: 6
+	Query: "Arenaria interpres interpres hasmass:1" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "class:aves catalognumber:113521 year:2007 month:6" ; Times: 3
+	Query: "Phylloscopus trochilus USNM year &gt; 1990" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "class:aves catalognumber:84872 year:2007 month:6 day:15" ; Times: 6
+	Query: "genus:Troglodytes country:&#34;Russia&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Catharus fuscescens year &gt; 1990" ; Times: 1
+	Query: "specificepithet:villosus class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "117794 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:110820 year:2003 month:7" ; Times: 3
+	Query: "Aphelocoma coerulescens 2015" ; Times: 6
+	Query: "Lerwa lerwa" ; Times: 1
+	Query: "Stercorarius parasiticus year &gt; 1990" ; Times: 1
+	Query: "specificepithet:villosus stateprovince:&#34;michigan&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:townsendi class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:91322 year:2009 month:7 day:3" ; Times: 6
+	Query: "Accipiter gularis" ; Times: 2
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 1
+	Query: "specificepithet:atricapillus class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Junco phaeonotus hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:84869 year:2007 month:6" ; Times: 3
+	Query: "class:aves catalognumber:64403 year:1999 month:7 day:1" ; Times: 6
+	Query: "100418 UWBM" ; Times: 2
+	Query: "indigo bunting x" ; Times: 1
+	Query: "genus:Pagodroma institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Emerson NOT Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 2
+	Query: "specificepithet:pusilla stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:aves catalognumber:105154 year:2003 month:7 day:2" ; Times: 6
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "111569 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:79402 year:1999 month:8 day:19" ; Times: 7
+	Query: "glaucous-winged gull" ; Times: 1
+	Query: "class:aves catalognumber:110822 year:2003 month:7 day:3" ; Times: 6
+	Query: "61132" ; Times: 1
+	Query: "specificepithet:ruficapilla class:aves stateprovince:Washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:115649 year:2006 month:6 day:19" ; Times: 7
+	Query: "genus:certhia catalognumber:109030" ; Times: 2
+	Query: "class:aves catalognumber:113194 year:2007 month:6 day:15" ; Times: 7
+	Query: "class:aves catalognumber:118264 year:2014 month:6 day:19" ; Times: 7
+	Query: "class:aves catalognumber:74531 year:2001 month:7 day:12" ; Times: 8
+	Query: "Aphelocoma coerulescens 1989" ; Times: 6
+	Query: "specificepithet:cunicularia genus:athene hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:108752 year:2005 month:6" ; Times: 5
+	Query: "class:aves catalognumber:84892 year:2007 month:6 day:14" ; Times: 6
+	Query: "horus swift" ; Times: 1
+	Query: "class:aves catalognumber:79832 year:2002 month:7 day:2" ; Times: 7
+	Query: "specificepithet:tolmiei class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:112762 year:2006 month:6 day:19" ; Times: 6
+	Query: "Piping plover" ; Times: 9
+	Query: "class:aves catalognumber:111057 year:2003 month:6" ; Times: 3
+	Query: "class:aves catalognumber:110801 year:2003 month:7" ; Times: 5
+	Query: "Sitta pusilla vntype:specimen year &gt;= 1990" ; Times: 2
+	Query: "class:aves catalognumber:90256 year:2004 month:7 day:5" ; Times: 7
+	Query: "specificepithet:tolmiei class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:picoides catalognumber:90477" ; Times: 2
+	Query: "specificepithet:hudsonicus class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "monarcha castaneiventris country:&#34;Solomon Islands&#34;" ; Times: 1
+	Query: "class:aves catalognumber:49866 year:1994 month:6 day:24" ; Times: 6
+	Query: "specificepithet:calendula class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "hippolais icterina" ; Times: 3
+	Query: "80642" ; Times: 1
+	Query: "UWBM 80061" ; Times: 1
+	Query: "class:aves catalognumber:43123 year:1990 month:7" ; Times: 7
+	Query: "class:aves catalognumber:118210 year:2014 month:6 day:18" ; Times: 7
+	Query: "class:aves catalognumber:115928 year:2006 month:6" ; Times: 3
+	Query: "specificepithet:dorsalis class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:100458 year:2006 month:6" ; Times: 4
+	Query: "genus:Passer country:&#34;China&#34;" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 7
+	Query: "class:aves catalognumber:100250 year:2005 month:6 day:24" ; Times: 7
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920" ; Times: 7
+	Query: "specificepithet:canadensis class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "113803 UWBM" ; Times: 2
+	Query: "pachyptila turtur year &gt;= 1970 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "specificepithet:cassinii class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "class:aves catalognumber:116208 year:2008 month:6 day:10" ; Times: 7
+	Query: "class:aves catalognumber:111047 year:2003 month:7 day:1" ; Times: 6
+	Query: "class:aves catalognumber:59041 year:1995 month:6 day:21" ; Times: 7
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "Brachyramphus marmoratus 1990" ; Times: 5
+	Query: "Brachyramphus marmoratus 1991" ; Times: 5
+	Query: "Brachyramphus marmoratus 1992" ; Times: 5
+	Query: "specificepithet:ossifragus genus:Corvus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 1994" ; Times: 5
+	Query: "Brachyramphus marmoratus 1996" ; Times: 5
+	Query: "class:aves catalognumber:115923 year:2006 month:6 day:7" ; Times: 6
+	Query: "catalognumber:98298 institutioncode:UWBM" ; Times: 1
+	Query: "wing specificepithet:urochrysia genus:Chalybura" ; Times: 1
+	Query: "specificepithet:schulzi genus:cinclus institutioncode:UWBM" ; Times: 1
+	Query: "Brachyramphus marmoratus 1985" ; Times: 5
+	Query: "genus:catharus catalognumber:116082" ; Times: 2
+	Query: "class:aves catalognumber:112738 year:2006 month:6" ; Times: 5
+	Query: "class:aves catalognumber:50330 year:1988 month:6" ; Times: 3
+	Query: "genus:junco catalognumber:100250" ; Times: 1
+	Query: "class:aves catalognumber:105142 year:2003 month:7" ; Times: 3
+	Query: "class:aves catalognumber:110801 year:2003 month:7 day:7" ; Times: 7
+	Query: "Apus horus vntype:specimen" ; Times: 2
+	Query: "bushtit egg" ; Times: 4
+	Query: "Psaltriparus minimus Washington Pierce County" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "Horus Swift" ; Times: 2
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "class:aves catalognumber:113381 year:2007 month:6 day:13" ; Times: 7
+	Query: "tit" ; Times: 1
+	Query: "86613" ; Times: 1
+	Query: "specificepithet:celata class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "110836 UWBM" ; Times: 2
+	Query: "86616" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "86614" ; Times: 1
+	Query: "Horus swift vntype:specimen" ; Times: 1
+	Query: "class:aves catalognumber:84328 year:2005 month:7" ; Times: 8
+	Query: "class:aves catalognumber:84870 year:2007 month:6" ; Times: 3
+	Query: "class:aves catalognumber:47925 year:1991 month:6 day:25" ; Times: 6
+	Query: "Ardea alba hasmass:1" ; Times: 1
+	Query: "family:Musophagidae institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:110861 year:2003 month:7" ; Times: 3
+	Query: "specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Stephens" ; Times: 2
+	Query: "genus:Pelecanoides hastissue:1" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Emerson NOT Barlow" ; Times: 1
+	Query: "specificepithet:ustulatus class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:rufescens class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "113634" ; Times: 1
+	Query: "catalognumber:113375 year &gt;= 2007 year &lt;= 2007 month &gt;= 6" ; Times: 1
+	Query: "catalognumber:97652" ; Times: 1
+	Query: "116326 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:113194 year:2007 month:6" ; Times: 5
+	Query: "45337" ; Times: 1
+	Query: "class:aves catalognumber:113383 year:2007 month:6 day:14" ; Times: 7
+	Query: "class:aves catalognumber:43107 year:1990 month:7" ; Times: 3
+	Query: "class:aves catalognumber:50410 year:1988 month:6 day:16" ; Times: 7
+	Query: "county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1989 year &lt;= 1989 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Brachyramphus marmoratus 1988" ; Times: 5
+	Query: "specificepithet:plumbeus class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "monarcha castaneiventris institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:guttatus class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "61702" ; Times: 1
+	Query: "Anas platyrhynchos platyrhynchos hasmass:1" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "family:Pittidae hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:110802 year:2003 month:7 day:7" ; Times: 7
+	Query: "class:aves catalognumber:115930 year:2006 month:6 day:20" ; Times: 6
+	Query: "class:aves catalognumber:113376 year:2007 month:6" ; Times: 3
+	Query: "class:aves catalognumber:47922 year:1991 month:6" ; Times: 3
+	Query: "Coccyzus americanus 1999" ; Times: 4
+	Query: "116334 UWBM" ; Times: 2
+	Query: "Larus Thayer’s PSM" ; Times: 1
+	Query: "specificepithet:townsendi class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "113780 UWBM" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "class:aves catalognumber:100494 year:2006 month:6 day:17" ; Times: 7
+	Query: "puffinus auricularis" ; Times: 1
+	Query: "117518 UWBM" ; Times: 4
+	Query: "112650 UWBM" ; Times: 2
+	Query: "class:aves catalognumber:109030 year:2006 month:6 day:20" ; Times: 7
+	Query: "genus:junco catalognumber:110507" ; Times: 2
+	Query: "106733 UWBM" ; Times: 2
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 5
+	Query: "pachyptila turtur hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 1367 download events in this period)
+Total number of records downloaded: 37719
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 49
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Netherlands ; Times: 3
+	Country: Colombia ; Times: 14
+	Country: Cyprus ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 7
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-14 ; Times: 2
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-27 ; Times: 3
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-25 ; Times: 5
+	Date: 2019-11-26 ; Times: 4
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 16
+	Date: 2019-11-07 ; Times: 3
+	Date: 2019-11-04 ; Times: 7
+	Date: 2019-11-05 ; Times: 5
+	Date: 2019-11-02 ; Times: 6
+	Date: 2019-11-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vini" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+	Query: "specificepithet:mystacea genus:Sylvia hastissue:1" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "wing specificepithet:urochrysia genus:Chalybura" ; Times: 1
+	Query: "passenger pigeon" ; Times: 2
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "seaside sparrow" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "Lerwa lerwa" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Aves Jammu UWBM" ; Times: 1
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "order:Apodiformes" ; Times: 2
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "wingspan genus:Camptostoma" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto (stomach)" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "graciae family:Parulidae country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "panterpe insignis" ; Times: 1
+	Query: "flammulated owl" ; Times: 1
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "wing specificepithet:fuscatus genus:Cnemotriccus" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio hasmass:1 haslength:1" ; Times: 1
+	Query: "order:Caprimulgiformes" ; Times: 1
+	Query: "whooping crane" ; Times: 1
+	Query: "specificepithet:pilaris genus:Atalotriccus" ; Times: 1
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "specificepithet:rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "genus:ortygospiza class:aves year &gt;= 1980" ; Times: 1
+	Query: "Apus horus vntype:specimen" ; Times: 2
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 1
+	Query: "wingspan specificepithet:flavipes genus:Tringa" ; Times: 1
+	Query: "specificepithet:thayeri genus:Larus country:&#34;Canada&#34;" ; Times: 1
+	Query: "Aves Kashmir" ; Times: 1
+	Query: "wing specificepithet:helias genus:Eurypyga" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+	Query: "trochilidae preparations:wing" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:castaneoventris genus:Lampornis sex:male" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "Africa" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "wingspan specificepithet:erythropthalmus genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 2
+	Query: "genus:Pelecanoides hastissue:1" ; Times: 1
+	Query: "wingspan specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+	Query: "Odonata" ; Times: 1
+
+
+End of report.
