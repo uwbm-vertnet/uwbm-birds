@@ -1,0 +1,582 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 608
+Number of records retrieved in searches: 7001
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 9
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 8
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 33
+	Country: Unknown ; Times: 8
+	Country: Finland ; Times: 2
+	Country: India ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 57
+	Country: Malaysia ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 4
+	Country: Denmark ; Times: 6
+	Country: Romania ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Iraq ; Times: 1
+	Country: United States ; Times: 458
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 42
+	Date: 2020-02-23 ; Times: 23
+	Date: 2020-02-02 ; Times: 15
+	Date: 2020-02-03 ; Times: 26
+	Date: 2020-02-26 ; Times: 16
+	Date: 2020-02-01 ; Times: 12
+	Date: 2020-02-20 ; Times: 30
+	Date: 2020-02-21 ; Times: 36
+	Date: 2020-02-22 ; Times: 9
+	Date: 2020-02-05 ; Times: 31
+	Date: 2020-02-08 ; Times: 5
+	Date: 2020-02-09 ; Times: 20
+	Date: 2020-02-28 ; Times: 63
+	Date: 2020-02-11 ; Times: 20
+	Date: 2020-02-10 ; Times: 13
+	Date: 2020-02-13 ; Times: 18
+	Date: 2020-02-12 ; Times: 20
+	Date: 2020-02-15 ; Times: 6
+	Date: 2020-02-14 ; Times: 23
+	Date: 2020-02-17 ; Times: 13
+	Date: 2020-02-16 ; Times: 7
+	Date: 2020-02-19 ; Times: 16
+	Date: 2020-02-18 ; Times: 34
+	Date: 2020-02-24 ; Times: 44
+	Date: 2020-02-25 ; Times: 17
+	Date: 2020-02-27 ; Times: 26
+	Date: 2020-02-06 ; Times: 11
+	Date: 2020-02-07 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "pachyptila hastissue:1" ; Times: 3
+	Query: "87329" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "specificepithet:cassinii genus:Vireo stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:satrapa stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Troglodytes rufociliatus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinctus genus:Parus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "locality:Jersey country:&#34;UNited KIngdom&#34;" ; Times: 1
+	Query: "98369" ; Times: 3
+	Query: "98368" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "eremita" ; Times: 2
+	Query: "catalognumber:8718 institutioncode:UWBM" ; Times: 4
+	Query: "Amazona albifrons" ; Times: 2
+	Query: "UWBM 8096" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "UWBM 75679" ; Times: 2
+	Query: "93535" ; Times: 1
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 3
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "video" ; Times: 1
+	Query: "genus:stachyris country:&#34;indonesia&#34; hastissue:1" ; Times: 2
+	Query: "pitta sordida" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo class:aves stateprovince:&#34;wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 8
+	Query: "specificepithet:hypogrammicum hastissue:1" ; Times: 1
+	Query: "nestor notabilis" ; Times: 1
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker" ; Times: 1
+	Query: "77730 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 8
+	Query: "specificepithet:albicollis genus:rhipidura hastissue:1" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "specificepithet:occidentalis family:parulidae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:rufescens family:paridae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "Monachus" ; Times: 2
+	Query: "genus:Regulus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "genus:regulus stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "15683" ; Times: 1
+	Query: "vntype:specimen specificepithet:pusilla genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:villosus stateprovince:&#34;michigan&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:sherwood" ; Times: 1
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;oregon&#34; month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:regulus stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:UWBM" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "black-legged kittiwake" ; Times: 3
+	Query: "70808" ; Times: 1
+	Query: "specificepithet:coronata family:parulidae stateprovince:&#34;Oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:guttatus genus:Catharus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "UWBM 66952" ; Times: 2
+	Query: "arctic tern" ; Times: 1
+	Query: "UWBM 66950" ; Times: 3
+	Query: "UWBM 66954" ; Times: 3
+	Query: "bald eagle" ; Times: 1
+	Query: "riparia paludicola" ; Times: 3
+	Query: "Pine Siskin" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "UWBM 33618" ; Times: 1
+	Query: "UWBM 84655" ; Times: 3
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:nycticorax genus:Nycticorax hastissue:1" ; Times: 2
+	Query: "accipiter nisus" ; Times: 2
+	Query: "western meadowlark" ; Times: 1
+	Query: "specificepithet:nigriceps genus:stachyris hastissue:1" ; Times: 1
+	Query: "UW 20991" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "UWBM 42872" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "Dulus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 2
+	Query: "41653" ; Times: 1
+	Query: "Leptasthenura aegithaloides year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "specificepithet:coromanda genus:halcyon hastissue:1" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:phoebe genus:sayornis family:Tyrannidae hastissue:1" ; Times: 2
+	Query: "Zosterops murphyi" ; Times: 3
+	Query: "great egret" ; Times: 1
+	Query: "specificepithet:cassinii genus:Vireo stateprovince:&#34;Oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "catalognumber:8758 institutioncode:UWBM" ; Times: 2
+	Query: "black rosy-finch" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "genus:geothlypis stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:alba genus:Ardea class:aves country:&#34;United States&#34;" ; Times: 4
+	Query: "uwbm 117023" ; Times: 1
+	Query: "alethe" ; Times: 1
+	Query: "specificepithet:ruficeps genus:orthotomus hastissue:1" ; Times: 1
+	Query: "larus thayeri hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "2-6775" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "chatham albatross" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "puffinus pacificus hastissue:1" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "specificepithet:chrysopterus genus:cacicus hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:dicaeidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "Larus delawarensis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 2
+	Query: "110015" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "genus:Ficedula country:&#34;indonesia&#34; hastissue:1" ; Times: 1
+	Query: "anthus antarcticus" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "genus:regulus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "dresden museum" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Anas diazi" ; Times: 1
+	Query: "palm warbler" ; Times: 1
+	Query: "cacicus chrysopterus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "UWBM 75797" ; Times: 2
+	Query: "UWBM 7239" ; Times: 1
+	Query: "genus:Sphyrapicus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:44399 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "accipiter novaehollandiae hastissue:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:niger class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "81138" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 2
+	Query: "genus:certhia stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "bluebirds" ; Times: 1
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Amazilia viridifrons" ; Times: 2
+	Query: "genus:vireo class:AVES catalognumber:113804 year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "UWBM 72531" ; Times: 2
+	Query: "UWBM 72532" ; Times: 2
+	Query: "UWBM 72533" ; Times: 2
+	Query: "16240" ; Times: 1
+	Query: "onychorhynchus coronatus" ; Times: 1
+	Query: "trogon rufus" ; Times: 1
+	Query: "atlantic puffin" ; Times: 5
+	Query: "recordedby:Mearns" ; Times: 2
+	Query: "26386" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "warbling vireo" ; Times: 1
+	Query: "UWBM 50292" ; Times: 1
+	Query: "genus:Junco stateprovince:&#34;Oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "UWBM 46605" ; Times: 2
+	Query: "81488 institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 46607" ; Times: 2
+	Query: "Anairetes parulus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "103378 institutioncode:UWBM" ; Times: 1
+	Query: "Serinus canaria canaria" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "genus:Parus institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 58003" ; Times: 2
+	Query: "specificepithet:remifer genus:dicrurus hastissue:1" ; Times: 1
+	Query: "specificepithet:coronata family:parulidae stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Elegant Quail" ; Times: 1
+	Query: "aviceda leuphotes vntype:specimen year &gt;= 1950 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "eastern phoebe" ; Times: 1
+	Query: "50292 class:aves" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Sian Ka" ; Times: 2
+	Query: "aviceda leuphotes vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;michigan&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "specificepithet:columba genus:Cepphus family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "15700" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "specificepithet:hypogrammicum" ; Times: 1
+	Query: "specificepithet:tolmiei stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Brown year &gt;= 2004 year &lt;= 2020" ; Times: 1
+	Query: "Mushroom" ; Times: 1
+	Query: "Hualapai Mountains" ; Times: 3
+	Query: "genus:certhia stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "aviceda jerdoni vntype:specimen year &gt;= 1950 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "anas discors" ; Times: 2
+	Query: "genus:sphyrapicus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fuscescens stateprovince:&#34;wisconsin&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "egg falco peregrinus" ; Times: 1
+	Query: "Elanus axillaris" ; Times: 1
+	Query: "11796" ; Times: 1
+	Query: "Osprey wings" ; Times: 2
+	Query: "specificepithet:coronata family:parulidae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "king eider" ; Times: 1
+	Query: "country:&#34;Palestine&#34;" ; Times: 1
+	Query: "class:aves catalognumber:52400" ; Times: 3
+	Query: "39343" ; Times: 1
+	Query: "Thraupis bonariensis" ; Times: 2
+	Query: "aplonis tabuensis hastissue:1" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "megapodius freycinet freycinet" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 4
+	Query: "specificepithet:eremita genus:Megapodius hastissue:1" ; Times: 1
+	Query: "Amazilia candida" ; Times: 1
+	Query: "Apapane" ; Times: 1
+	Query: "genus:Ficedula country:&#34;indonesia&#34;" ; Times: 1
+	Query: "UWBM 57878" ; Times: 3
+	Query: "bird egg vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Oceanodroma los coronados" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Parus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "genus:Sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Polioptila vntype:specimen stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "trogon rufus tissue" ; Times: 1
+	Query: "specificepithet:americana genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "82104" ; Times: 2
+	Query: "Amazona leucocephala" ; Times: 2
+	Query: "specificepithet:calendula stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "66924 institutioncode:UWBM" ; Times: 1
+	Query: "sparrows" ; Times: 1
+	Query: "class:Aves county:&#34;westmoreland&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 3
+	Query: "phoeniconaias minor" ; Times: 1
+	Query: "anthus furcatus" ; Times: 1
+	Query: "prosopis" ; Times: 4
+	Query: "himalayan monal" ; Times: 1
+	Query: "specificepithet:cassinii family:vireonidae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "33720 Aves" ; Times: 1
+	Query: "genus:Certhia stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "pachyptila belcheri" ; Times: 1
+	Query: "CM 91643" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "UWBM 106227" ; Times: 1
+	Query: "Strix seloputo" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 2
+	Query: "genus:vireo stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Anairetes parulus year &gt; 1985" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 2
+	Query: "specificepithet:calendula stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "specificepithet:narcissina genus:Ficedula" ; Times: 2
+	Query: "pigeon guillemot" ; Times: 2
+	Query: "UWBM 67078" ; Times: 2
+	Query: "vireo bellii new mexico hastissue:1" ; Times: 2
+	Query: "megapodius freycinet" ; Times: 8
+	Query: "specificepithet:aenea genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Amazilia cyanura" ; Times: 4
+	Query: "jubata" ; Times: 1
+	Query: "puffinus gulf" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 5
+	Query: "specificepithet:sclateri genus:Parus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "belted kingfisher" ; Times: 1
+	Query: "UWBM 117348" ; Times: 1
+	Query: "spectacled eider" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 5
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:UWBM" ; Times: 2
+	Query: "86733 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:sericeus genus:orthotomus hastissue:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Colorado&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:aalge genus:Uria family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "accipiter novaehollandiae year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "91643" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 2
+	Query: "genus:junco stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "dryas" ; Times: 2
+	Query: "Pharomachrus" ; Times: 2
+	Query: "specificepithet:paradiseus genus:dicrurus hastissue:1" ; Times: 1
+	Query: "Phoenicurus ochruros" ; Times: 2
+	Query: "monachus" ; Times: 2
+	Query: "western gull" ; Times: 3
+	Query: "genus:Certhia stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "aviceda leuphotes vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "specificepithet:occidentalis family:parulidae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Chinook salmon" ; Times: 1
+	Query: "prairie chicken" ; Times: 3
+	Query: "UWBM 66525" ; Times: 1
+	Query: "pachyptila turtur hastissue:1" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "ninox scutulata" ; Times: 1
+	Query: "dendroica kirtlandii vntype:specimen" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:A. Walker" ; Times: 3
+	Query: "Polioptila nigriceps vntype:specimen" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "Oceanodroma leucorhoa socorroensis" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "Elanus axillaris hastissue:1" ; Times: 1
+	Query: "genus:Phaethon institutioncode:UWBM" ; Times: 3
+	Query: "Oceanodroma leucorhoa mexico" ; Times: 1
+	Query: "55671" ; Times: 1
+	Query: "passer domesticus country:&#34;norway&#34;" ; Times: 2
+	Query: "Oceanodroma tethys" ; Times: 2
+	Query: "81316 institutioncode:UWBM" ; Times: 1
+	Query: "Calliope Hummingbird" ; Times: 2
+	Query: "specificepithet:calendula class:AVES stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "aplonis brunneicapilla" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "fulmarus glacialis arctic" ; Times: 1
+	Query: "cinclodes year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "Sphenoeacus afer" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "horned lizard" ; Times: 1
+	Query: "specificepithet:townsendi stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "peregrine falcon 1940" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "specificepithet:townsendi family:parulidae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:Passerina institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:glacialis genus:Fulmarus family:Procellariidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Brachyramphus class:aves year &gt;= 1903 year &lt;= 1905" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Avila country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:niger genus:Chlidonias class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "passer domesticus institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:cassinii stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:junco county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:celata stateprovince:&#34;new mexico&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "genus:catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "specificepithet:tolmiei stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:poliocephalus hastissue:1" ; Times: 1
+	Query: "rusty blackbird" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 4
+	Query: "specificepithet:tolmiei family:parulidae stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides hastissue:1" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "specificepithet:guttatus genus:Catharus stateprovince:&#34;Washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:occidentalis family:parulidae stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "catalognumber:8748 institutioncode:UWBM" ; Times: 5
+	Query: "Prothonotary Warbler" ; Times: 3
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:calendula class:AVES stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "aviceda jerdoni vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "Molothrus bonariensis" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "90862 institutioncode:UWBM" ; Times: 1
+	Query: "pterodroma phaeopygia" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "specificepithet:maculata genus:stachyris hastissue:1" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 3
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "specificepithet:nycticorax genus:Nycticorax year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Abeillia abeillei" ; Times: 5
+	Query: "41501" ; Times: 2
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "specificepithet:hypogrammicum genus:Hypogramma hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "UWBM 66945" ; Times: 3
+	Query: "UWBM 66946" ; Times: 4
+	Query: "Washington Pierce County junco" ; Times: 1
+	Query: "fulmarus year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "UWBM 117361" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:narcissina genus:Ficedula hastissue:1" ; Times: 1
+	Query: "Foulehaio" ; Times: 1
+	Query: "locality:Chimborazo " ; Times: 1
+	Query: "12020" ; Times: 1
+	Query: "Cacicus solitarius" ; Times: 2
+	Query: "red wing blackbird" ; Times: 1
+	Query: "red crossbill" ; Times: 1
+	Query: "specificepithet:chrysaea genus:stachyris country:&#34;indonesia&#34; hastissue:1" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "specificepithet:paradisi genus:Terpsiphone hastissue:1" ; Times: 1
+	Query: "60204 family:alcedinidae" ; Times: 2
+	Query: "bird body mass" ; Times: 1
+	Query: "sylvietta hastissue:1" ; Times: 2
+	Query: "Wood duck" ; Times: 3
+	Query: "anthus lutescens" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1890 year &lt;= 1911" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1890 year &lt;= 1912" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 6
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1888 year &lt;= 1910" ; Times: 1
+	Query: "fulmarus arctic" ; Times: 2
+	Query: "vntype:specimen specificepithet:tridactyla genus:Rissa family:Laridae order:Charadriiformes class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Cinclodes fuscus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "locality:point lobos" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "pachyptila tissue" ; Times: 3
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "specificepithet:townsendi family:parulidae stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "class:aves locality:sycamore canyon" ; Times: 1
+	Query: "Osprey" ; Times: 1
+	Query: "Copsychus saularis" ; Times: 2
+	Query: "sylvietta" ; Times: 1
+	Query: "pachyptila falkland" ; Times: 2
+	Query: "pascua" ; Times: 1
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "17179" ; Times: 1
+	Query: "specificepithet:townsendi family:parulidae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "eastern screech owl" ; Times: 1
+	Query: "specificepithet:megala genus:gallinago country:&#34;philippines&#34;" ; Times: 2
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Sherwood" ; Times: 1
+	Query: "Troglodytes rufociliatus vntype:specimen stateprovince:&#34;Chiapas&#34;" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:vireo gilvus class:aves stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1951 year &lt;= 2020 institutioncode:UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1023 download events in this period)
+Total number of records downloaded: 6258
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 45
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 5
+	Country: El Salvador ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Iraq ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-22 ; Times: 6
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-13 ; Times: 5
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 4
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-25 ; Times: 6
+	Date: 2020-02-20 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:columba genus:Cepphus family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:pusilla genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "anthus furcatus" ; Times: 1
+	Query: "specificepithet:formicivorus genus:melanerpes stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridactyla genus:Rissa family:Laridae order:Charadriiformes class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34; recordedby:Carriker" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:dicaeidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "wing order:Strigiformes class:Aves hasmass:1" ; Times: 2
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:petechia stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:aalge genus:Uria family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "specificepithet:glacialis genus:Fulmarus family:Procellariidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; OR &#34;Brasil&#34;" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "anthus antarcticus" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Avila country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "riparia paludicola" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "passer domesticus country:&#34;norway&#34;" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+
+
+End of report.
