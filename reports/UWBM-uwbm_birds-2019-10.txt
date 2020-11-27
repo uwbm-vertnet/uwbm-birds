@@ -1,0 +1,850 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1036
+Number of records retrieved in searches: 13081
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: Brazil ; Times: 46
+	Country: Unknown ; Times: 32
+	Country: France ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 4
+	Country: Australia ; Times: 6
+	Country: Singapore ; Times: 6
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 3
+	Country: Denmark ; Times: 11
+	Country: United States ; Times: 788
+	Country: Sweden ; Times: 20
+	Country: Vietnam ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Mexico ; Times: 48
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 19
+	Country: United Kingdom ; Times: 5
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Paraguay ; Times: 1
+	Country: Taiwan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 25
+	Date: 2019-10-08 ; Times: 7
+	Date: 2019-10-21 ; Times: 32
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-27 ; Times: 19
+	Date: 2019-10-26 ; Times: 4
+	Date: 2019-10-25 ; Times: 18
+	Date: 2019-10-22 ; Times: 107
+	Date: 2019-10-01 ; Times: 39
+	Date: 2019-10-03 ; Times: 44
+	Date: 2019-10-02 ; Times: 48
+	Date: 2019-10-05 ; Times: 5
+	Date: 2019-10-04 ; Times: 16
+	Date: 2019-10-07 ; Times: 11
+	Date: 2019-10-06 ; Times: 32
+	Date: 2019-10-23 ; Times: 47
+	Date: 2019-10-24 ; Times: 50
+	Date: 2019-10-29 ; Times: 9
+	Date: 2019-10-18 ; Times: 54
+	Date: 2019-10-19 ; Times: 9
+	Date: 2019-10-12 ; Times: 77
+	Date: 2019-10-13 ; Times: 6
+	Date: 2019-10-10 ; Times: 40
+	Date: 2019-10-11 ; Times: 46
+	Date: 2019-10-16 ; Times: 44
+	Date: 2019-10-31 ; Times: 32
+	Date: 2019-10-14 ; Times: 10
+	Date: 2019-10-17 ; Times: 98
+	Date: 2019-10-15 ; Times: 26
+	Date: 2019-10-28 ; Times: 22
+	Date: 2019-10-30 ; Times: 54
+
+List of queries that retrieved data from the resource: 
+	Query: "Larus californicus AND Farallon" ; Times: 1
+	Query: "68089 stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 1
+	Query: "rhea pennata" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "Charadrius melodus 2005" ; Times: 1
+	Query: "genus:parus class:aves country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Neophema" ; Times: 2
+	Query: "10109" ; Times: 2
+	Query: "family:Alcedinidae locality:Rennell hastissue:1" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND &#34;1897-04-10&#34; NOT &#34;1897-04-09&#34; NOT 1940" ; Times: 1
+	Query: "family:Alcedinidae Bismarck" ; Times: 1
+	Query: "Brachyramphus marmoratus 1978" ; Times: 1
+	Query: "Brachyramphus marmoratus 1979" ; Times: 1
+	Query: "Brachyramphus marmoratus 1977" ; Times: 1
+	Query: "Brachyramphus marmoratus 1974" ; Times: 1
+	Query: "Brachyramphus marmoratus 1975" ; Times: 1
+	Query: "specificepithet:ruber stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 4
+	Query: "specificepithet:satrapa stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "71340" ; Times: 1
+	Query: "&#34;C. L. Field&#34; AND Baja" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "Halcyon cook hastissue:1" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Phoebastria albatrus AND Island NOT Japan NOT AlaskaNOT Hawaii" ; Times: 1
+	Query: "specificepithet:phaeopygia genus:Pterodroma" ; Times: 1
+	Query: "Mycteria americana 1978" ; Times: 1
+	Query: "(Picoides arcticus) year &gt;= 1990 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "19786" ; Times: 1
+	Query: "specificepithet:atricapillus genus:parus stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "locality:New Hanover" ; Times: 4
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "96152" ; Times: 2
+	Query: "chrysoparia basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "SP 12634" ; Times: 1
+	Query: "genus:ortygospiza class:aves year &lt;= 2019" ; Times: 1
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (rhipidura cockerelli) hastissue:1" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco country:&#34;canada&#34; year &gt;= 2000 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:Passerella country:&#34;Canada&#34; year &gt;= 1988 institutioncode:UWBM" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad NOT &#34;1897-04-09&#34;" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 2
+	Query: "71718" ; Times: 1
+	Query: "catalognumber:64855 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:aedon genus:troglodytes (JK)" ; Times: 1
+	Query: "71480" ; Times: 1
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (Monarcha richardsii) hastissue:1" ; Times: 6
+	Query: "genus:Junco stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "struthio" ; Times: 1
+	Query: "genus:empidonax country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Sarawak&#34; country:&#34;Malaysia&#34;" ; Times: 2
+	Query: "specificepithet:difficilis stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "genus:regulus stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "catalognumber:54691 institutioncode:UWBM" ; Times: 1
+	Query: "107337 Burke Museum Panama" ; Times: 1
+	Query: "68252" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:certhia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Callipepla californica AND Baja" ; Times: 1
+	Query: "country:&#34;Solomon Islands&#34; (accipiter) hastissue:1" ; Times: 1
+	Query: "112617 institutioncode:UWBM" ; Times: 2
+	Query: "Coccyzus americanus 2010" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "geospiza scandens" ; Times: 7
+	Query: "specificepithet:mongolus genus:Charadrius hastissue:1" ; Times: 2
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "64055" ; Times: 1
+	Query: "Sitta pusilla tissue vntype:specimen" ; Times: 1
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; hastissue:1" ; Times: 2
+	Query: "Puffinus griseus AND Island" ; Times: 1
+	Query: "genus:ortygospiza class:aves year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:townsendi genus:dendroica country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Myadestes townsendi AND Island" ; Times: 1
+	Query: "quercus" ; Times: 2
+	Query: "Coccyzus americanus 1978" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 1
+	Query: "family:Alcedinidae locality:Tonga hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 1975" ; Times: 1
+	Query: "Coccyzus americanus 1977" ; Times: 1
+	Query: "Charadrius mongolus hastissue:1" ; Times: 1
+	Query: "magpie wing" ; Times: 2
+	Query: "Alcedo atthis stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 1
+	Query: "genus:perisoreus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Stercorariidae continent:North America" ; Times: 3
+	Query: "mimus polyglottos county:&#34;Riverside&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps preparations:skeleton year &gt;= 1966 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "54440 Burke Museum Argentina" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad NOT &#34;1897-04-09&#34; NOT 1940" ; Times: 1
+	Query: "UWBM 111929" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "genus:geothlypis country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:furcata genus:thalurania" ; Times: 2
+	Query: "albolarvatus Picoides" ; Times: 4
+	Query: "UWBM 70325" ; Times: 2
+	Query: "Myadestes AND Island" ; Times: 1
+	Query: "specificepithet:difficilis genus:empidonax stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "specificepithet:americana genus:Grus class:Aves continent:North America" ; Times: 2
+	Query: "32998" ; Times: 1
+	Query: "specificepithet:luteirostris genus:zosterops" ; Times: 2
+	Query: "UWBM 43878" ; Times: 1
+	Query: "Paradoxornis year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "genus:wilsonia stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Loriculus philippensis" ; Times: 2
+	Query: "Coccyzus americanus 2014" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Alberta&#34; month &gt;= 6 month &lt;= 7 institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "amethystina" ; Times: 1
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (zosterops kulambangrae) hastissue:1" ; Times: 1
+	Query: "barn swallow" ; Times: 1
+	Query: "buteo platypterus hastissue:1" ; Times: 1
+	Query: "towhee minnesota" ; Times: 3
+	Query: "genus:wilsonia stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "poephila cincta hastissue:1" ; Times: 1
+	Query: "UWBM 47450" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "asio clamator" ; Times: 4
+	Query: "Linton AND Island AND 1908" ; Times: 1
+	Query: "UWBM 56348" ; Times: 2
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "UWBM 56340" ; Times: 2
+	Query: "flamenco" ; Times: 1
+	Query: "Puffinus opisthomelas AND Clemente" ; Times: 2
+	Query: "UWBM 56347" ; Times: 2
+	Query: "genus:picoides stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus hastissue:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "skin county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 3
+	Query: "specificepithet:atricapillus genus:parus stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:calendula genus:regulus stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "67534" ; Times: 1
+	Query: "genus:Alauda hastissue:1" ; Times: 2
+	Query: "Spheniscus" ; Times: 2
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (monarcha richardsii) hastissue:1" ; Times: 1
+	Query: "genus:wilsonia stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Quiscalus quiscula connecticut" ; Times: 1
+	Query: "Quetzal" ; Times: 1
+	Query: "Aplonis country:&#34;solomon islands&#34; hastissue:1" ; Times: 3
+	Query: "specificepithet:coronata genus:dendroica country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Callipepla californica AND Island" ; Times: 1
+	Query: "19803" ; Times: 1
+	Query: "class:Aves country:&#34;Australia&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Charadrius melodus 1979" ; Times: 1
+	Query: "Charadrius melodus 1977" ; Times: 1
+	Query: "sapayoa" ; Times: 1
+	Query: "Phalaenoptilus nuttallii AND Cruz" ; Times: 1
+	Query: "Stercorariidae continent:America" ; Times: 3
+	Query: "37120" ; Times: 1
+	Query: "Sphyrapicus ruber year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "black-chinned hummingbird" ; Times: 1
+	Query: "67214" ; Times: 3
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony NOT MCZ NOT YPM NOT MVZ NOT WFVZ NOT CM" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 2
+	Query: "specificepithet:guttatus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Halcyon australasia" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1897" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "66686" ; Times: 1
+	Query: "93814" ; Times: 2
+	Query: "specificepithet:redivivum genus:toxostoma county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "shorebirds" ; Times: 1
+	Query: "genus:Accipiter country:&#34;Mexico&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Passerina amoena x cyanea" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella country:&#34;Canada&#34; year &gt;= 1988 institutioncode:UWBM" ; Times: 1
+	Query: "struthio egg" ; Times: 1
+	Query: "family:Alcedinidae locality:New Britain" ; Times: 1
+	Query: "UWBM 2001 116964" ; Times: 2
+	Query: "Smithornis capensis year &gt; 1985 NOT Nature" ; Times: 1
+	Query: "genus:empidonax stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:Junco stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:Thryomanes country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:celata country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:iliaca stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (myiagra ferrocyanea) hastissue:1" ; Times: 1
+	Query: "(63118 rufifrons) hastissue:1" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "family:Alcedinidae locality:New Zealand" ; Times: 2
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (hirundo tahitica) hastissue:1" ; Times: 1
+	Query: "parus cyanus" ; Times: 14
+	Query: "Puffinus opisthomelas AND Natividad and 1897" ; Times: 1
+	Query: "genus:sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "genus:geothlypis stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Aleutian tern" ; Times: 3
+	Query: "specificepithet:americana genus:certhia stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:perisoreus stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Puffinus tenuirostris AND Island NOT Australia" ; Times: 1
+	Query: "specificepithet:fasciatus family:tyrannidae" ; Times: 1
+	Query: "Charadrius melodus 1999" ; Times: 1
+	Query: "family:Alcedinidae locality:Tutuila hastissue:1" ; Times: 1
+	Query: "saxicola insignis" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "genus:empidonax stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 2002" ; Times: 1
+	Query: "Brachyramphus marmoratus 2001" ; Times: 1
+	Query: "Brachyramphus marmoratus 2000" ; Times: 1
+	Query: "Brachyramphus marmoratus 2005" ; Times: 1
+	Query: "Brachyramphus marmoratus 2009" ; Times: 1
+	Query: "gray fox" ; Times: 13
+	Query: "specificepithet:atricapillus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Coccyzus americanus 1998" ; Times: 1
+	Query: "UWBM 82259" ; Times: 2
+	Query: "Calypte costae AND Baja" ; Times: 1
+	Query: "Bonasa AND Island" ; Times: 1
+	Query: "catalognumber:64422 institutioncode:UWBM" ; Times: 1
+	Query: "class:aves coordinateuncertaintyinmeters&lt;=1000 stateprovince:california year:1976" ; Times: 1
+	Query: "cape disappointment" ; Times: 1
+	Query: "Eremophila alpestris strigata 2004" ; Times: 1
+	Query: "Xema sabini continent:America" ; Times: 2
+	Query: "Eremophila alpestris strigata 2003" ; Times: 1
+	Query: "Patagona gigas" ; Times: 3
+	Query: "specificepithet:leschenaultii genus:Charadrius hastissue:1" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "black-throated green" ; Times: 1
+	Query: "Mycteria americana 1993" ; Times: 1
+	Query: "kirtlandii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "genus:Sphyrapicus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Myzomela eichhorni stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 2
+	Query: "115541 genus:Catharus institutioncode:UWBM" ; Times: 1
+	Query: "genus:sphyrapicus stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Zosterops palpebrosus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (rhipidura leucophrys) hastissue:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 3
+	Query: "genus:Toxostoma class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:dasypus genus:Delichon country:&#34;Russia&#34; year &gt;= 1994 year &lt;= 1994 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:difficilis stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Pachycephala stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 1
+	Query: "Puffinus tenuirostris AND Island NOT Australia NOT Alaska NOT Canada" ; Times: 1
+	Query: "specificepithet:celata country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "warbling vireo" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "UWBM 53401" ; Times: 3
+	Query: "63902" ; Times: 1
+	Query: "UWBM 53403" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Sarawak&#34; country:&#34;Malaysia&#34; year &gt;= 1980 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:micropsitta country:&#34;solomon islands&#34; hastissue:1" ; Times: 1
+	Query: "107251 Burke Museum Panama" ; Times: 1
+	Query: "genus:Bradypterus hastissue:1" ; Times: 1
+	Query: "UWBM 47200" ; Times: 2
+	Query: "genus:aviceda country:&#34;solomon islands&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:townsendi genus:dendroica stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "specificepithet:celata genus:vermivora country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Coccyzus americanus 1985" ; Times: 1
+	Query: "genus:caloenas country:&#34;solomon islands&#34; hastissue:1" ; Times: 1
+	Query: "Sitta pusilla year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "66058 stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "spoonbill" ; Times: 3
+	Query: "52627" ; Times: 1
+	Query: "Onychognathus year &gt; 1985" ; Times: 1
+	Query: "108132 Burke Museum Panama" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus hastissue:1" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "Piranga rubra AND Island" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Phoebastria albatrus AND Island NOT Japan NOT Alaska" ; Times: 1
+	Query: "class:Aves catalognumber:9347 OR 10221 OR 10875 OR 11454 OR 12353 OR 16617 OR 18283 OR 26381 OR 33379 OR 37854 OR 42145 OR 48662 OR 51241 OR 55877 OR 120793 OR 119978 OR 55878 OR 58165 OR 63632 OR 79354 OR 84196 OR 90484 OR 91365 OR 91762 OR 91764 OR 97733 OR 97734 OR 97735 OR 97736 OR 97737 OR 97738 OR 97741 OR 97742 OR 97743 OR 97744 OR 97746 OR 97747 OR 97748 OR 97749 OR 97751 institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 68252" ; Times: 3
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 1
+	Query: "genus:sphyrapicus stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Alcedo stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 1
+	Query: "Nicobar pigeon" ; Times: 2
+	Query: "procellaria aequinoctialis" ; Times: 2
+	Query: "10495" ; Times: 2
+	Query: "10492" ; Times: 2
+	Query: "Coccyzus americanus 1986" ; Times: 1
+	Query: "Phoebastria albatrus AND Island NOT Japan" ; Times: 1
+	Query: "hummingbird kansas" ; Times: 1
+	Query: "Puffinus griseus AND Cruz" ; Times: 1
+	Query: "charadrius mongolus" ; Times: 2
+	Query: "Coccyzus americanus 2001" ; Times: 1
+	Query: "Coccyzus americanus 2000" ; Times: 1
+	Query: "Coccyzus americanus 2003" ; Times: 1
+	Query: "Coccyzus americanus 2002" ; Times: 1
+	Query: "Coccyzus americanus 2005" ; Times: 1
+	Query: "Coccyzus americanus 2004" ; Times: 1
+	Query: "Coccyzus americanus 2007" ; Times: 1
+	Query: "Coccyzus americanus 2006" ; Times: 1
+	Query: "iptrecordid: &#34;urn:catalog:UWBM:Bird:85845&#34;" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "specificepithet:tolmiei stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "51716" ; Times: 1
+	Query: "Baeolophus inornatus California santa clara county" ; Times: 1
+	Query: "geococcyx californianus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "palm tree" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "Calidris tenuirostris" ; Times: 2
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "Gavia stellata AND Island" ; Times: 1
+	Query: "mississippi Kite" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 38
+	Query: "Strix occidentalis caurina 2015" ; Times: 1
+	Query: "Amazon Kingfisher hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 2011" ; Times: 1
+	Query: "specificepithet:satrapa stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "12953" ; Times: 1
+	Query: "Urocissa erythrorhyncha" ; Times: 3
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 4
+	Query: "genus:sphyrapicus stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:ruber genus:Eudocimus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "66015 stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 1
+	Query: "UWBM 47205" ; Times: 2
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "genus:accipiter country:&#34;solomon islands&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:occidentalis stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "striata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "genus:Thryomanes country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+	Query: "UWBM 79580" ; Times: 3
+	Query: "genus:Halcyon locality:Rennell" ; Times: 1
+	Query: "genus:psarocolius hastissue:1" ; Times: 2
+	Query: "aegithina nigrolutea" ; Times: 1
+	Query: "class:Aves recordedby:Loring" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony AND UWBM" ; Times: 5
+	Query: "genus:geothlypis stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "blue winged teal" ; Times: 1
+	Query: "Puffinus creatopus AND Miguel Island" ; Times: 2
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony NOT YPM NOT MVZ NOT WFVZ NOT CM" ; Times: 1
+	Query: "catalognumber:54678 institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 47448" ; Times: 2
+	Query: "black headed gull" ; Times: 1
+	Query: "genus:coracina country:&#34;solomon islands&#34; hastissue:1" ; Times: 1
+	Query: "UWBM 47449" ; Times: 2
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "Centropus sinensis" ; Times: 1
+	Query: "catalognumber:63321 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony AND 1897" ; Times: 1
+	Query: "107252 Burke Museum Panama" ; Times: 1
+	Query: "(Anhimidae) hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Sapayoa" ; Times: 2
+	Query: "specificepithet:guttatus genus:Catharus stateprovince:&#34;Washington&#34; month &gt;= 6 month &lt;= 7 institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "UWBM 44211" ; Times: 1
+	Query: "catalognumber:64894 institutioncode:UWBM" ; Times: 1
+	Query: "genus:perisoreus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 4
+	Query: "Smithornis capensis year &gt; 1985 NOT Nature NOT CLO" ; Times: 1
+	Query: "specificepithet:nuchalis stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "50567" ; Times: 1
+	Query: "Myophonus glaucinus vntype:specimen" ; Times: 1
+	Query: "catalognumber:75277 institutioncode:UWBM" ; Times: 2
+	Query: "Linton AND Clemente" ; Times: 1
+	Query: "104766" ; Times: 1
+	Query: "family:Alcedinidae locality:Tonga" ; Times: 2
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (petroica multicolor) hastissue:1" ; Times: 1
+	Query: "UWBM 56339" ; Times: 2
+	Query: "32887" ; Times: 1
+	Query: "69978" ; Times: 1
+	Query: "white-throated sparrow" ; Times: 1
+	Query: "spleen aves" ; Times: 1
+	Query: "specificepithet:montezuma genus:psarocolius hastissue:1" ; Times: 1
+	Query: "ficus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UWBM:Bird:85845&#34;" ; Times: 3
+	Query: "genus:nycticorax country:&#34;solomon islands&#34; hastissue:1" ; Times: 1
+	Query: "genus:Sphyrapicus stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "specificepithet:calendula genus:regulus stateprovince:&#34;british columbia&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:opisthomelas genus:Puffinus preparations:egg" ; Times: 1
+	Query: "Charadrius melodus 1980" ; Times: 1
+	Query: "specificepithet:coronata genus:dendroica stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Stercorariidae continent:Asia" ; Times: 5
+	Query: "108133 Burke Museum Panama" ; Times: 1
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (rhipidura rufifrons) hastissue:1" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "hymenoptera" ; Times: 2
+	Query: "body mass" ; Times: 1
+	Query: "Phalaenoptilus nuttallii AND &#34;Cruz&#34;" ; Times: 2
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "kansas egg Lanius ludovicianus" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "Coccyzus americanus 1981" ; Times: 1
+	Query: "Coccyzus americanus 1980" ; Times: 1
+	Query: "Coccyzus americanus 1983" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrorhynchos genus:Corvus continent:Asia hastissue:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 2016" ; Times: 1
+	Query: "Coccyzus americanus 1987" ; Times: 1
+	Query: "specificepithet:calendula genus:regulus stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:coronata genus:dendroica country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:empidonax stateprovince:&#34;wyoming&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:hyperboreus genus:Plectrophenax" ; Times: 2
+	Query: "&#34;R. L. Pitman&#34;" ; Times: 1
+	Query: "mazama americana" ; Times: 2
+	Query: "specificepithet:townsendi genus:dendroica country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "family:Alcedinidae locality:New Britain hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (zosterops tetiparius) hastissue:1" ; Times: 1
+	Query: "specificepithet:coronata stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:perisoreus stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "AM 64412" ; Times: 1
+	Query: "ara militaris" ; Times: 4
+	Query: "Coccyzus americanus 2009" ; Times: 1
+	Query: "63136 stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 1
+	Query: "CM peromyscus" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony NOT MVZ NOT WFVZ NOT CM" ; Times: 1
+	Query: "specificepithet:coronata genus:dendroica stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Onychognathus year &gt; 1985 NOT CLO" ; Times: 2
+	Query: "Chloroceryle aenea year &gt; 1985 NOT Nature NOT CLO" ; Times: 2
+	Query: "specificepithet:celata genus:vermivora country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:UWBM" ; Times: 1
+	Query: "genus:wilsonia stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 2015" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 2
+	Query: "class:Aves country:&#34;India&#34; Madras" ; Times: 2
+	Query: "genus:Ardeotis australis" ; Times: 2
+	Query: "reindeer" ; Times: 1
+	Query: "Halcyon cook" ; Times: 1
+	Query: "Larus canus AND Island" ; Times: 1
+	Query: "aratinga wagleri" ; Times: 4
+	Query: "Myadestes townsendi AND Island NOT Canada" ; Times: 1
+	Query: "Brachyramphus marmoratus 1985" ; Times: 1
+	Query: "genus:ardeotis australia" ; Times: 6
+	Query: "Brachyramphus marmoratus 1983" ; Times: 1
+	Query: "Brachyramphus marmoratus 1981" ; Times: 1
+	Query: "Stercorariidae continent:Antarctica" ; Times: 6
+	Query: "country:&#34;Solomon Islands&#34; (sanfordi) hastissue:1" ; Times: 1
+	Query: "Halcyon New Britain" ; Times: 1
+	Query: "Brachyramphus marmoratus 1989" ; Times: 1
+	Query: "Brachyramphus marmoratus 1988" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "country:&#34;belarus&#34;" ; Times: 1
+	Query: "stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 2
+	Query: "genus:picoides stateprovince:&#34;wyoming&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Carduelis psaltria AND Brown" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "specificepithet:atricapillus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 2015" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1955 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Smithornis capensis year &gt; 1985" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "UWBM 80061" ; Times: 2
+	Query: "Coccyzus americanus 1989" ; Times: 1
+	Query: "UWBM 110015" ; Times: 2
+	Query: "Ceyx stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 1991" ; Times: 1
+	Query: "Coccyzus americanus 1988" ; Times: 1
+	Query: "catalognumber:64452 institutioncode:UWBM" ; Times: 1
+	Query: "genus:empidonax stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "recordedby:Brewer" ; Times: 1
+	Query: "stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; (zosterops rendovae) hastissue:1" ; Times: 1
+	Query: "specificepithet:guttatus genus:Catharus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "UWBM 57342" ; Times: 4
+	Query: "Puffinus opisthomelas" ; Times: 2
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 10
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "Baeolophus wollweberi Chiricahua" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Sarawak&#34; country:&#34;Malaysia&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "genus:junco country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:emblema class:aves" ; Times: 2
+	Query: "Red-billed Blue Magpie" ; Times: 2
+	Query: "aphis" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "family:Alcedinidae Long" ; Times: 1
+	Query: "specificepithet:ruber stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Branta bernicla AND Island" ; Times: 2
+	Query: "107265 Burke Museum Panama" ; Times: 1
+	Query: "poephila cincta vntype:specimen hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;western province&#34; country:&#34;solomon islands&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:59854 institutioncode:UWBM" ; Times: 2
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "sturnus sturninus hastissue:1" ; Times: 1
+	Query: "Rhipidura rufifrons stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34; hastissue:1" ; Times: 1
+	Query: "Egretta tricolor AND Island" ; Times: 1
+	Query: "specificepithet:dorsalis stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "golden-cheeked warbler" ; Times: 1
+	Query: "Eremophila alpestris egg kern" ; Times: 1
+	Query: "poephila cincta" ; Times: 6
+	Query: "specificepithet:satrapa genus:regulus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Grus americana mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa recordedby:Dillingham" ; Times: 2
+	Query: "Aegothelidae" ; Times: 1
+	Query: "UWBM 56361" ; Times: 2
+	Query: "UWBM 56367" ; Times: 2
+	Query: "UWBM 56366" ; Times: 2
+	Query: "UWBM 56365" ; Times: 2
+	Query: "UWBM 56364" ; Times: 2
+	Query: "UWBM 56368" ; Times: 2
+	Query: "class:Aves country:&#34;Malaysia&#34; year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:Aves institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Zonotrichia querula mappable:1" ; Times: 1
+	Query: "Passer ammodendri" ; Times: 1
+	Query: "common quail" ; Times: 5
+	Query: "elf" ; Times: 3
+	Query: "catalognumber:116186 month &gt;= 6 month &lt;= 7 institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 1
+	Query: "Phoebastria albatrus AND Island" ; Times: 1
+	Query: "genus:Mirafra hastissue:1" ; Times: 2
+	Query: "16467" ; Times: 1
+	Query: "Stercorariidae continent:Africa" ; Times: 5
+	Query: "family:Alcedinidae locality:Tutuila" ; Times: 2
+	Query: "Mycteria americana 1989" ; Times: 1
+	Query: "Vermivora crissalis vntype:specimen" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "catalognumber:54676 institutioncode:UWBM" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "Puffinus tenuirostris AND Island NOT Australia NOT Alaska" ; Times: 1
+	Query: "specificepithet:coronata genus:dendroica stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "stateprovince:&#34;Alberta&#34; catalognumber:116186 month &gt;= 6 month &lt;= 7 institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Ceyx collectoris stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 2
+	Query: "corvus macrorhynchos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhipidura cockerelli" ; Times: 1
+	Query: "specificepithet:guttatus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "accipiter imitator" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad" ; Times: 3
+	Query: "Phalacrocorax pelagicus AND Farallon" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "UWBM 44206" ; Times: 2
+	Query: "UWBM 44205" ; Times: 2
+	Query: "63118" ; Times: 1
+	Query: "Strix occidentalis caurina 2016" ; Times: 1
+	Query: "recordedby:Masterov institutioncode:UWBM" ; Times: 3
+	Query: "family:Alcedinidae locality:Rota" ; Times: 2
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps preparations:skeleton institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;Malaysia&#34; year &gt;= 1980 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "70767 Burke Museum Argentina" ; Times: 1
+	Query: "genus:Ardeotis hastissue:1" ; Times: 1
+	Query: "genus:ortygospiza class:aves" ; Times: 4
+	Query: "family:Alcedinidae locality:Rennell" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "&#34;Coturnix coturnix&#34;" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;wyoming&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Batrachostomus" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 2
+	Query: "Tangara fastuosa mappable:1" ; Times: 1
+	Query: "Myrmeciza year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "genus:Struthio" ; Times: 2
+	Query: "103914" ; Times: 1
+	Query: "islas de los coronados" ; Times: 1
+	Query: "acorn woodpecker" ; Times: 3
+	Query: "specificepithet:dorsalis genus:picoides country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "family:Alcedinidae locality:Tau hastissue:1" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "genus:ixobrychus country:&#34;solomon islands&#34; hastissue:1" ; Times: 1
+	Query: "Stercorariidae continent:South America" ; Times: 8
+	Query: "beavers" ; Times: 1
+	Query: "Sphyrapicus nuchalis year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 3
+	Query: "genus:geothlypis stateprovince:&#34;british columbia&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:tolmiei genus:oporornis stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "museo argentino" ; Times: 1
+	Query: "specificepithet:iliaca stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "blue footed booby" ; Times: 1
+	Query: "catalognumber:10062 institutioncode:UWBM" ; Times: 1
+	Query: "70287 Burke Museum Argentina" ; Times: 1
+	Query: "vermivora crissalis" ; Times: 2
+	Query: "uWBM 105929" ; Times: 1
+	Query: "pipilo minnesota" ; Times: 1
+	Query: "specificepithet:tolmiei stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Aphelocoma coerulescens 2016" ; Times: 3
+	Query: "Aphelocoma coerulescens 2015" ; Times: 3
+	Query: "catalognumber:50397 institutioncode:UWBM" ; Times: 2
+	Query: "Puffinus tenuirostris AND Island" ; Times: 1
+	Query: "Coracina stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:iliaca genus:passerella stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony" ; Times: 15
+	Query: "Mimosa" ; Times: 1
+	Query: "66076 stateprovince:&#34;western&#34; country:&#34;Solomon&#34; hastissue:1" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "18509" ; Times: 1
+	Query: "Puffinus AND Natividad AND Anthony AND 1897" ; Times: 1
+	Query: "genus:certhia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Aphelocoma coerulescens 1989" ; Times: 1
+	Query: "Sterna maxima AND Island" ; Times: 1
+	Query: "genus:Sphyrapicus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Aphelocoma coerulescens 1981" ; Times: 1
+	Query: "Aphelocoma coerulescens 1983" ; Times: 1
+	Query: "specificepithet:occidentalis stateprovince:&#34;nevada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Aphelocoma coerulescens 1985" ; Times: 1
+	Query: "specificepithet:calendula genus:regulus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "psalidoprocne" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Hemiprocne mystacea" ; Times: 1
+	Query: "Geothlypis nelsoni" ; Times: 2
+	Query: "110218" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;wyoming&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Gavia AND Everett" ; Times: 1
+	Query: "puffinus nativitatis" ; Times: 1
+	Query: "genus:perisoreus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "UWBM 70324" ; Times: 2
+	Query: "Halcyon australasia australasia" ; Times: 3
+	Query: "legatus" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 9
+	Query: "specificepithet:iliaca genus:passerella stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "zosterops kulambangrae stateprovince:&#34;Western Province&#34; country:&#34;Solomon Islands&#34;" ; Times: 1
+	Query: "Brachyramphus marmoratus 1990" ; Times: 1
+	Query: "sylvestris Pinus" ; Times: 1
+	Query: "Brachyramphus marmoratus 1992" ; Times: 1
+	Query: "Brachyramphus marmoratus 1993" ; Times: 1
+	Query: "Brachyramphus marmoratus 1994" ; Times: 1
+	Query: "Brachyramphus marmoratus 1996" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 1999" ; Times: 1
+	Query: "52049" ; Times: 1
+	Query: "specificepithet:palustris genus:cistothorus (Barker)" ; Times: 1
+	Query: "specificepithet:fuscescens stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "UWBM locality:malaita order:Coraciiformes" ; Times: 1
+	Query: "catharus ustulatus year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "specificepithet:opisthomelas genus:Puffinus year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "family:estrildidae class:aves year &gt;= 1985 year &lt;= 2019 institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:celata stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:tolmiei genus:oporornis stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "109732" ; Times: 1
+	Query: "UWBM 105929" ; Times: 2
+	Query: "Larus californicus AND Farallon NOT Gruber" ; Times: 1
+	Query: "vntype:specimen genus:gymnogyps institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:celata stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 2
+	Query: "specificepithet:leucurus genus:Lagopus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "yellow-bellied sapsucker" ; Times: 1
+	Query: "ponderosa Pinus" ; Times: 1
+	Query: "class:Aves locality:Madras" ; Times: 3
+	Query: "M 1607" ; Times: 1
+	Query: "genus:aplonis country:&#34;solomon islands&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:nuchalis stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Nectarinia olivacea" ; Times: 1
+	Query: "54455 Burke Museum Argentina" ; Times: 1
+	Query: "UWBM 44625" ; Times: 2
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "UWBM 44626" ; Times: 1
+	Query: "speotyto cunicularia" ; Times: 1
+	Query: "genus:Halcyon locality:malaita" ; Times: 3
+	Query: "vntype:specimen Muscicapa ruficauda" ; Times: 1
+	Query: "catalognumber:64522 institutioncode:UWBM" ; Times: 1
+	Query: "Coccyzus americanus 1999" ; Times: 1
+	Query: "Catharus guttatus connecticut" ; Times: 1
+	Query: "class:Aves locality:Madras country:&#34;India&#34;" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 12
+	Query: "corvus splendens" ; Times: 1
+	Query: "70530" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "genus:picoides stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "115541 institutioncode:UWBM" ; Times: 3
+	Query: "Mycteria americana 2001" ; Times: 1
+	Query: "Stercorariidae continent:America North" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1308 download events in this period)
+Total number of records downloaded: 105369
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 49
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 4
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 7
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 6
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 2
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-11 ; Times: 5
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-17 ; Times: 6
+	Date: 2019-10-15 ; Times: 4
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa recordedby:Dillingham" ; Times: 2
+	Query: "rhea pennata" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "anisognathus" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "class:Aves country:&#34;Malaysia&#34; year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "asio clamator" ; Times: 1
+	Query: "Tangara" ; Times: 2
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "recordedby:Masterov institutioncode:UWBM" ; Times: 1
+	Query: "diglossa" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "family:estrildidae class:aves year &gt;= 1985 year &lt;= 2019 institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Passerina amoena x cyanea" ; Times: 1
+	Query: "vntype:specimen class:Aves institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Mirafra hastissue:1" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "colinus virginianus ridgwayi" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Sarawak&#34; country:&#34;Malaysia&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 5
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Madras" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "anairetes parulus" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "specificepithet:bewickii genus:Thryomanes hastissue:1" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "class:Aves locality:Madras" ; Times: 1
+	Query: "Hemispingus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "genus:Thryomanes country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "Geothlypis nelsoni" ; Times: 2
+	Query: "genus:Passer montanus hastissue:1" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "toxostoma crissale" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1955 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "Halcyon australasia australasia" ; Times: 1
+	Query: "class:Aves catalognumber:9347 OR 10221 OR 10875 OR 11454 OR 12353 OR 16617 OR 18283 OR 26381 OR 33379 OR 37854 OR 42145 OR 48662 OR 51241 OR 55877 OR 120793 OR 119978 OR 55878 OR 58165 OR 63632 OR 79354 OR 84196 OR 90484 OR 91365 OR 91762 OR 91764 OR 97733 OR 97734 OR 97735 OR 97736 OR 97737 OR 97738 OR 97741 OR 97742 OR 97743 OR 97744 OR 97746 OR 97747 OR 97748 OR 97749 OR 97751 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "genus:ortygospiza class:aves" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "amethystina" ; Times: 1
+	Query: "poephila cincta" ; Times: 1
+	Query: "specificepithet:montezuma genus:psarocolius hastissue:1" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+
+
+End of report.
