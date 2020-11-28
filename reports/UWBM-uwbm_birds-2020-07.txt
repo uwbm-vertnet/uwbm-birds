@@ -1,0 +1,361 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 314
+Number of records retrieved in searches: 2614
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 11
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 10
+	Country: Unknown ; Times: 18
+	Country: France ; Times: 1
+	Country: Ireland ; Times: 30
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 25
+	Country: Australia ; Times: 6
+	Country: Germany ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 6
+	Country: United States ; Times: 120
+	Country: Sweden ; Times: 5
+	Country: New Zealand ; Times: 2
+	Country: Mexico ; Times: 27
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 16
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: South Korea ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 8
+	Date: 2020-07-08 ; Times: 9
+	Date: 2020-07-21 ; Times: 30
+	Date: 2020-07-20 ; Times: 27
+	Date: 2020-07-27 ; Times: 9
+	Date: 2020-07-26 ; Times: 5
+	Date: 2020-07-25 ; Times: 4
+	Date: 2020-07-22 ; Times: 21
+	Date: 2020-07-01 ; Times: 9
+	Date: 2020-07-03 ; Times: 7
+	Date: 2020-07-02 ; Times: 13
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 14
+	Date: 2020-07-06 ; Times: 31
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-29 ; Times: 11
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 4
+	Date: 2020-07-12 ; Times: 4
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 11
+	Date: 2020-07-16 ; Times: 14
+	Date: 2020-07-31 ; Times: 13
+	Date: 2020-07-14 ; Times: 15
+	Date: 2020-07-17 ; Times: 6
+	Date: 2020-07-15 ; Times: 8
+	Date: 2020-07-28 ; Times: 19
+	Date: 2020-07-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "102105" ; Times: 1
+	Query: "UWBM 67118" ; Times: 2
+	Query: "specificepithet:occipitalis genus:Chlorophonia locality:Matagalpa" ; Times: 1
+	Query: "78725" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 3
+	Query: "39186" ; Times: 1
+	Query: "58955" ; Times: 1
+	Query: "genus:myzomela year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "101647" ; Times: 2
+	Query: "10347" ; Times: 1
+	Query: "specificepithet:pygmaeum genus:dicaeum country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "Cooper AND Island" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "genus:machetornis" ; Times: 2
+	Query: "32839" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "101569" ; Times: 1
+	Query: "101273" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 4
+	Query: "larus Ichthyaetus" ; Times: 2
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "Golden babbler" ; Times: 3
+	Query: "Chlorophonia occipitalis" ; Times: 1
+	Query: "91859" ; Times: 1
+	Query: "Zosterops rendovae uwbm ces 696" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "specificepithet:striata genus:coracina country:&#34;philippines&#34;" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "common myna" ; Times: 3
+	Query: "worm-eating warbler" ; Times: 1
+	Query: "genus:jacana institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "81530" ; Times: 1
+	Query: "hypocnemis cantator" ; Times: 1
+	Query: "chionis minor" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "12348" ; Times: 1
+	Query: "Todiramphus OR Halcyon OR Todirhamphus ruficollaris" ; Times: 1
+	Query: "Zosterops rendovae" ; Times: 2
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "UWBM 44474" ; Times: 2
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 2
+	Query: "Calyptomena viridis continentis" ; Times: 1
+	Query: "70414" ; Times: 1
+	Query: "Amazona ochrocephala vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "aegithina nigrolutea" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 2
+	Query: "Euphorbia" ; Times: 1
+	Query: "continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 2
+	Query: "chipping sparrow nest and eggs" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 2
+	Query: "Zosterops rendovae ces 696" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus hastissue:1" ; Times: 1
+	Query: "5867 aves" ; Times: 1
+	Query: "order:Anseriformes stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Santa Fé Veraguas" ; Times: 2
+	Query: "specificepithet:longirostra genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "UWBM 101444" ; Times: 2
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;tanzania&#34;" ; Times: 5
+	Query: "specificepithet:pectoralis genus:Pachycephala stateprovince:&#34;New South Wales&#34; institutioncode:UWBM" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "78438" ; Times: 1
+	Query: "101467" ; Times: 1
+	Query: "UWBM 5040" ; Times: 1
+	Query: "peafowl" ; Times: 3
+	Query: "county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "102990" ; Times: 1
+	Query: "Corvus cryptoleucus hastissue:1" ; Times: 1
+	Query: "order:Galliformes stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "ruffed grouse" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhamphus locality:Tutuila" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "UWBM 42791" ; Times: 1
+	Query: "Amazilia candida" ; Times: 3
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "Worm-eating warbler vntype:specimen" ; Times: 4
+	Query: "distance(location,geopoint(33.702160177102854,-122.29064919054508))&lt;100000" ; Times: 1
+	Query: "104302" ; Times: 1
+	Query: "101430" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "campephilus principalis" ; Times: 8
+	Query: "Mark hazel" ; Times: 6
+	Query: "rhynchopsitta" ; Times: 2
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Gray Jay" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Pachycephala institutioncode:UWBM" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "93698" ; Times: 1
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 3
+	Query: "specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Bolivia Yungas" ; Times: 1
+	Query: "matagalpa nicaragua" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "UWBM Vermivora ruficapilla" ; Times: 1
+	Query: "Monarcha Cockerell" ; Times: 1
+	Query: "UWBM Vermivora ruficapilla washington" ; Times: 2
+	Query: "10650" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "40514" ; Times: 2
+	Query: "aegithalos caudatus" ; Times: 2
+	Query: "47000" ; Times: 2
+	Query: "Matagalpa" ; Times: 2
+	Query: "46505" ; Times: 1
+	Query: "anthus berthelotii vntype:specimen" ; Times: 2
+	Query: "85227" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "locality:Sangre de Cristo Mountains hastissue:1" ; Times: 1
+	Query: "UWBM 67083" ; Times: 2
+	Query: "Sitta carolinensis institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Los Angeles Zoo" ; Times: 1
+	Query: "genus:quelea" ; Times: 1
+	Query: "ensifera ensifera aves south america" ; Times: 2
+	Query: "specificepithet:chrysopterus genus:Cacicus hastissue:1" ; Times: 2
+	Query: "vultur" ; Times: 1
+	Query: "UWBM 5040 aves" ; Times: 1
+	Query: "UWBM 42805" ; Times: 1
+	Query: "Tichodroma muraria" ; Times: 1
+	Query: "El Paso Zoo Texas" ; Times: 2
+	Query: "pipra mentalis" ; Times: 1
+	Query: "ensifera ensifera aves" ; Times: 1
+	Query: "UWBM 67085" ; Times: 2
+	Query: "19825" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia hastissue:1" ; Times: 2
+	Query: "specificepithet:naumanni genus:Turdus hastissue:1" ; Times: 1
+	Query: "101357" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;kenya&#34;" ; Times: 3
+	Query: "northern goshawk" ; Times: 2
+	Query: "genus:cardinalis hastissue:1" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "117348" ; Times: 1
+	Query: "anthus berthelotii" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "88053" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "64731 aves" ; Times: 1
+	Query: "54011 institutioncode:UWBM" ; Times: 1
+	Query: "tachycineta leucorrhoa" ; Times: 1
+	Query: "sylvia melanocephala" ; Times: 1
+	Query: "Todiramphus OR Halcyon OR Todirhamphus Rennell" ; Times: 2
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "101352" ; Times: 2
+	Query: "bombus" ; Times: 2
+	Query: "Zosterops meeki" ; Times: 2
+	Query: "locality:Matagalpa country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "passeriformes spleen" ; Times: 1
+	Query: "Panama Rio azul" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "112728" ; Times: 1
+	Query: "aves spleen" ; Times: 1
+	Query: "numenius arquata" ; Times: 1
+	Query: "Halcyon OR Todiramphus locality:Tutuila" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "catalognumber:116941" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Tonga" ; Times: 2
+	Query: "specificepithet:gustavi genus:anthus country:&#34;philippines&#34;" ; Times: 2
+	Query: "94277" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "UWBM ruficollaris" ; Times: 1
+	Query: "Indicator indicator" ; Times: 2
+	Query: "42543" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 2
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla basisofrecord:PreservedSpecimen hassex:1" ; Times: 2
+	Query: "64731" ; Times: 2
+	Query: "gato" ; Times: 1
+	Query: "pitta anerythra" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "Oenanthe deserti" ; Times: 1
+	Query: "UWBM 67141" ; Times: 2
+	Query: "dendrocopos leucotos" ; Times: 3
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Valle Tumbaco" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "Zosterops palpebrosus" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus" ; Times: 2
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "117361" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "27947" ; Times: 2
+	Query: "sapayoa" ; Times: 1
+	Query: "specificepithet:plateni country:&#34;philippines&#34;" ; Times: 1
+	Query: "family:Anatidae stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Zosterops rendovae uwbm" ; Times: 2
+	Query: "genus:sitta country:&#34;philippines&#34;" ; Times: 1
+	Query: "UWBM 42806" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Rennell" ; Times: 1
+	Query: "UWBM 61357" ; Times: 2
+	Query: "corvus splendens" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "copsychus" ; Times: 1
+	Query: "101571" ; Times: 1
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "UWBM 46944" ; Times: 2
+	Query: "41449" ; Times: 1
+	Query: "87481" ; Times: 1
+	Query: "genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 940 download events in this period)
+Total number of records downloaded: 1935
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 6
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-27 ; Times: 5
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:Aves county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "anthus berthelotii vntype:specimen" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Sitta carolinensis institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "northern cardinal" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "family:Anatidae stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Pachycephala institutioncode:UWBM" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.
