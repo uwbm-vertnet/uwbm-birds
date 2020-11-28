@@ -1,0 +1,281 @@
+Report for Institution Code UWBM, Resource uwbm_birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 308
+Number of records retrieved in searches: 4042
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 42
+	Country: Brazil ; Times: 8
+	Country: Italy ; Times: 2
+	Country: Ireland ; Times: 7
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 27
+	Country: India ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 70
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: United States ; Times: 128
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 8
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-05 ; Times: 15
+	Date: 2020-06-08 ; Times: 20
+	Date: 2020-06-09 ; Times: 20
+	Date: 2020-06-06 ; Times: 7
+	Date: 2020-06-07 ; Times: 4
+	Date: 2020-06-04 ; Times: 22
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 10
+	Date: 2020-06-03 ; Times: 50
+	Date: 2020-06-01 ; Times: 10
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 90
+	Date: 2020-06-11 ; Times: 36
+	Date: 2020-06-12 ; Times: 4
+	Date: 2020-06-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Anas carolinensis" ; Times: 6
+	Query: "Anas acuta" ; Times: 5
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "catalognumber:76813 institutioncode:UWBM" ; Times: 2
+	Query: "100399 aves" ; Times: 1
+	Query: "Spot-billed duck" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "catalognumber:49066 institutioncode:UWBM" ; Times: 2
+	Query: "genus:Atlapetes hastissue:1" ; Times: 1
+	Query: "Hirundapus caudacutus" ; Times: 1
+	Query: "Pelecanus occidentalis hasmass:1" ; Times: 1
+	Query: "Bald Eagle" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "sharp-tailed grouse" ; Times: 1
+	Query: "Cygnus buccinator hasmass:1" ; Times: 1
+	Query: "Pelecanus erythrorhynchos mass OR weight" ; Times: 2
+	Query: "Cairina moschata" ; Times: 3
+	Query: "Tyto alba hasmass:1" ; Times: 1
+	Query: "Laysan albatross" ; Times: 2
+	Query: "catalognumber:72137 institutioncode:UWBM" ; Times: 3
+	Query: "catalognumber:79658 institutioncode:UWBM" ; Times: 2
+	Query: "82441" ; Times: 1
+	Query: "Larus marinus hasmass:1" ; Times: 1
+	Query: "Red-winged blackbirds" ; Times: 1
+	Query: "elf owl" ; Times: 5
+	Query: "bald eagle" ; Times: 2
+	Query: "specificepithet:ardens genus:Euplectes hastissue:1" ; Times: 2
+	Query: "specificepithet:douglasii order:galliformes" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "country:&#34;Philippines&#34; year &gt;= 1800 year &lt;= 1880" ; Times: 1
+	Query: "Haliaeetus leucocephalus hasmass:1" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:72106 institutioncode:UWBM" ; Times: 2
+	Query: "eastern wood pewee" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 8
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "pycnonotus" ; Times: 1
+	Query: "Haliaeetus leucocephalus mass OR weight" ; Times: 2
+	Query: "100499 aves" ; Times: 1
+	Query: "21.7.1.9" ; Times: 1
+	Query: "catalognumber:78852 institutioncode:UWBM" ; Times: 2
+	Query: "Argentina talpacoti" ; Times: 1
+	Query: "hirundo tahitica" ; Times: 1
+	Query: "Laysan Duck" ; Times: 1
+	Query: "Ardea alba hasmass:1" ; Times: 1
+	Query: "Anas crecca" ; Times: 6
+	Query: "Hemithraupis guira" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34; hastissue:1" ; Times: 2
+	Query: "genus:Pitangus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:72108 institutioncode:UWBM" ; Times: 3
+	Query: "california scrub jay" ; Times: 2
+	Query: "canadensis Texas" ; Times: 1
+	Query: "Muscovy Duck" ; Times: 1
+	Query: "Cygnus buccinator mass OR weight" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "catalognumber:76808 institutioncode:UWBM" ; Times: 2
+	Query: "White-cheeked Pintail" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus stateprovince:&#34;Nayarit&#34;" ; Times: 1
+	Query: "Aquila chrysaetos hasmass:1" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Larus californicus hasmass:1" ; Times: 1
+	Query: "Spotted owl" ; Times: 1
+	Query: "100499" ; Times: 1
+	Query: "Phalacrocorax penicillatus mass OR weight" ; Times: 2
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Accipiter gentilis hasmass:1" ; Times: 1
+	Query: "columbina talpacoti" ; Times: 1
+	Query: "Anas platyrhynchos mass OR weight" ; Times: 2
+	Query: "Pacific Black Duck" ; Times: 2
+	Query: "Anas americana" ; Times: 5
+	Query: "catalognumber:78604 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:79495 institutioncode:UWBM" ; Times: 2
+	Query: "Haematopus palliatus hasmass:1" ; Times: 1
+	Query: "spotted owl" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 3
+	Query: "(murrelet)" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "year &gt;= 2010 year &lt;= 2020 Red tail hawk" ; Times: 1
+	Query: "Tenasserim" ; Times: 1
+	Query: "catalognumber:72517 institutioncode:UWBM" ; Times: 1
+	Query: "TJH" ; Times: 2
+	Query: "specificepithet:cinctus order:galliformes" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus country:&#34;guatemala&#34;" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "catalognumber:76799 institutioncode:UWBM" ; Times: 2
+	Query: "93995" ; Times: 1
+	Query: "Bobolink nest" ; Times: 2
+	Query: "Anas strepera" ; Times: 6
+	Query: "Branta canadensis mass OR weight" ; Times: 2
+	Query: "vultur gryphus" ; Times: 2
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "family:Spheniscidae preparations:wing" ; Times: 1
+	Query: "specificepithet:ocellata order:galliformes" ; Times: 1
+	Query: "scrub jay" ; Times: 2
+	Query: "Meadowlark nest" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Falco sparverius hasmass:1" ; Times: 1
+	Query: "Anas penelope" ; Times: 6
+	Query: "Yellow-billed Duck" ; Times: 2
+	Query: "catalognumber:78606 institutioncode:UWBM" ; Times: 2
+	Query: "Anas platyrhynchos hasmass:1" ; Times: 1
+	Query: "specificepithet:meleagris order:galliformes" ; Times: 1
+	Query: "catalognumber:76811 institutioncode:UWBM" ; Times: 2
+	Query: "Ara macao" ; Times: 2
+	Query: "Synthliboramphus Murrelet" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "Anas falcata" ; Times: 6
+	Query: "Chlorothraupis olivacea" ; Times: 1
+	Query: "(Red-winged blackbird) hastissue:1" ; Times: 3
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "Aquila chrysaetos mass OR weight" ; Times: 2
+	Query: "Sterna hirundo hasmass:1" ; Times: 1
+	Query: "Aythya novaeseelandiae" ; Times: 2
+	Query: "Pelecanus erythrorhynchos hasmass:1" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Larus delawarensis hasmass:1" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "recordedby:W.w. wood" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Icterus stateprovince:&#34;Campeche&#34;" ; Times: 1
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "Pelecanus occidentalis mass OR weight" ; Times: 2
+	Query: "Aythya novaeseelandiae vntype:specimen hastissue:1" ; Times: 1
+	Query: "Phalacrocorax auritus mass OR weight" ; Times: 2
+	Query: "African Black Duck" ; Times: 1
+	Query: "catalognumber:73810 institutioncode:UWBM" ; Times: 2
+	Query: "Accipiter gentilis mass OR weight" ; Times: 2
+	Query: "common nighthawk" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Quiscalus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Icteria virens longicauda" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Anas formosa" ; Times: 6
+	Query: "Buteo jamaicensis hasmass:1" ; Times: 1
+	Query: "catalognumber:78139 institutioncode:UWBM" ; Times: 2
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "Phoebastria nigripes hasmass:1" ; Times: 1
+	Query: "catalognumber:75217 institutioncode:UWBM" ; Times: 2
+	Query: "66075 UWBM" ; Times: 2
+	Query: "Phalacrocorax auritus hasmass:1" ; Times: 1
+	Query: "21.7.1.9." ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 2
+	Query: "Merops bullockoides hastissue:1" ; Times: 3
+	Query: "catalognumber:76697 institutioncode:UWBM" ; Times: 2
+	Query: "Phoebastria nigripes mass OR weight" ; Times: 2
+	Query: "passer simplex" ; Times: 2
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "UWBM 57510" ; Times: 2
+	Query: "catalognumber:78001 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "Bubo coromandus" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "Mergus merganser" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 12
+	Query: "specificepithet:cinctus genus:Rhynchortyx" ; Times: 4
+	Query: "Accipiter cooperii hasmass:1" ; Times: 1
+	Query: "Anas clypeata" ; Times: 6
+	Query: "Black Rail" ; Times: 1
+	Query: "steelhead" ; Times: 1
+	Query: "genus:Glaucidium preparations:Skeleton basisofrecord:PreservedSpecimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 474 download events in this period)
+Total number of records downloaded: 2218
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-10 ; Times: 22
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "california scrub jay" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "elf owl" ; Times: 3
+	Query: "Tersina viridis" ; Times: 1
+	Query: "scrub jay" ; Times: 2
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:douglasii order:galliformes" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:cinctus genus:Rhynchortyx" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "year &gt;= 2010 year &lt;= 2020 Red tail hawk" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
